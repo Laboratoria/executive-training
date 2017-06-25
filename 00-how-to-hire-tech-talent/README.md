@@ -37,11 +37,9 @@ extraído del curso de [paradigmas de programación](https://github.com/Laborato
 
 ## Detalles logísticos
 
-Cuántas horas `self-paced` y cuántas horas `presenciales` estimas?
-
-* Self-paced: x hrs
-* Presencial: y hrs
-* Total horas: z
+* Self-paced: 3 hrs
+* Presencial: 6 hrs
+* Total horas: 9
 
 ## Producto
 
@@ -53,13 +51,12 @@ así como entregables y método de evaluación.
 
 ## Autor(es) / Colaboradores
 
-* Tu nombre
-* Otros colaboradores?
+* Herman Marin
+* Claudia Alfaro
 
 ## Libros (mínimo 3)
 
-Cada curso debe de estar acompañado de una lista detallada de libros
-relacionados con los temas tratados en el curso.
+- [The future of Work by Jacob Morgan](https://www.amazon.com/Future-Work-Attract-Competitive-Organization/dp/1118877241/ref=la_B00703V3WO_1_2?s=books&ie=UTF8&qid=1394472808&sr=1-2):
 
 ## Benchmarks
 

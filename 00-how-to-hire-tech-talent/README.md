@@ -1,4 +1,4 @@
-# 01. HOW TO HIRE TECH TALENT
+# 01. How to hire tech talent
 
 La manera en que las empresas hacen negocios se ha transformado radicalmente en la era digital. Hoy es posible reconocer cinco tendencias que hacen que las empresas puedan seguir compitiendo en un mundo que avanza aceleradamente. Estas tendencias son:
  - Nuevos comportamientos
@@ -20,20 +20,21 @@ No se necesitan conocimientos previos para tomar este workshop a más de estar e
 
 ## Aprenderás
 
-En esta sección debes listar los objetivos de aprendizaje. Por ejemplo,
-extraído del curso de [paradigmas de programación](https://github.com/Laboratoria/curricula-js/tree/master/09-paradigms):
+En este workshop exploraremos los siguientes temas:
 
-* Qué son los **paradigmas de programación**
-* Qué son **FP**, **OOP**, **EOP** y **PP** y cómo se comparan
-* A entender las diferencias y entre el estilo **imperativo vs declarativo**
-* Las diferencias entre **constructores** y **factories**
-* Cómo implementar **herencia prototipal**
-* Los principios básicos de la **programación funcional**
-* A usar **composición** como alternativa la _herencia_
-* A **trabajar sobre una base de código existente**
-* A trabajar haciendo **pair programming**
-* A sacarle el jugo a git y GitHub usando **issues**, **milestones**,
-  **branches**, **forks** y **pull requests**
+### Día 1
+- Tendencias que están formando al mundo
+- El colaborador y sus siete principios
+- El manager y sus diez principios
+- Las organizaciones del futuro y sus catorce principios
+- La tecnología como el sistema nervioso central
+- Como adaptarnos al futuro
+
+### Día 2
+- Cómo entrevistar a un develoepr
+- Herramientas de reclutamiento
+- Reclutando equipos (identifica quién necesitas)
+- A Method como metodología de reclutamiento*
 
 ## Detalles logísticos
 

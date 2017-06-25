@@ -42,18 +42,12 @@ En este workshop exploraremos los siguientes temas:
 * Presencial: 6 hrs
 * Total horas: 9
 
-## Producto
-
-Toda propuesta de curso debe de estar acompañada de un producto o proyecto a
-desarrollar durante el curso, junto con la metodología de trabajo propuesta
-así como entregables y método de evaluación.
-
 ***
 
 ## Autor(es) / Colaboradores
 
-* Herman Marin
-* Claudia Alfaro
+* [Herman Marin](https://www.linkedin.com/in/herman-marin/):
+* [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/):
 
 ## Libros (mínimo 3)
 

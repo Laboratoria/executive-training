@@ -1,26 +1,22 @@
-# XX. Título del curso
+# 01. HOW TO HIRE TECH TALENT
 
-Dos o tres párrafos explicando el curso en líneas generales. Introducción al
-tema central y su importancia para un desarrollador full stack.
-
-Mencionar qué se hará en el curso a nivel de proyecto(s) o producto(s), los
-temas principales, metodología y enfoque de la experiencia.
-
-Requerimientos de la intro:
-
-- Cuál es el tema en un tweet
-- Dónde encaja dentro del mundo profesional y en la historia del software
-- Por qué es relevante aprender esto
-- Abstract del curso
-- Tags
+La manera en que las empresas hacen negocios se ha transformado radicalmente en la era digital. Hoy es posible reconocer cinco tendencias que hacen que las empresas puedan seguir compitiendo en un mundo que avanza aceleradamente. Estas tendencias son:
+ - Nuevos comportamientos
+ - Tecnología
+ - Millenials
+ - Mobilidad
+ - Globalización  
+ 
+El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlas a los procesos de identificación de talento que hoy tiene las empresas. 
+Nuestro objetivo es lograr que los equipos que reclutar talento comprendan cuales son las habilidades del futuro para tener una fuerza laboral que lleve al negocio a ser líder en su rubro aprovechando los beneficios de la era digital.
 
 ## Público objetivo
 
-Para quién es este curso?
+C-Suite, Recursos Humanos y Product Owners
 
 ## Requerimientos previos
 
-Qué conocimientos previos se necesitan?
+No se necesitan conocimientos previos para tomar este workshop a más de estar en una posición relacionada a interactuar con identificación de talento para una empresa.
 
 ## Aprenderás
 

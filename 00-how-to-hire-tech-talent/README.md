@@ -6,8 +6,8 @@ La manera en que las empresas hacen negocios se ha transformado radicalmente en 
  - Millenials
  - Mobilidad
  - Globalización  
- 
-El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlas a los procesos de identificación de talento que hoy tiene las empresas. 
+
+El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlas a los procesos de identificación de talento que hoy tiene las empresas.
 Nuestro objetivo es lograr que los equipos que reclutar talento comprendan cuales son las habilidades del futuro para tener una fuerza laboral que lleve al negocio a ser líder en su rubro aprovechando los beneficios de la era digital.
 
 ## Público objetivo
@@ -16,7 +16,7 @@ C-Suite, Recursos Humanos y Product Owners
 
 ## Requerimientos previos
 
-No se necesitan conocimientos previos para tomar este workshop a más de estar en una posición relacionada a interactuar con identificación de talento para una empresa.
+No se necesitan conocimientos previos para tomar este workshop, solo estar en una posición relacionada a interactuar con identificación de talento para una empresa.
 
 ## Aprenderás
 

@@ -23,7 +23,7 @@ No se necesitan conocimientos previos para tomar este workshop a más de estar e
 En este workshop exploraremos los siguientes temas:
 
 ### Día 1
-- Tendencias que están formando al mundo
+- Tendencias que están cambiando al mundo
 - El colaborador y sus siete principios
 - El manager y sus diez principios
 - Las organizaciones del futuro y sus catorce principios
@@ -61,3 +61,24 @@ Incluir una lista de cursos similares que sirvan como referencia.
 
 Incluir una lista de _capítulos de libros_, _blog posts_, _videos_, y otros
 recursos como links a wikipedia, documentación, ...
+
+***
+
+## Syllabus
+
+### Tendencias que están cambiando al Mundo
+
+Exploraremos las 5 tendencias que están haciendo que el mundo cambie radicalmente. 
+Estas tendencias son:
+- Nuevos comportamientos
+- El desarrollo de nueva tecnología 
+- Los milenials en la fuerza laboral
+- La mobilidad
+- La globalización
+
+###
+
+
+
+
+

@@ -66,17 +66,15 @@ recursos como links a wikipedia, documentación, ...
 
 ## Syllabus
 
-### Tendencias que están cambiando al Mundo
+### Sección 1: [Tendencias que están cambiando al Mundo](01-tendencias-que-estan-cambiando-al-mundo):
 
 Exploraremos las 5 tendencias que están haciendo que el mundo cambie radicalmente. 
-Estas tendencias son:
 - Nuevos comportamientos
 - El desarrollo de nueva tecnología 
 - Los milenials en la fuerza laboral
 - La mobilidad
 - La globalización
 
-###
 
 
 

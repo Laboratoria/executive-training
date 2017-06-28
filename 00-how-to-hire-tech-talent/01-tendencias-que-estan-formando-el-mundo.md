@@ -29,16 +29,16 @@ Profundicemos en alguno de estos conceptos para tener una mirada más clara de e
 
 ### Plataformas colaborativas
 Estas plataformas nos están conectando de una manera que nunca habíamos experimentado en el trabajo. De hecho el diseño de estas experiencias parten de la interacción que tenemos con estas plataformas en nuestra vida personal. En el mercado podemos ver una gama muy amplia de como estas tecnologías se están usando en diferentes áreas de una empresa:
-.. - Introducción de nuevos empleados
-.. - Toma de notas y reuniones
-.. - Mantenerse al tanto de los procesos
-.. - Encontrar a expertos
-.. - Acceder a información en tiempo real
-.. - Brainstorming de ideas y desarrollo de productos
-.. - Alineamiento organizacional
-.. - Etc
+- Introducción de nuevos empleados
+- Toma de notas y reuniones
+- Mantenerse al tanto de los procesos
+- Encontrar a expertos
+- Acceder a información en tiempo real
+- Brainstorming de ideas y desarrollo de productos
+- Alineamiento organizacional
+- Etc
 
-En conlusión estas plataformas colaborativas le dan al individuo el poder de conectarse y acceder a información en cualquier momento, desde cualquier lugar en cualquier dispositivo.
+En conclusión estas plataformas colaborativas le dan al individuo el poder de conectarse y acceder a información en cualquier momento, desde cualquier lugar en cualquier dispositivo.
  
 ### Big Data 
 En base a un estudio de la IDC Digital Universe Study llamado "Extracting Value From Chaos" en el 2011 se produjeron más de 1.8 zettabytes de data. Esto es equivalente a construir la gran muralla china usando 57.5 billones de iPads de 32 GB llenos.
@@ -49,20 +49,20 @@ La data puede ayudar a tener un mejor entendimiento de las necesidades de  la fu
 
 Knack es una compañía de Silicon Valley que usa juegos para identificar potencial en las personas. 
 
-####Video
+#### Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DQQm92xPOKk" target="_blank"><img src="http://img.youtube.com/vi/DQQm92xPOKk/0.jpg" alt="Knack" width="240" height="180" border="10" /></a>
 [Website](https://www.knack.it/)
 
 *Este juego le permite a las empresas quitarse el bias del background de las personas y enfocarse en el corazón de su potencial tomando una decisión más objetiva en el reclutamiento de talento.*
 
-###The Internet of Things
+### The Internet of Things
 Hoy en día en el Internet aun se depende mucho de la gente para poder recopilar datos, pero que tal si los dispositivos que usamos podrían hacerlo por nosotros? Esto nos permitiría seguir, contar, y analizar todo lo que queramos.
 
 Para el 2020 **Gartner** predice que habrán 26 billones de unidades que tendran el potencial de ser conectadas a "THE INTERNET OF THINGS". Esto no incluyo PC, tabletas o smart phones.
 
 FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin que sus colaboradores lo tengan que hacer. 
 
-####Video
+#### Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vZmFxA6GIvU" target="_blank"><img src="http://img.youtube.com/vi/vZmFxA6GIvU/0.jpg" alt="#Fedex Sense Aware" width="240" height="180" border="10" /></a>
 [Artículo](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)
  
@@ -70,4 +70,3 @@ FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin 
 
 
 ## Los Milenials
-- 

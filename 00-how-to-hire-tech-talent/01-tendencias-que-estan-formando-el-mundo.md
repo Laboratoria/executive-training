@@ -51,6 +51,7 @@ Knack es una compañía de Silicon Valley que usa juegos para identificar potenc
 
 #### Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DQQm92xPOKk" target="_blank"><img src="http://img.youtube.com/vi/DQQm92xPOKk/0.jpg" alt="Knack" width="240" height="180" border="10" /></a>
+
 [Website](https://www.knack.it/)
 
 *Este juego le permite a las empresas quitarse el bias del background de las personas y enfocarse en el corazón de su potencial tomando una decisión más objetiva en el reclutamiento de talento.*
@@ -64,6 +65,7 @@ FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin 
 
 #### Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vZmFxA6GIvU" target="_blank"><img src="http://img.youtube.com/vi/vZmFxA6GIvU/0.jpg" alt="#Fedex Sense Aware" width="240" height="180" border="10" /></a>
+
 [Artículo](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)
  
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.

@@ -71,7 +71,7 @@ Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie ra
 - La globalización
 - ¿Qué es diferente esta vez?
 
-### Lección 2: [El colaborador y sus siete principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)
+### Lección 2: [El colaborador y sus siete principios](https://github.com/Laboratoria/executive-training/00-how-to-hire-tech-talent/02-el-colaborador-y-sus-siete-principios.md)
 Cuales son las caracteristicas que deben tener los colaboradores del futuro.
 - El colaborador tradicional
 - Colaboradores comprometidos

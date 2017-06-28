@@ -6,6 +6,7 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 - Los Milenials en la fuerza laboral 
 - La mobilidad
 - La globalización
+- ¿Qué es diferente esta vez?
 
 ***
 
@@ -81,8 +82,14 @@ Esta generación está totalmente ligada a los smart phones, y si una empresa no
 ## Globalización
 Es la posibilidad de hacer negocios en cualquier parte del mundo sin cruzar fronteras ha cambiado el perfil de las personas con las que trabajamos. El talento ya no necesita ser local. Las nuevas organizaciones tienen la posibilidad de tener equipos internacionales que les permiten tener presencia en cualquier parte del mundo.
 
-## Conclusión
-Hay 3 razones por las cuales los cambios que vemos hoy son particularmente únicos:
-1. La velocidad del cambio ha aumentado
-2. El mundo está conectado
-3. Todo está abierto a la disrupción
+## ¿Qué es diferente esta vez?
+Hay tres razones por las cuales los cambios que vemos hoy son particularmente únicos:
+
+###La velocidad del cambio ha aumentado
+En el transcurso de la historia las empresas han tenido la habilidad de adoptar cambios de una manera pasiva. Hoy el no adaptarse a los cambios significa estar "FUERA DEL NEGOCIO".
+
+###El mundo está conectado
+El Internet ha traído consigo la capacidad de estar 100% conectados haciendo que el mundo se sienta más pequeño.
+
+###Todo está abierto a la disrupción
+

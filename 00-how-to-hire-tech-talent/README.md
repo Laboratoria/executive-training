@@ -63,21 +63,21 @@ recursos como links a wikipedia, documentación, ...
 
 ### Lección 1: [Tendencias que están cambiando al Mundo](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)
 
-Exploraremos las 5 tendencias que están haciendo que el mundo cambie radicalmente. 
+Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie radicalmente. 
 - Nuevos comportamientos
 - El desarrollo de nueva tecnología 
 - Los Milenials en la fuerza laboral
 - La mobilidad
 - La globalización
+- ¿Qué es diferente esta vez?
 
 ### Lección 2: [El colaborador y sus siete principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)
+Cuales son las caracteristicas que deben tener los colaboradores del futuro.
+- El colaborador tradicional
+- Colaboradores comprometidos
 
-Exploraremos las 5 tendencias que están haciendo que el mundo cambie radicalmente. 
-- Nuevos comportamientos
-- El desarrollo de nueva tecnología 
-- Los Milenials en la fuerza laboral
-- La mobilidad
-- La globalización
+
+
 
 
 

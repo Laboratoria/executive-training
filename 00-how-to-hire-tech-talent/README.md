@@ -66,7 +66,7 @@ recursos como links a wikipedia, documentación, ...
 
 ## Syllabus
 
-### Sección 1: [Tendencias que están cambiando al Mundo](01-tendencias-que-estan-cambiando-al-mundo)
+### Sección 1: [Tendencias que están cambiando al Mundo](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)
 
 Exploraremos las 5 tendencias que están haciendo que el mundo cambie radicalmente. 
 - Nuevos comportamientos

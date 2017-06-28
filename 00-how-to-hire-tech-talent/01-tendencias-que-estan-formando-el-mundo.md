@@ -74,3 +74,15 @@ FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin 
 
 
 ## Los Milenials
+Se espera que los Milenials sean el 50% de la fuerza laboral en los Estados Unidos para el 2020. Para el 2025 se espera que estos sean el 75% de la fuerza laboral. Esta comunidad trae consigo una visión diferente de como trabajar, nuevas expectativas, nuevos valores, y un enfoque diferente de como atacar los problemas en el trabajo. Esta generación cuestiona el valor de la universidades, ya que su interés está ligado a sus habilidades de aprender y enseñar a su propio ritmo.
+
+Esta generación está totalmente ligada a los smart phones, y si una empresa no tiene este canal para comunicarse, entonces tendrán a un trabajador en un ambiente extraño que no podrá aprovechar el trabajo. Los Milenials están acostumbrados a estar en constante contacto entre ellos. Ellos viven una vida más abierta y pública por lo que esperan que estas dinámicas se aplique en su vida profesional.
+
+## Globalización
+Es la posibilidad de hacer negocios en cualquier parte del mundo sin cruzar fronteras ha cambiado el perfil de las personas con las que trabajamos. El talento ya no necesita ser local. Las nuevas organizaciones tienen la posibilidad de tener equipos internacionales que les permiten tener presencia en cualquier parte del mundo.
+
+## Conclusión
+Hay 3 razones por las cuales los cambios que vemos hoy son particularmente únicos:
+1. La velocidad del cambio ha aumentado
+2. El mundo está conectado
+3. Todo está abierto a la disrupción

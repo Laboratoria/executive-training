@@ -18,5 +18,21 @@ Finalmente en el 2013 un meta-análisis hecho con 58 estudios independientes fue
 
 La principal razón por la cual hay altos niveles de insatisfacción en el trabajo alrededor del mundo es por el hueco que existe en como las empresas piensan en que significa para ellos el trabajo y la velocidad en la que el trabajo cambia. En otras palabras las practicas, actitudes, valores, estrategia, tecnología, y maneras de trabajar están evolucionando y cambiando a una gran velocidad, mientras las organizaciones se mantienen en un status-quo. Esto ocurre porque las expectativas, las necesidades y los requerimientos del empleador no se alcanzan. Como resultado se convierten en colaboradores que solo van a cobrar su cheque pero que no aportan al crecimiento de la compañía.
 
+## Cinco generaciones juntas
+Por primera vez en la historia de la industria tenemos a cinco generaciones de empleados trabajando una al lado de otra.
+1. Traditionalists --Born before 1946
+2. Boomers --Born between 1946 and 1964
+3. Gen X --Born between 1965 and 1976
+4. Millennials  --Born between 1977 and 1997
+5. Generation Z --Born after 1997
+
+En pocos años los "Millennials" y "Generation Z" serán la mayoría de la fuerza laboral en la industria. Para el 2020 se espera que los "Millennials" serán el 75% de la fuerza laboral. Esto no es solo un cambio generacional en como se compone la fuerza laboral de la industria, esto también impactará en como los colaboradores trabajan, como los gerentes lideran, y como la compañía está estructurada y corre.
+
+El US Human Effectiveness Report dice que el 63.3% de los ejecutivos en USA estarán listos para retirarse en los próximos 5 años, y 33% estarán listos para retirarse. EY encontró que en los próximos 5 años 87% de trabajadores "Millennials" trabajarán como gerentes, versus 38% de "Generation X", y solo 19% de los "Boomers".
+
+El trabajador del futuro no solo será un colaborador más joven , será una persona con actitud ante el trabajo, con otro estilo para trabajar. Esto significa que las empresas deberán pensar en un modelo cultural y de estructura organización que le permita a la generación de trabajadores jóvenes lograr su mayor potencial.
+ 
+
+
 
  

@@ -72,9 +72,14 @@ Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie ra
 - ¿Qué es diferente esta vez?
 
 ### Lección 2: [El colaborador y sus siete principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/02-el-colaborador-y-sus-siete-principios.md)
-Cuales son las caracteristicas que deben tener los colaboradores del futuro.
+Cuales son las características que deben tener los colaboradores del futuro.
 - El colaborador tradicional
 - Colaboradores comprometidos
+- Cinco generaciones se juntan
+
+### Lección 3: [Siete principios del trabajador del futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/03-siete-principios-del-trabajador-del-futuro.md)
+
+
 
 
 

@@ -19,7 +19,7 @@ En este workshop exploraremos los siguientes temas:
 
 ### Día 1
 - Tendencias que están cambiando al mundo
-- El colaborador y sus siete principios
+- Entendiendo al colaborador
 - El manager y sus diez principios
 - Las organizaciones del futuro y sus catorce principios
 - La tecnología como el sistema nervioso central
@@ -71,7 +71,7 @@ Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie ra
 - La globalización
 - ¿Qué es diferente esta vez?
 
-### Lección 2: [El colaborador y sus siete principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/02-el-colaborador-y-sus-siete-principios.md)
+### Lección 2: [Entendiendo al colaborador](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/02-el-colaborador-y-sus-siete-principios.md)
 Cuales son las características que deben tener los colaboradores del futuro.
 - El colaborador tradicional
 - Colaboradores comprometidos

@@ -17,7 +17,7 @@ No se necesitan conocimientos previos para tomar este workshop, solo estar en un
 
 En este workshop exploraremos los siguientes temas:
 
-### Día 1
+### Presencial
 - Tendencias que están cambiando al mundo
 - Entendiendo al colaborador
 - El manager y sus diez principios
@@ -25,17 +25,16 @@ En este workshop exploraremos los siguientes temas:
 - La tecnología como el sistema nervioso central
 - Como adaptarnos al futuro
 
-### Día 2
-- Cómo entrevistar a un developer
+### Online
 - Herramientas de reclutamiento
 - Reclutando equipos (identifica quién necesitas)
 - A Method como metodología de reclutamiento*
 
 ## Detalles logísticos
 
-* Self-paced: 3 hrs
-* Presencial: 6 hrs
-* Total horas: 9
+* Online: 1 hrs
+* Presencial: 3 hrs
+* Total horas: 4 hrs
 
 ***
 

@@ -17,7 +17,7 @@ En el caso de los gerentes estos deberán enfocarse en darle importancia a la ca
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ur97vSz_nyM" target="_blank"><img src="http://img.youtube.com/vi/Ur97vSz_nyM/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
 
 #### La flexibilidad como una manera de atraer y mantener al mejor talento
-En un estudio hecho por Chess Media Group en Mayo del 2013 "[The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/):" mostró que el 90% de los trabajadores encuestados sienten que un trabajo que tiene flexibilidad es más atractivo para prospectos.
+En un estudio hecho por Chess Media Group en Mayo del 2013 "The Future of Work Reshaping the Workplace Today Building for Tomorrow" mostró que el 90% de los trabajadores encuestados sienten que un trabajo que tiene flexibilidad es más atractivo para prospectos.
 
 Este tipo de estadísticas nos podrían hacer creen que estás condiciones solo funcionan para la fuerza laboral más joven, ósea los "Millennials". MomCorps (encuestó a 1,100 trabajadores adultos en Julio del 2013):
 - 45% de ellos está de acuerdo en tener una reducción de su sueldo de hasta el 9% si tiene un ambiente de trabajo más flexible.

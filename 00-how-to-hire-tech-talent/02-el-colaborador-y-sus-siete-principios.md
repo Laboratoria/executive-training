@@ -1,6 +1,3 @@
-# El colaborador y sus siete principios
-Los colaboradores de una empresa son gente competente, capaz, inteligente, y creativa. Lamentablemente las estructuras organizacionales de las empresas tradicionales no han sido capaces de aprovechar correctamente estas capacidades que existen en su fuerza laboral. En la mayoría de las compañías la forma de trabajar es dictada únicamente por los líderes de la empresa, y son ellos quienes crean las normas y reglas de trabajo.
-
 ## Entendiendo al colaborador
 Los colaboradores suele no tener voz ni voto sobre las desiciones de una empresa. Todos llegan a trabajar a la misma hora, usan ropa muy parecida, hacen tareas muy similares, y le reportan a gente parecida. Trabajan en cubiculos que se ven iguales, almuerzan en horarios parecidos y trabajan en perpetua homogeneidad, que de paso es la forma más fácil para matar la innovación.
 No tienen la oportunidad de crear vínculos entre ellos, y menos aun de desarrollar comunidades. No están empoderados para hacer preguntas y no usan tecnología que les permite tener mejores vínculos sociales.

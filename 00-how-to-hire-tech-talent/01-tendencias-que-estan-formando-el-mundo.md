@@ -68,8 +68,6 @@ Para el 2020 **Gartner** predice que habrán 26 billones de unidades que tendran
 FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin que sus colaboradores lo tengan que hacer. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vZmFxA6GIvU" target="_blank"><img src="http://img.youtube.com/vi/vZmFxA6GIvU/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
-
-*[Artículo](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)*
  
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.
 

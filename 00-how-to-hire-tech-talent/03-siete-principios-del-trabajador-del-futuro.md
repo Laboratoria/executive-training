@@ -14,6 +14,8 @@ En el caso de los gerentes estos deberán enfocarse en darle importancia a la ca
 - Unilever tiene una fuerza laboral de 175,000 trabajadores de los cuales 100,000 trabajan remoto. 
 - Entre los resultados están 30% de espacios físicos mejor aprovechados. 60% en reducción de energía. 37,000 vuelos ahorrados para juntar personal. $40M ahorrados. 80% de su fuerza laboral siente que aumento su productividad.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ur97vSz_nyM" target="_blank"><img src="http://img.youtube.com/vi/Ur97vSz_nyM/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
+
 #### La flexibilidad como una manera de atraer y mantener al mejor talento
 En un estudio hecho por Chess Media Group en Mayo del 2013 "[The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/):" mostró que el 90% de los trabajadores encuestados sienten que un trabajo que tiene flexibilidad es más atractivo para prospectos.
 

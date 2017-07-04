@@ -11,13 +11,9 @@ Los trabajadores del futuro ya no necesitan estar en una oficina de la empresa p
 Para los gerentes esto tiene un impacto radical en la manera de operar, ya que ya no podrán acceder de manera física a supervisar a sus trabajadores. Esto los empujará a cambiar su manera de comunicarse y adaptarse a las nuevas tecnologías para hacerlo. Además la confianza será un factor fundamental en la relación laboral.
 
 ##### Caso [Unilever](https://www.unilever.com/) 
-
-**Contexto de la empresa**
 - Tienen un volumen de negocio de $46B, con ventas en más de 170 países. 
 - Sus productos están en el 50% de los hogares del mundo, con +2B de consumidores. 
 - Unilever tiene una fuerza laboral de 175,000 trabajadores de los cuales 100,000 trabajan remoto. 
-
-**Logros**
 - El no depender de un espacio físico para trabajar ha logrado que el 30% de espacios físicos de sus dependencias estén mejor aprovechados. 
 - Han logrado alcanzar un 60% en reducción de energía.
 - Se ahorran al rededor de 37,000 vuelos para juntar personal.
@@ -56,7 +52,7 @@ El trabajador del futuro ya no espera crear una carrera de por vida en una empre
 
 Este concepto parte de la industria de Freelancers en donde las personas tienen la capacidad de decidir en que proyectos trabajar.
 
-### Caso [Valve](http://www.valvesoftware.com/) 
+###### Caso [Valve](http://www.valvesoftware.com/) 
 - Compañía de video juegos que tiene 400 empleados y factura más de $4B al año. 
 - Valve es una empresa que no tiene gerentes. 
 - Sus trabajadores tienen la flexibilidad de trabajar en los proyectos de la compañía que más les llamen la atención.

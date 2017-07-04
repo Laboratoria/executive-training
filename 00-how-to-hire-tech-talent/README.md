@@ -20,6 +20,7 @@ En este workshop exploraremos los siguientes temas:
 ### Presencial
 - Tendencias que están cambiando al mundo
 - Entendiendo al colaborador
+- Siete principios del trabajador del futuro
 - El manager y sus diez principios
 - Las organizaciones del futuro y sus catorce principios
 - La tecnología como el sistema nervioso central

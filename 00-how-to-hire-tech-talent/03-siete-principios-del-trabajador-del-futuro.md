@@ -66,9 +66,6 @@ Este trabajo no es para todo el mundo ya que hay personas que no pueden adaptars
 > Deciding what to work on can be the hardest part of your job at Valve. This is because, as you've found out by now, you were not hired to fill a specific job description. You were hired to constantly be looking around for the most valuable work you could be doing. At the end of a project, you may end up well outside what you thought was your core area of expertise.
 
 
-
-
-
 ### 3. Compartir información de manera transparente en tiempo real.
 ### 4. Tener la oportunidad de ser líderes sin llegar a ser gerentes.
 ### 5. Contar con nuevas formas de colaborar y comunicarse.

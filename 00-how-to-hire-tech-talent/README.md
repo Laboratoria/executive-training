@@ -60,6 +60,8 @@ En este workshop exploraremos los siguientes temas:
 - [Remote Working: Who's Right?](https://www.forbes.com/sites/edwardlawler/2013/05/15/remote-working-whos-right/#36e736173a79)
 - [AGILE WORKING DRIVING A CULTURAL TRANSFORMATION AT UNILEVER](http://www.unwired.eu.com/WT12/asia/_pdfs/WORKTECH12Asia-Unilever.pdf)
 - [The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/)
+- [Employees Prefer Flexibility over Salary Increases](https://www.recruiter.com/i/employees-prefer-flexibility-over-salary-increases/)
+- [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
 ## Benchmarks
 

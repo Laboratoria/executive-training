@@ -61,9 +61,30 @@ Este trabajo no es para todo el mundo ya que hay personas que no pueden adaptars
 
 > Deciding what to work on can be the hardest part of your job at Valve. This is because, as you've found out by now, you were not hired to fill a specific job description. You were hired to constantly be looking around for the most valuable work you could be doing. At the end of a project, you may end up well outside what you thought was your core area of expertise.
 
-
 ### 3. Compartir información de manera transparente en tiempo real.
-### 4. Tener la oportunidad de ser líderes sin llegar a ser gerentes.
+En las empresas del futuro "Conocimiento es poder". Esto no solo ocurre a un nivel institucional, sino también al nivel de los colaboradores. Los trabajadores del futuro son personas convencidas que el poder y el éxito dependen de la capacidad que tienen para compartir su conocimiento. El colaborador que comparta sus ideas a través de tecnologías colaborativas, y medios sociales serán los elegidos para triunfar y crecer en su carrera. Ellos serán los líderes del futuro.
+
+Compartir conocimiento tiene grandes ventajas como archivar la información y hacerla disponible para que otros la busquen. Además las nuevas tecnologías están logrando que podamos relacionarnos mejor con gente que comparta nuestros pensamientos, lo que resulta en generar mayores oportunidades para desarrollar confianza entre nosotros.
+Las personas capaces de compartir información también serán reconocidos como líderes por las personas que piensan que su criterio es relevante, y esto los ayudará a desarrollar redes fuertes y comprometidas.
+
+En los trabajadores del futuro el liderazgo ya no está reservado únicamente para los que están en la parte alta de la pirámide, sino quienes logren desarrollar comunidades activas entorno a sus ideas compartidas a través tecnologías colaborativas y medios sociales. En conclusión la mejor forma de convertirse en un líder es compartiendo información relevante que logre que otros te siguan porque confían en tu criterio.
+
+### 4. Usar nuevas formas para comunicarse y colaborar.
+El email ya no es la manera más eficiente para comunicarse y compartir conocimiento. Hoy en día existen nuevas tecnologías, como las plataformas colaborativas que empiezan a reemplazar al correo en diferentes situaciones.
+
+- Hoy en día se envían más de 130B de emails de negocios diarios. 
+- Invertimos cuatro horas diarias revisándolos (media jornada laboral)
+- En promedio enviamos 37 emails al día y recibimos 78, eso suma 115 emails que tenemos que leer todos los días.
+- Los trabajadores chequean sus email 36 veces en una hora en promedio, y normalmente les toma 16 minutos re-enfocarse en el trabajo después de leerlos.
+
+Las tecnologías colaborativas ayudan a resolver este problema y a maximizar el tiempo de enfoque de un trabajador en lo que genera valor para la empresa.
+
+###### Caso [Airbnb](https://trello.com/b/hQEJSVSQ/loom-roadmap) 
+- Este es el roadmap de un producto
+- El Product Owner comparte la información del desarrollo y la visión del producto con una comunidad más grande para ellos comente.
+- La transparencia pone a este equipo como un referente de organización en la empresa y seguramente marcan la pauta para mucho en como desarrollar conocimiento comunitario para mejorar un producto.
+
+
 ### 5. Contar con nuevas formas de colaborar y comunicarse.
 ### 6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
 ### 7. Aprender y enseñar a su ritmo.

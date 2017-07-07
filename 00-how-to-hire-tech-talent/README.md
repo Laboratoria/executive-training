@@ -103,7 +103,7 @@ Las siete características del trabajador del futuro son las siguientes:
 6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
 7. Aprender y enseñar a su ritmo.
 
-
+### Lección 4: [El manager y sus diez principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/04-el-manager-y-sus-diez-principios.md)
 
 
 

@@ -21,7 +21,7 @@ En este workshop exploraremos los siguientes temas:
 - Tendencias que están cambiando al mundo
 - Entendiendo al colaborador
 - Siete principios del trabajador del futuro
-- El manager y sus diez principios
+- El gerente tradicional y los diez principios del nuevo gerente
 - Las organizaciones del futuro y sus catorce principios
 - Como adaptarnos al futuro
 
@@ -104,7 +104,15 @@ Las siete características del trabajador del futuro son las siguientes:
 7. Aprender y enseñar a su ritmo.
 
 ### Lección 4: [El manager y sus diez principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/04-el-manager-y-sus-diez-principios.md)
-
+Un vistazo a las funciones de los gerentes tradicionales y como estás se han convertido en practicas obsoletas en un industria que se mueve con tecnología.
+1. Jerarquías y Charts de estructuras organizacionales
+2. Annual Reviews
+3. Concentrarse en las tareas
+4. Los gerentes tienen acceso a la información para tomar desiciones
+5. Pocos controlan mucho
+6. No hay espacio para la experimentación
+7. Confianza en el pasado
+8. Enfoque en lo inadecuado
 
 
 

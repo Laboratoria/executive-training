@@ -95,13 +95,13 @@ Cuales son las características que deben tener los colaboradores del futuro.
 
 ### Lección 3: [Siete principios del trabajador del futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/03-siete-principios-del-trabajador-del-futuro.md)
 Las siete características del trabajador del futuro son las siguientes:
-- Tener un ambiente flexible donde pueden trabajar en cualquier momento del día, o en cualquier lado.
-- Ser capaces de definir su ruta de crecimiento profesional.
-- Compartir información de manera transparente en tiempo real.
-- Tener la oportunidad de ser líderes sin llegar a ser gerentes.
-- Contar con nuevas formas de colaborar y comunicarse.
-- Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
-- Aprender y enseñar a su ritmo.
+1. Tener un ambiente flexible donde las personas puedan trabajar en cualquier momento del día, o en cualquier lugar.
+2. Ser capaces de definir su ruta de crecimiento profesional.
+3. Compartir información de manera transparente en tiempo real.
+4. Usar nuevas formas para comunicarse y colaborar.
+5. Convertirse en líderes
+6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
+7. Aprender y enseñar a su ritmo.
 
 
 

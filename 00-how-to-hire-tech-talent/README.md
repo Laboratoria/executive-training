@@ -23,7 +23,6 @@ En este workshop exploraremos los siguientes temas:
 - Siete principios del trabajador del futuro
 - El manager y sus diez principios
 - Las organizaciones del futuro y sus catorce principios
-- La tecnología como el sistema nervioso central
 - Como adaptarnos al futuro
 
 ### Online
@@ -63,6 +62,7 @@ En este workshop exploraremos los siguientes temas:
 - [The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/)
 - [Employees Prefer Flexibility over Salary Increases](https://www.recruiter.com/i/employees-prefer-flexibility-over-salary-increases/)
 - [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+- [Need a Job?, Invent It](http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-invent-it.html)
 
 ## Benchmarks
 

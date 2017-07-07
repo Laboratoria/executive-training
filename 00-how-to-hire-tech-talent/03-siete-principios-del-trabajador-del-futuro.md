@@ -79,12 +79,41 @@ El email ya no es la manera más eficiente para comunicarse y compartir conocimi
 
 Las tecnologías colaborativas ayudan a resolver este problema y a maximizar el tiempo de enfoque de un trabajador en lo que genera valor para la empresa.
 
-###### Caso [Airbnb](https://trello.com/b/hQEJSVSQ/loom-roadmap) 
+###### Caso [Loom](https://trello.com/b/hQEJSVSQ/loom-roadmap) 
 - Este es el roadmap de un producto
 - El Product Owner comparte la información del desarrollo y la visión del producto con una comunidad más grande para ellos comente.
 - La transparencia pone a este equipo como un referente de organización en la empresa y seguramente marcan la pauta para mucho en como desarrollar conocimiento comunitario para mejorar un producto.
 
 
-### 5. Contar con nuevas formas de colaborar y comunicarse.
+### 5. Convertirse en líderes
+Por primera vez en la historia del mundo de los negocios los trabajadores tienen la oportunidad para volverse líderes en su organización al compartir sus ideas y comentarios de manera pública y transparente con sus colegas, gerentes y ejecutivos. Esta opción se genera a través del uso de las tecnologías colaborativas. Como nunca antes los trabajadores son capaces de construir sus redes personales dentro de una organización a gran escala y ser reconocidos por las contribuciones. La tecnología ha empoderado dramáticamente a los trabajadores dándoles la posibilidad de construir relaciones muy fuertes.
+
+Esto quiere decir que el liderazgo ya no solo está reservado para las personas que están en la parte de una pirámide corporativa. Los líderes del futuro ya no son nombrados, se crean. Hoy en día los nuevos líderes toman fuerza en Facebook, Twitter, Blogs, Youtube, entre otras plataformas. Debido a esto ya no puedes ser una líder sin seguidores, y para conseguirlos es necesario compartir.
+
+Hoy el gran desafío es lograr que el modelo tradicional que define que es un líder, se ajusta a un mundo en donde la conectividad es clave para obtener seguidores.
+
 ### 6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
+El conocimiento es un comodity. No es suficiente con ser una persona inteligente, ya que hoy todos tenemos acceso a la información desde nuestro celular. Es necesario tener las habilidades para poder aprender nuevas cosas y luego poder usarlas para transformar escenarios o resolver problemas. El trabajador del futuro es una persona que "aprende a aprender".
+
+El mundo está cambiando rápidamente. Cuando los jóvenes que hoy cruzan la universidad se gradúen, su conocimiento será obsoleto. Esto quiere decir que conocimiento y experiencia ya no son el comodity primario. Lo que es más valioso es tener la habilidad de aprender y aplicar esos conocimientos. Ya no es más acerca de lo que sabes, es acerca de como aprendes y te adaptas.
+
+Thomas L. Friedman escribió en un artículo que publicó en el new York Times llamado "Need a Job? Invente it" lo siguiente:
+
+>Today because knowledge is available on every Internet connected device, what you know matter far less than what you can do with what you know. The capacity to innovate -- th ability to solve problems creatively or bring new posibilities to life -- and skills like critical thinking, communications and collaboration are far more important than academic knowledge. As one excecutive tolde me. "We can tech new hires the content, and we will have to because it continues to change, but we can´t teach them how to think --  to ask the right questions -- and to take initiative"
+
+#### El declive del valor del título universitario
+En Estados Unidos la gente que se gradúa de universidad tienen que pagar una deuda de $35,000 en promedio. Los estudiantes que van a un MBA alrededor de $100,000. Los trabajadores del futuro aprenden constantemente accediendo a diversos tipos de información que quieren y necesitan antes de entrar a la universidad.
+
+Hay que considerar que hoy hay una oferta enorme de cursos en línea. Estos cursos están disponibles para cualquier persona que quiera tomarlos. Hay cursos de prácticamente todos los temas, los cuales te permiten aprender lo mismo que te enseñan en la universidad por una fracción de su costo.
+
+La educación está modularizada permitiéndole a la gente tomar cursos sin tener que comprometerse a terminar una carrera.
+
+###### Caso [Laboratoria](http://laboratoria.la)
+- Programa que dura 6 meses tiempo completo.
+- Se enfoca en desarrollar skills técnicos y socio-emocionales para crear una carrera en tecnología.
+- Hemos graduado a más de 400 (Dic 2016).
+- Los salarios y las posiciones que consiguen las egresadas son equivalentes a los que accedieran personas que han estudiado por 5 años un título técnico.
+  
+
 ### 7. Aprender y enseñar a su ritmo.
+La manera tradicional de aprender y enseñar estaba dictada por la organizaciones quienes definen los programas de entrenamiento, manuales, y expectativas. La tecnología a conectado a los trabajadores y la información en cualquier lugar, a cualquier hora y a través de cualquier dispositivo conectado al Internet. Esto quiere decir que el entrenamiento puede suceder entre colaboradores sin tener un plan formal de la empresa. 

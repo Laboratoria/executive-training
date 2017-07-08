@@ -1,4 +1,4 @@
-## El gerente tradicional y los diez principios del nuevo gerente
+## El gerente tradicional
 El rol de gerente ha permanecido igual en los últimos 200 años en varias compañías. Es más las personas que crearon este concepto ya no están vivas, pero por alguna razon seguimos pensando que este es el mejor formato para poder liderar una empresa.
 
 A continuación algunas prácticas que aun se consideran un standard de este rol.

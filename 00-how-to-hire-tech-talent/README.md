@@ -18,12 +18,13 @@ No se necesitan conocimientos previos para tomar este workshop, solo estar en un
 En este workshop exploraremos los siguientes temas:
 
 ### Presencial
-- Tendencias que están cambiando al mundo
-- Entendiendo al colaborador
-- Siete principios del trabajador del futuro
-- El gerente tradicional y los diez principios del nuevo gerente
-- Las organizaciones del futuro y sus catorce principios
-- Como adaptarnos al futuro
+1. Tendencias que están cambiando al mundo
+2. Entendiendo al colaborador
+3. Siete principios del trabajador del futuro
+4. El gerente tradicional 
+5. Los diez principios del nuevo gerente
+6. Las organizaciones del futuro y sus catorce principios
+7. Como adaptarnos al futuro
 
 ### Online
 - Herramientas de reclutamiento
@@ -43,9 +44,11 @@ En este workshop exploraremos los siguientes temas:
 * [Herman Marin](https://www.linkedin.com/in/herman-marin/)
 * [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/)
 
-## Libros (mínimo 3)
+## Libros
 
 - [The Future of Work by Jacob Morgan](https://www.amazon.com/Future-Work-Attract-Competitive-Organization/dp/1118877241/ref=la_B00703V3WO_1_2?s=books&ie=UTF8&qid=1394472808&sr=1-2)
+
+## Lecturas complementarias
 
 ### Lección 1
 - [FedEx Joins the Internet of Things with Senseaware](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)
@@ -62,16 +65,14 @@ En este workshop exploraremos los siguientes temas:
 - [The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/)
 - [Employees Prefer Flexibility over Salary Increases](https://www.recruiter.com/i/employees-prefer-flexibility-over-salary-increases/)
 - [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+
+### Lección 4
 - [Need a Job?, Invent It](http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-invent-it.html)
 
-## Benchmarks
-
-Incluir una lista de cursos similares que sirvan como referencia.
-
-## Lecturas complementarias
-
-Incluir una lista de _capítulos de libros_, _blog posts_, _videos_, y otros
-recursos como links a wikipedia, documentación, ...
+### Lección 5
+- [The 10 Principles Of The Future Manager](https://www.forbes.com/sites/jacobmorgan/2014/11/20/the-10-principles-of-the-future-manager/#27a80f6762de)
+- [The power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
+- [The State of Employee Recognition * SHRM/GloboforceE Survey Tacker Results](http://www.globoforce.com/gfblog/2011/the-state-of-employee-recognition-shrmgloboforce-survey-tracker-results/)
 
 ***
 
@@ -103,7 +104,7 @@ Las siete características del trabajador del futuro son las siguientes:
 6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
 7. Aprender y enseñar a su ritmo.
 
-### Lección 4: [El manager tradicional](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/04-el-manager-y-sus-diez-principios.md)
+### Lección 4: [El gerente tradicional](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/04-el-manager-y-sus-diez-principios.md)
 Un vistazo a las funciones de los gerentes tradicionales y como estás se han convertido en practicas obsoletas en un industria que se mueve con tecnología.
 1. Jerarquías y Charts de estructuras organizacionales
 2. Annual Reviews
@@ -114,6 +115,18 @@ Un vistazo a las funciones de los gerentes tradicionales y como estás se han co
 7. Confianza en el pasado
 8. Enfoque en lo inadecuado
 
+### Lección 5: [Los diez principios del nuevo gerente](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/05-los-diez-principios-del-nuevo-gerente.md)
+Los gerentes necesitan entender las necesidades que traen al ambiente laboral los trabajadores del futuro. Estas necesidades requieren cambios profundos en las características de liderazgo de un gerente. Ellos tendrán que ajustarse para lograr obtener los resultados que tienen como objetivo. Los gerentes deberán seguir los siguientes principios.
+1. Debe ser un líder
+2. Empujar desde el frente
+3. Entiende la tecnología (Digital Fluent)
+4. Lidera con el ejemplo
+5. Deja ver sus vulnerabilidades
+6. Cree en compartir y tener inteligencia colectiva
+7. Es capaz de inspirar
+8. Brinda feedback y comentarios en tiempo real
+9. Es consiente de las barreras personales
+10. Se adapta al trabajador del futuro
 
 
 

@@ -26,16 +26,10 @@ En este workshop exploraremos los siguientes temas:
 6. Las organizaciones del futuro y sus catorce principios
 7. Como adaptarnos al futuro
 
-### Online
-- Herramientas de reclutamiento
-- Reclutando equipos (identifica quién necesitas)
-- A Method como metodología de reclutamiento*
-
 ## Detalles logísticos
 
-* Online: 1 hrs
 * Presencial: 3 hrs
-* Total horas: 4 hrs
+* Total horas: 3 hrs
 
 ***
 

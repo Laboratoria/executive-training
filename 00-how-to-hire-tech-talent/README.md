@@ -68,6 +68,9 @@ En este workshop exploraremos los siguientes temas:
 - [The power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
 - [The State of Employee Recognition * SHRM/GloboforceE Survey Tacker Results](http://www.globoforce.com/gfblog/2011/the-state-of-employee-recognition-shrmgloboforce-survey-tracker-results/)
 
+### Lección 6
+- [The 14 Principles Of The Future Organization](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jacobmorgan/2015/01/14/the-14-principles-of-the-future-organization/&refURL=https://www.google.com.pe/&referrer=https://www.google.com.pe/)
+
 ***
 
 ## Syllabus
@@ -121,6 +124,24 @@ Los gerentes necesitan entender las necesidades que traen al ambiente laboral lo
 8. Brinda feedback y comentarios en tiempo real
 9. Es consiente de las barreras personales
 10. Se adapta al trabajador del futuro
+
+### Lección 6: [Las organizaciones del futuro y sus catorce principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/06-las-organizaciones-del-futuro-y-sus-catorce-principios.md)
+No solo los trabajadores y gerentes del futuro deben entender y adquirir los principios que les permitirán ser competitivos en el mundo de negocios en el que vivimos. También las empresas deben prepara su cultura y estructura organizacional para lograrlo. En esta lección aprenderemos cuales son esos principios:
+1. Distribución global con equipos pequeños
+2. Fuerza laboral conectada
+3. Intraemprendimiento
+4. Operar como una empresa pequeña
+5. Crear un ambiente de trabajo enfocado en el "QUE" y no en el "NECESITO" 
+6. Adaptarse al cambio rápido
+7. Innovación en todos lados
+8. Correr la operación en el "Cloud"
+9. Más mujeres en roles de liderazgo
+10. Estructuras organizacionales más horizontales
+11. Storytelling
+12. Democratizar el aprendizaje
+13. Cambiar de "utilidades" a "prosperidad"
+14. Adaptarse al trabajador y gerente del futuro
+
 
 
 

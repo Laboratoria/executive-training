@@ -70,6 +70,8 @@ En este workshop exploraremos los siguientes temas:
 
 ### Lección 6
 - [The 14 Principles Of The Future Organization](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jacobmorgan/2015/01/14/the-14-principles-of-the-future-organization/&refURL=https://www.google.com.pe/&referrer=https://www.google.com.pe/)
+- [The 'Two Pizza Rule' Is Jeff Bezos' Secret To Productive Meetings](http://www.businessinsider.com/jeff-bezos-two-pizza-rule-for-productive-meetings-2013-10)
+- [State of the American Workplace](http://www.gallup.com/reports/199961/state-american-workplace-report-2017.aspx?utm_source=SOAW&utm_campaign=StateofAmericanWorkplace&utm_medium=2013SOAWreport)
 
 ***
 
@@ -80,7 +82,7 @@ En este workshop exploraremos los siguientes temas:
 Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie radicalmente. 
 - Nuevos comportamientos.
 - El desarrollo de nueva tecnología. 
-- Los Milenials en la fuerza laboral.
+- Los Millennials en la fuerza laboral.
 - La mobilidad.
 - La globalización.
 - ¿Qué es diferente esta vez?.

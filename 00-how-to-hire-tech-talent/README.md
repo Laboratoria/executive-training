@@ -24,7 +24,7 @@ En este workshop exploraremos los siguientes temas:
 4. El gerente tradicional 
 5. Los diez principios del nuevo gerente
 6. Las organizaciones del futuro y sus catorce principios
-7. Como adaptarnos al futuro
+7. Como las organizaciones se adaptan al futuro
 
 ## Detalles logísticos
 
@@ -72,6 +72,12 @@ En este workshop exploraremos los siguientes temas:
 - [The 14 Principles Of The Future Organization](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jacobmorgan/2015/01/14/the-14-principles-of-the-future-organization/&refURL=https://www.google.com.pe/&referrer=https://www.google.com.pe/)
 - [The 'Two Pizza Rule' Is Jeff Bezos' Secret To Productive Meetings](http://www.businessinsider.com/jeff-bezos-two-pizza-rule-for-productive-meetings-2013-10)
 - [State of the American Workplace](http://www.gallup.com/reports/199961/state-american-workplace-report-2017.aspx?utm_source=SOAW&utm_campaign=StateofAmericanWorkplace&utm_medium=2013SOAWreport)
+- [Richard Branson on Intrapreneurs](http://www.nbcnews.com/id/41359235/ns/business-small_business/t/richard-branson-intrapreneurs/#.WWU11NMrIXo)
+- [Culture at Netflix](https://jobs.netflix.com/culture/#introduction)
+- [My Strabucks Idea](https://www.starbucks.com/coffeehouse/learn-more/my-starbucks-idea)
+- [The Real Story Behind Apple's Famous '1984' Super Bowl Ad](https://www.youtube.com/watch?v=PsjMmAqmblQ)
+- [The LEGO® Story](https://www.youtube.com/watch?v=NdDU_BBJW9Y)
+- [The Millennial Survey](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/millennial-survey.html)
 
 ***
 
@@ -143,6 +149,9 @@ No solo los trabajadores y gerentes del futuro deben entender y adquirir los pri
 12. Democratizar el aprendizaje
 13. Cambiar de "utilidades" a "prosperidad"
 14. Adaptarse al trabajador y gerente del futuro
+
+### Lección 7: [Como las organizaciones se adaptan al futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/07-como-las-organizaciones-se-adaptan-al-futuro.md)
+En base a un modelo propuesto por Jacob Morgan creador del libro "The Future of Work" planteamos una guía para transformar a una organización tradicional a una del futuro.
 
 
 

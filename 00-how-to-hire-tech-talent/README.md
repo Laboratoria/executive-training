@@ -89,7 +89,7 @@ Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie ra
 - Nuevos comportamientos.
 - El desarrollo de nueva tecnología. 
 - Los Millennials en la fuerza laboral.
-- La mobilidad.
+- La movilidad.
 - La globalización.
 - ¿Qué es diferente esta vez?.
 

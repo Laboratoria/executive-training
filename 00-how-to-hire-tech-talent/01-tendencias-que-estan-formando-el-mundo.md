@@ -2,7 +2,7 @@
 
 Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radicalmente. Estas tendencias son:
 - Nuevos comportamientos
-- El desarrollo de nueva tecnología 
+- El desarrollo de nuevas tecnologías 
 - Los Millennials en la fuerza laboral 
 - La movilidad
 - La globalización
@@ -16,13 +16,12 @@ Las empresas tienen que pensar en otras formas de comunicarse y generar interacc
 Hay un gap en la adopción de tecnología entre las personas y las empresas. 
 Estos nuevos comportamientos y expectativas hacen que las empresas tengan que cambiar su cultura, estructura organizacional y tecnología para acceder a nuevas generaciones de colaboradores.
 
-
 ## El desarrollo de tecnología
 Los principales elementos que impactan el cambio tecnológico que vivimos es el uso del "CLOUD" y de las "PLATAFORMAS COLABORATIVAS". Además aun estamos entendiendo como "THE INTERNET OF THINGS" nos está impactando en nuestra vida personal y en un futuro cercano en el trabajo. Otros campos importantes que influencian la forma en la que trabajamos es el uso de la "INTELIGENCIA ARTIFICIAL" y "ROBOTS" que hoy están siendo usados principalmente en sistemas de servicio al cliente.
 
 La tecnología avanza tan rápido que hay un lapso de tiempo importante desde que se lanza hasta cuando empezamos a adoptarla en el ambiente laboral. Este lapso puede llegar a ser de uno o dos años.
 
-El acceso al "CLOUD" ha eliminado la necesidad de comprar hardware y hacer instalaciones físicas para introducir tecnología en una compañía. Además se ha disminuido la inversión necesaria para tener una infraestructura tecnologica avanzada en una empresa.
+El acceso al "CLOUD" ha eliminado la necesidad de comprar hardware y hacer instalaciones físicas para introducir tecnología en una compañía. Además se ha disminuido la inversión necesaria para tener una infraestructura tecnológica avanzada en una empresa.
 
 El hecho de que hoy los colaboradores solo necesiten una tarjeta de crédito para acceder y usar tecnología tipo SASS, ha cambiado las reglas de juego para TI, Legal, Finanzas, y los procesos corporativos de aprobación. Dandole poder al individuo para experimentar y ser más eficiente en su trabajo.
 
@@ -53,6 +52,7 @@ La data puede ayudar a tener un mejor entendimiento de las necesidades de  la fu
 #### Caso [Knack](https://www.knack.it/)
 
 Knack es una compañía de Silicon Valley que usa juegos para identificar potencial en las personas. 
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DQQm92xPOKk" target="_blank"><img src="http://img.youtube.com/vi/DQQm92xPOKk/0.jpg" alt="Knack" width="480"/></a>
 
 *Este juego le permite a las empresas quitarse el bias del background de las personas y enfocarse en el corazón de su potencial tomando una decisión más objetiva en el reclutamiento de talento.*
@@ -64,7 +64,9 @@ Para el 2020 **Gartner** predice que habrán 26 billones de unidades que tendran
 
 #### Caso [FedEx](http://www.fedex.com/pr/?gclid=Cj0KEQjwkZfLBRCzg-69tJy84N8BEiQAffAwqurfHiwdEne5LuBxsKRPSxOkC2H_9NIrxKhTqQZn06UaAlXG8P8HAQ)
 FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin que sus colaboradores lo tengan que hacer. 
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vZmFxA6GIvU" target="_blank"><img src="http://img.youtube.com/vi/vZmFxA6GIvU/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
+
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.
 
 ## Los Millennials

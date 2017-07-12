@@ -87,7 +87,7 @@ En este workshop exploraremos los siguientes temas:
 
 Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie radicalmente. 
 - Nuevos comportamientos.
-- El desarrollo de nueva tecnología. 
+- El desarrollo de nuevas tecnologías. 
 - Los Millennials en la fuerza laboral.
 - La movilidad.
 - La globalización.

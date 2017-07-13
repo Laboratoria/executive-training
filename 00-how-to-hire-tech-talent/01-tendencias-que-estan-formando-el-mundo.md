@@ -70,18 +70,19 @@ FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin 
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.
 
 ## Los Millennials
-Se espera que los Millennials sean el 50% de la fuerza laboral en los Estados Unidos para el 2020. Para el 2025 se espera que estos sean el 75% de la fuerza laboral. Esta comunidad trae consigo una visión diferente de como trabajar, nuevas expectativas, nuevos valores, y un enfoque diferente de como atacar los problemas en el trabajo. Esta generación cuestiona el valor de la universidades, ya que su interés está ligado a sus habilidades de aprender y enseñar a su propio ritmo.
-
-Esta generación está totalmente ligada a los smart phones, y si una empresa no tiene este canal para comunicarse, entonces tendrán a un trabajador en un ambiente extraño que no podrá aprovechar el trabajo. Los Millennials están acostumbrados a estar en constante contacto entre ellos. Ellos viven una vida más abierta y pública por lo que esperan que estas dinámicas se aplique en su vida profesional.
+Millennials serán el 50% de la fuerza laboral para el 2020, y para el 2025 serán el 75%. Tienen una visión distinta del trabajo, tienen nuevas expectativas, nuevos valores, y un enfoque diferente de como atacar los problemas en la sociedad. Esta generación cuestiona el valor de la universidades, ya que su interés está ligado a sus habilidades de aprender y enseñar a su propio ritmo.
+Viven a través de los smartphones, sin este canal para comunicarse se manejan en un ambiente extraño que no pueden aprovechar. 
+Los Millennials están acostumbrados a estar en constante contacto entre ellos. Viven una vida más abierta y pública por lo que esperan que estas dinámicas se aplique en su vida profesional.
 
 ## Movilidad
-Hoy en día los trabajadores tienen la posibilidad de acceder a información desde cualquier dispositivo, en cualquier lugar y a cualquier hora sin estar en las oficinas de su compañía. Más y más vemos empresas que deciden crear un formato remoto de trabajo con sus empleados para beneficiarse de esta posibilidad.
-
-Hay que tomar en cuenta que el 91% de las personas en la tierra tiene un teléfono móvil, y el 30% de ellos tiene un smartphone. Los teléfonos inteligentes se están volviendo el estándar de comunicación ya el más del 50% de estos usuarios usa su teléfono como la principal fuente de conexión con el Internet.
-
+Hoy en día las personas tienen la posibilidad de acceder a información desde cualquier dispositivo, en cualquier lugar y a cualquier hora sin depender de un espacio físico. 
+Más y más vemos empresas que deciden crear un formato remoto de trabajo para beneficiarse de esta posibilidad.
+El 91% de las personas en la tierra tiene un teléfono móvil, y el 30% de ellos tiene un smartphone. 
+Los teléfonos inteligentes se están volviendo el estándar de comunicación ya que el 50% de los usuarios de smartphones usan su teléfono como la principal fuente de conexión con el Internet.
 
 #### Caso [CISCO](http://www.cisco.com/)
-- Con más de 80,000 alrededor del mundo tiene a más del 50% de su fuerza laboral en estado de trabajo remoto.
+- 80,000 trabajadores alrededor del mundo. 
+- 50% de su fuerza trabaja remoto.
 
 ## Globalización
 Es la posibilidad de hacer negocios en cualquier parte del mundo sin cruzar fronteras ha cambiado el perfil de las personas con las que trabajamos. El talento ya no necesita ser local. Las nuevas organizaciones tienen la posibilidad de tener equipos internacionales que les permiten tener presencia en cualquier parte del mundo.

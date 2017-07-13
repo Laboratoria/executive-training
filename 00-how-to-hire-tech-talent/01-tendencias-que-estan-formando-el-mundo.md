@@ -98,8 +98,3 @@ El Internet ha traído consigo la capacidad de estar 100% conectados haciendo qu
 
 ### Todo está abierto a la disrupción
 Nunca antes vimos disrupcion en todas las industrias. Desde gobiernos, pasando por educación y transporte estás cambiando gracias a la capacidad que tenemos hoy de conectarnos. Esta disrupción también ha causado que los trabajadores tenga problemas de entender cuales son sus intereses y tenga mucho temor de quedarse fuera.
-
-## Del pasado al presente
-Es necesario reconocer que los trabajadores son quienes están contribuyendo con crear nuevas perspectivas de trabajo que requieren perfiles diferentes que de paso tienen otras expectativas en torno a su vida profesional. Los gerentes de las empresas deben adaptarse a esta nueva forma de trabajar transformando su manera de liderar, para que la organización logre adaptarse a las nuevas generaciones de colaboradores.
-
-![alt text](https://github.com/Laboratoria/executive-training/00-how-to-hire-tech-talent/images/del-pasado-al-presente.png "Del pasado al presente")

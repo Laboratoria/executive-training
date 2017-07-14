@@ -30,7 +30,7 @@ A continuación los siete principios de los trabajadores del futuro:
 ### La flexibilidad como una manera de atraer y mantener al mejor talento
 En un estudio hecho por *[Chess Media Group](https://www.fowcommunity.com/chess-media-group-has-launched-fow-community)* en Mayo del 2013 llamado "The Future of Work Reshaping the Workplace Today Building for Tomorrow" mostró que el 90% de los trabajadores encuestados sienten que un trabajo que tiene flexibilidad es más atractivo para trabajar.
 
-Este tipo de estadísticas nos podrían hacer creen que estás condiciones solo funcionan para la fuerza laboral más joven (Millennials o Generation Z). [MomCorps](https://www.corpsteam.com/) encuesto a 1,100 trabajadores adultos en Julio del 2013 teniendo como resultado lo siguiente:
+Este tipo de estadísticas nos podrían hacer creen que estas condiciones solo funcionan para la fuerza laboral más joven (Millennials o Generation Z). [MomCorps](https://www.corpsteam.com/) encuesto a 1,100 trabajadores adultos en Julio del 2013 teniendo como resultado lo siguiente:
 - 45% de ellos está de acuerdo en tener una reducción de su sueldo de hasta el 9% si tiene un ambiente de trabajo más flexible.
 - 80% de padres que trabajan sienten que el trabajo remoto les permite criar mejor a sus hijos.
 - 70% de los padres ven en la flexibilidad uno de los factores más importantes para tomar la decisión de elegir un lugar de trabajo.

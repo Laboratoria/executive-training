@@ -33,8 +33,10 @@ El gerente del futuro siempre tiene que ser la person que se pone de ejemplo par
 - Jack lideró este cambio con su propio ejemplo sentándose directamente con cada trabajador para eschar sus ideas. 
 
 ## 5. Deja ver su vulnerabilidad
-- Los nuevos gerentes tienen que sentirse bien buscando ayuda, admitiendo que hicieron algo mal o que no saben hacer algo, finalmente deben sentirse bien cuando miembros de su equipo hacen comentarios con los que el o ella no estén de acuerdo. 
-- Aceptar las vulnerabilidades es lo que potencial la oportunidad de desarrollar innovación. Es necesario dejar a un lado los estereotípos de que el gerente es una persona que lo sabe todo. 
+- Los nuevos gerentes tienen que sentirse bien buscando ayuda, admitiendo que hicieron algo mal o que no saben hacer algo, finalmente deben aceptar cuando miembros de su equipo hacen comentarios con los que no estén de acuerdo.
+- Aceptar las vulnerabilidades es lo que potencial la oportunidad de desarrollar innovación. 
+- Es necesario dejar a un lado los estereotipos de que el gerente es una persona que lo sabe todo.
+
 
 [Brene Brown](http://brenebrown.com/) es el autor de "Daring Greatly: How the Courage to Be Vulnerable Transform the Way We Live, Love, Parent, and Lead", el dice que ser vulnerable es tener el coraje de dejar a los demás conocerte de una manera más profunda. Según Brown:
 > La vulnerabilidad son los latidos del corazón de la innovación y creatividad. No hay innovación sin vulnerabilidad.
@@ -42,12 +44,14 @@ El gerente del futuro siempre tiene que ser la person que se pone de ejemplo par
 Natasha Mascarenhas, Directora de Talento de [Tangerine](https://www.tangerine.ca/en/index.html) tiene la siguiente cita:
 > Solo somos tan buenos como nuestra gente
 
-Esto refleja el hecho de que para tener una organización exitosa, debes tener a la mejor gente. El mejor talento necesita de un ambiente en donde la gente sienta que hay confianza entre los colaboradores, transparencia para compartir, que los trabajadores estén comprometidos con la causa o los objetivos de la organización, y donde el ambiente esté abierto a la vulnerabilidad. 
+Esto refleja el hecho de que para tener una organización exitosa, debes tener a la mejor gente. El mejor talento necesita un ambiente en donde la gente sienta que hay confianza, transparencia y compromiso. 
+El ambiente que debe crear un gerente es uno abierto a la vulnerabilidad.
+
 
 ## 6. Cree en compartir y tener inteligencia colectiva
-- Los gerentes deben entender que el hecho que ellos no tengan las respuestas correctas, o no puedan tomar las mejores desiciones es algo que debe esperarse. 
-- El gerente del futuro debe tener bien claro que es mucho más efectivo usar el conocimiento colectivo de un equipo, a diferencia de solo usar el criterio del el o ella. Los gerentes del futuro valor compartir información a través de plataformas colaborativas.
-
+- Los gerentes deben entender que él no tiene todas las respuestas, y tampoco puede tomar solo las mejores decisiones.
+- Es más efectivo usar el conocimiento colectivo de un equipo, a diferencia de solo usar el criterio de una sola persona.
+- Los gerentes del futuro valor compartir información a través de plataformas colaborativas para crear conocimiento.
 
 ### Caso [DARPA](https://www.darpa.mil/)
 DARPA (Una división de investigación del departamento de defensa de los Estados Unidos) corrió un experimento en el 2009. Este experimento consistía en lanzar 10 globos atmosféricos para medir el clima en lugares aleatorios. Equipos de diferentes universidades participaron. El equipo que encontrase los 10 globos ganaría $40,000.

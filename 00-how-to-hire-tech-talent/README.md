@@ -130,7 +130,7 @@ Los gerentes necesitan entender las necesidades que traen al ambiente laboral lo
 6. Cree en compartir y tener inteligencia colectiva
 7. Es capaz de inspirar
 8. Brinda feedback y comentarios en tiempo real
-9. Es consiente de las barreras personales
+9. Es consciente de las barreras personales
 10. Se adapta al trabajador del futuro
 
 ### Lección 6: [Las organizaciones del futuro y sus catorce principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/06-las-organizaciones-del-futuro-y-sus-catorce-principios.md)

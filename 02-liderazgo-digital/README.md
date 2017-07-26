@@ -85,6 +85,7 @@ Por un costo adicional, se puede agregar una quinta sesión sobre UX Design para
 * Online: 1.5 hr 
 * Presencial: 12 hrs
 * Total horas: 13.5 hrs
+* Lugar: Oficina de la empresa
 
 ***
 
@@ -95,7 +96,9 @@ Por un costo adicional, se puede agregar una quinta sesión sobre UX Design para
 
 ## Libros (mínimo 3)
 
-- (incluir bibliografía)
+- Ries, E. (2011). The lean startup. Crown Pub Inc.
+- Blank, S. and Dorf, B. (2012). The Startup Owner's Manual. The step-by-step guide for building a great company. Pescadero, Calif.: K&S Ranch, Inc.
+- Croll, A. and Yoskovitz, B. (2013). Lean analytics. Sebastopol, California: O'Reilly.
 
 ## Benchmarks
 

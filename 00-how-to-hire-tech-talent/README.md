@@ -87,13 +87,13 @@ En este workshop exploraremos los siguientes temas:
 
 Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie radicalmente. 
 - Nuevos comportamientos.
-- El desarrollo de nueva tecnología. 
+- El desarrollo de nuevas tecnologías. 
 - Los Millennials en la fuerza laboral.
-- La mobilidad.
+- La movilidad.
 - La globalización.
 - ¿Qué es diferente esta vez?.
 
-### Lección 2: [Entendiendo al colaborador](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/02-el-colaborador-y-sus-siete-principios.md)
+### Lección 2: [Entendiendo al trabajador del futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/02-entendiendo-al-trabajador-del-futuro.md)
 Cuales son las características que deben tener los colaboradores del futuro.
 - El colaborador tradicional.
 - Colaboradores comprometidos.
@@ -130,7 +130,7 @@ Los gerentes necesitan entender las necesidades que traen al ambiente laboral lo
 6. Cree en compartir y tener inteligencia colectiva
 7. Es capaz de inspirar
 8. Brinda feedback y comentarios en tiempo real
-9. Es consiente de las barreras personales
+9. Es consciente de las barreras personales
 10. Se adapta al trabajador del futuro
 
 ### Lección 6: [Las organizaciones del futuro y sus catorce principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/06-las-organizaciones-del-futuro-y-sus-catorce-principios.md)

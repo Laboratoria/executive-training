@@ -1,14 +1,19 @@
 # Siete principios del trabajador del futuro
-Los trabajadores del futuro tendrá un impacto importante en como los gerentes lideran sus equipos. Ellos tendrán que adaptarse a la forma en la que estas nuevas generaciones ven el mundo profesional para poder aprovechar su talento para crear valor para sus empresa. Los nuevos gerentes deberán conocer siete principios para que los trabajadores del futuro puedan contar con las herramientas adecuadas para adaptarse a las dinámicas del trabajo.
-
-![alt text](https://github.com/Laboratoria/executive-training/00-how-to-hire-tech-talent/images/siete-principios-del-trabajador-del-futuro.jpg "Siete principios del trabajador del futuro")
+Los trabajadores del futuro tendrá un impacto importante en el ambiente laboral. Tanto las organizaciones como sus líderes tendrán que adaptarse a la forma en la que estas personas ven el mundo profesional. 
+Los líderes de las empresas deberán conocer los siete principios que hacen a los trabajadores del futuro diferentes, y así desarrollar un ambiente laboral para lograr explotar sus capacidades.
 
 A continuación los siete principios de los trabajadores del futuro:
 
 ## 1. Tener un ambiente flexible donde las personas puedan trabajar en cualquier momento del día, o en cualquier lugar.
-Los trabajadores del futuro ya no necesitan estar en una oficina de la empresa para trabajar. Esto quiere decir que ya no están obligados a trasladarse todos los días desde sus hogares a la oficina, sentarse en un cubiculo, o tener un horario laboral estricto de 9 am a 5 pm. La mayoría de los trabajadores del futuro tienen la capacidad de hacer trabajo remoto controlando sus horarios de trabajo siempre y cuando tengan acceso al Internet.
+- No necesitan estar en una oficina para trabajar. 
+- No quiere hacer commute, sentarse en un cubiculo, o tener un horario fijo. 
+- Quieren tener la capacidad de hacer trabajo remoto.
 
-Para los gerentes esto tiene un impacto radical en la manera de operar, ya que ya no podrán acceder de manera física a supervisar a sus trabajadores. Esto los empujará a cambiar su manera de comunicarse y adaptarse a las nuevas tecnologías para hacerlo. Además la confianza será un factor fundamental en la relación laboral.
+**Para los supervisores**
+- Tiene un impacto importante, ya que no podrán acceder de manera física a supervisar a sus trabajadores. 
+- Deben cambiar su manera de comunicarse y adaptarse a las nuevas tecnologías. 
+- La confianza será un factor fundamental en la relación laboral.
+
 
 #### Caso [Unilever](https://www.unilever.com/) 
 - Tienen un volumen de negocio de $46B, con ventas en más de 170 países. 
@@ -17,7 +22,7 @@ Para los gerentes esto tiene un impacto radical en la manera de operar, ya que y
 - El no depender de un espacio físico para trabajar ha logrado que el 30% de espacios físicos de sus dependencias estén mejor aprovechados. 
 - Han logrado alcanzar un 60% en reducción de energía.
 - Se ahorran al rededor de 37,000 vuelos para juntar personal.
-- Se estima un ahorrro monetario de $40M. 
+- Se estima un ahorro monetario de $40M. 
 - El 80% de su fuerza laboral siente que aumento su productividad.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ur97vSz_nyM" target="_blank"><img src="http://img.youtube.com/vi/Ur97vSz_nyM/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
@@ -25,7 +30,7 @@ Para los gerentes esto tiene un impacto radical en la manera de operar, ya que y
 ### La flexibilidad como una manera de atraer y mantener al mejor talento
 En un estudio hecho por *[Chess Media Group](https://www.fowcommunity.com/chess-media-group-has-launched-fow-community)* en Mayo del 2013 llamado "The Future of Work Reshaping the Workplace Today Building for Tomorrow" mostró que el 90% de los trabajadores encuestados sienten que un trabajo que tiene flexibilidad es más atractivo para trabajar.
 
-Este tipo de estadísticas nos podrían hacer creen que estás condiciones solo funcionan para la fuerza laboral más joven (Millennials o Generation Z). [MomCorps](https://www.corpsteam.com/) encuesto a 1,100 trabajadores adultos en Julio del 2013 teniendo como resultado lo siguiente:
+Este tipo de estadísticas nos podrían hacer creen que estas condiciones solo funcionan para la fuerza laboral más joven (Millennials o Generation Z). [MomCorps](https://www.corpsteam.com/) encuesto a 1,100 trabajadores adultos en Julio del 2013 teniendo como resultado lo siguiente:
 - 45% de ellos está de acuerdo en tener una reducción de su sueldo de hasta el 9% si tiene un ambiente de trabajo más flexible.
 - 80% de padres que trabajan sienten que el trabajo remoto les permite criar mejor a sus hijos.
 - 70% de los padres ven en la flexibilidad uno de los factores más importantes para tomar la decisión de elegir un lugar de trabajo.

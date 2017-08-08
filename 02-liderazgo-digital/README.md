@@ -97,6 +97,7 @@ Por un costo adicional, se puede agregar una quinta sesión sobre UX Design para
 ## Libros (mínimo 3)
 
 - Ries, E. (2011). The lean startup. Crown Pub Inc.
+- KANE, G., PALMER, D., PHILLIPS, A., KIRON, D. and BUCKLEY, N. (2017). Strategy, not Technology, Drives Digital Transformation. [online] MIT Sloan Management Review. Available at: http://sloanreview.mit.edu/projects/strategy-drives-digital-transformation/ [Accessed 8 Jun. 2016].
 - Blank, S. and Dorf, B. (2012). The Startup Owner's Manual. The step-by-step guide for building a great company. Pescadero, Calif.: K&S Ranch, Inc.
 - Croll, A. and Yoskovitz, B. (2013). Lean analytics. Sebastopol, California: O'Reilly.
 
@@ -106,5 +107,10 @@ Incluir una lista de cursos similares que sirvan como referencia.
 
 ## Lecturas complementarias
 
-Incluir una lista de _capítulos de libros_, _blog posts_, _videos_, y otros
-recursos como links a wikipedia, documentación, ...
+- Vanderbilt, T. (2017). Why GE has a 'fail fast' startup for rally fighters and pizza ovens. [online] WIRED UK. Available at: http://www.wired.co.uk/article/ge-startup-fail-fast-crowdsourcing [Accessed 2016].
+- Krishnan, G. (2017). Selecting the best artwork for videos through A/B testing. [online] Medium. Available at: http://techblog.netflix.com/2016/05/selecting-best-artwork-for-videos.html [Accessed 2016].
+- HILL, K. (2017). Forbes Welcome. [online] Forbes.com. Available at: https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#77ab60556668 [Accessed 2016].
+- O'keefe, B. (2017). The Man Who's Reinventing Walmart. [online] Fortune.com. Available at: http://fortune.com/2015/06/04/walmart-ceo-doug-mcmillon/ [Accessed 2016].
+- BIG DATA. BIG BUSINESS. How Fortune 500 Companies Leverage Data in the Digital Age. (2017). [ebook] GENERAL ASSEMBLY. Available at: https://drive.google.com/file/d/0BwVQmf2PwJM3YzJYeXYwcGRwVlk/view [Accessed 2016].
+- Forbes.com. (2017). Forbes Welcome. [online] Available at: https://www.forbes.com/sites/benkepes/2014/10/09/digital-transformation-doesnt-have-to-disrupt-walgreens-shows-how/#3d8b41966d38 [Accessed 2016].
+- News.samsung.com. (2017). Startups: The Secret Ingredient of Samsung’s Open Innovation. [online] Available at: https://news.samsung.com/global/startups-the-secret-ingredient-of-samsungs-open-innovation [Accessed 2016].

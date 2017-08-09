@@ -1,6 +1,7 @@
 # Tendencias que están cambiando al Mundo
 
-Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radicalmente. Estas tendencias son:
+EL mundo se está transformando rápidamente. La era digital ha impactado no solo en la forma en que nos comunicamos, también está cambiando como las empresas funcionan.
+Veamos cuales son las tendencias que están produciendo estos cambios.
 - Nuevos comportamientos
 - El desarrollo de nuevas tecnologías 
 - Los Millennials en la fuerza laboral 
@@ -11,10 +12,9 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 ***
 
 ## Nuevos comportamientos
-Los nuevos comportamientos no ocurren solo en los "Millennials" que son nativos digitales, También ocurren en todas las demografías y geografías que usan el Internet. 
-Las empresas tienen que pensar en otras formas de comunicarse y generar interacción entre sus colaboradores.
-Hay un gap en la adopción de tecnología entre las personas y las empresas. 
-Estos nuevos comportamientos y expectativas hacen que las empresas tengan que cambiar su cultura, estructura organizacional y tecnología para acceder a nuevas generaciones de colaboradores.
+Quienes hemos tenido la oportunidad de desarrollar nuestras carreras antes de esta revolución digital podríamos pensar que las nuevas generaciones son quienes traen nuevos comportamientos al ambiente laboral. Pensamos esto porque sabemos que las nuevas generaciones son nativos digitales. 
+La verdad es que la era digital nos ha impactado a todos por igual. Hoy la tecnología nos permite relacionarnos de otra manera sin importar la demografía o la geografía en la que nos encontremos.  
+Hay un gap en la adopción de tecnología entre las personas y las empresas. Lo que ha forzada a muchas a desarrollar otras dinámicas de comunicación entre sus colaboradores, y a traer más tecnología a sus procesos para acceder a nuevo talento. 
 
 ## El desarrollo de tecnología
 Los principales elementos que impactan el cambio tecnológico que vivimos es el uso del "CLOUD" y de las "PLATAFORMAS COLABORATIVAS". Además aun estamos entendiendo como "THE INTERNET OF THINGS" nos está impactando en nuestra vida personal y en un futuro cercano en el trabajo. Otros campos importantes que influencian la forma en la que trabajamos es el uso de la "INTELIGENCIA ARTIFICIAL" y "ROBOTS" que hoy están siendo usados principalmente en sistemas de servicio al cliente.

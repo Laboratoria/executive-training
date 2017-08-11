@@ -27,12 +27,21 @@ Pierre Nartenme, CEO de ACCENTURE, nos indica que digital es la razón principal
 Al revisar los market caps de los últimos años, podemos ver que las compañías que lideran los top 5 son digitales, y han sobre pasado a las compañías clsicas como GE, y hasta incluso el petróleo.
 http://www.visualcapitalist.com/chart-largest-companies-market-cap-15-years/
 
-DATO CURIOSO
+## DATO CURIOSO
 Las disrupciones afectan otras industrias, por ejemplo el iPhone:
-1. Puso el internet en el bolsillo de todo el mundo
-2. Cambió la manera de trabajar
-3. Cambió pequeños mercados
-4. Cambió totalmente el negocio de apple y mejoró su crecimiento
+#### 1. Puso el internet en el bolsillo de todo el mundo
+Como se ve en el cuadro, este artefacto hizo que cada vez más la gente estuviera más conectada. Se puede apreciar como el tráfico de voz no ha variado tanto, como lo ha hecho el tráfico de data en estos últimos 10 años.
+
+#### 2. Cambió la manera de trabajar
+Con el internet en el bolsillo de todos, los trabajos "on-demand" tuvieron una gran explosión. Negocios como Uber o Taskrabbit son algunos de ellos.
+
+#### 3. Cambió pequeños mercados
+Quién iba a pensar que el mercado de gomas de mascar (chicle) se vendría abajo por la creación del iphone? Y es que estos productos normalmente se compran en la cola de la caja registradora, pero ahora, qué es lo que hacemos en la cola? Revisamos nuestro celular y nos entretenemos con él. Bye bye chilet's!
+
+#### 4. Cambió totalmente el negocio de apple y mejoró su crecimiento
+En el año fiscal del 2006, Apple generaba 1.9 billones de profit de los 19.3 billobes de revenue - sobre todo de prouctos de iPod y Mac. Su negocio creció 10 veces ms en la siguiente década. El año pasado generó 45.6 billones de profit de 215.6 billones de revenue. El iPhoone atrajo el 63% de las ventas de ese año.
+
+Fuente: https://www.recode.net/2017/6/26/15821652/iphone-apple-10-year-anniversary-launch-mobile-stats-smart-phone-steve-jobs
 
 
 

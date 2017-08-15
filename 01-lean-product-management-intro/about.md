@@ -27,7 +27,6 @@ En este workshop exploraremos los siguientes temas:
 - Estructura organizacional de un equipo de desarrollo de producto.
 
 
-
 ## Aprenderás
 
 #### 1.Methodologies & Frameworks. 

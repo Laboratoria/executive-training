@@ -1,8 +1,8 @@
 # 01. Lean Product Management (Intro)
 
-Product Management es la razón por la cual se crean y comercializan grandes productos. El Product Manager es quien define la visión, la estrategia y el camino. Conoce el mercado, los usuarios, el producto y la competencia mejor que nadie. Es responsable por la ejecución, eliminando barreras y definiendo prioridades. Por encima de todo, vela por maximizar el valor comercial del producto para la empresa. Y todo esto, sin ser el “jefe” del equipo.
+Con la revolución digital la manera en la que desarrollamos productos viene cambiando cada vez más. En una época donde todo se mueve tan rápido, es necesario que tengamos propuestas de valor que también lo hagan. 
 
-El objetivo de este workshop es ofrecer una pequeña introducción al mundo del Product Management, desde una perspectiva "lean". La idea es que los participantes entiendan cómo liderar equipos ágiles en un ambiente de incertidumbre, con el fin de construir productos digitales que realmente resuelven las necesidades del usuario.
+El objetivo de este workshop es ofrecer una pequeña introducción al mundo del Product Management, desde una perspectiva "lean", la cual busca probar la propuesta de valor lo más rápido posible en el mundo real, antes de seguir con un desarrollo que no se sabe si triunfará (fail fast, learn faster).  La idea es que los participantes entiendan cómo liderar equipos ágiles en un ambiente de incertidumbre, con el fin de construir productos digitales que realmente resuelven las necesidades del usuario.
 
 
 ## Público objetivo
@@ -20,6 +20,7 @@ No se necesitan conocimientos previos para tomar este workshop.
 En este workshop exploraremos los siguientes temas:
 
 - Lean Startup: Usando innovación continua para crear negocios radicalmente exitosos.
+- Product Manager vs Product Owner
 - MVP: Priorizando funcionalidades
 - Product-Market Fit
 - La estructura organizacional de un equipo de desarrollo de producto
@@ -28,10 +29,14 @@ En este workshop exploraremos los siguientes temas:
 
 ## Aprenderás
 
-1. Agile Mindset. Una visión de desarrollo de productos evolutiva, que comprueba hipótesis a través de data para crear productos/servicios que realmente las personas necesiten.
-2. Priorizar funcionalidades que el equipo creará para empezar con un producto mínimo viable.
-3. Cómo se compone un equipo de desarrollo de productos, y qué roles irás necesitando dependiendo de el estado de tu producto.
-4. Cómo ver el progreso del equipo de una manera fácil, dinámica y simple; que te ayudará a identificar próximos retos y posibles "stoppers"   
+#### 1.Methodologies & Frameworks. 
+Entenderás cuáles son y por qué se usan las metodologías más comentadas del mercado, como Design Thinking, Lean UX, Agile Development, Growth Hacking y Lean Startup.
+#### 2. Agile Mindset. 
+Una visión de desarrollo de productos evolutiva, que comprueba hipótesis a través de data para crear productos/servicios que realmente las personas necesiten.
+#### 3. Prioritize. 
+Aprenderás a priorizar "resultados" antes que "funcionalidades" en tus desarrollo. Lo primero que debe buscar el PM es saber si su producto tiene Product-Market Fit, incluso antes de construirlo.
+#### 3. Digital Team Organization. 
+Conocerás cómo se organiza un equipo, y qué tipo de talento necesitarás dependiendo del nivel de desarrollo de tu producto. Además, revisaremos técnicas y dinámicas que te permitirán identificar próximos retos y posibles "stoppers" en el desarrollo.     
 
 
 ## Detalles logísticos
@@ -53,7 +58,7 @@ En este workshop exploraremos los siguientes temas:
 
 ## Benchmarks
 
-Incluir una lista de cursos similares que sirvan como referencia.
+Lean Product Management 280 group
 
 ## Lecturas complementarias
 

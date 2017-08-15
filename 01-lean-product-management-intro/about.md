@@ -20,6 +20,7 @@ No se necesitan conocimientos previos para tomar este workshop.
 En este workshop exploraremos los siguientes temas:
 
 - Lean Startup: Usando innovación continua para crear negocios radicalmente exitosos.
+- Product Manager vs Product Owner
 - MVP: Priorizando funcionalidades
 - Product-Market Fit
 - La estructura organizacional de un equipo de desarrollo de producto
@@ -53,7 +54,7 @@ En este workshop exploraremos los siguientes temas:
 
 ## Benchmarks
 
-Incluir una lista de cursos similares que sirvan como referencia.
+Lean Product Management 280 group
 
 ## Lecturas complementarias
 

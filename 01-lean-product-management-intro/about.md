@@ -19,12 +19,13 @@ No se necesitan conocimientos previos para tomar este workshop.
 
 En este workshop exploraremos los siguientes temas:
 
-- Lean Startup: Usando innovación continua para crear negocios radicalmente exitosos.
-- Product Manager vs Product Owner
+- Metodologías evolutivas de producto
+- El rol del Product Manager
+- Lean Startup
 - MVP: Priorizando funcionalidades
 - Product-Market Fit
-- La estructura organizacional de un equipo de desarrollo de producto
-- Ceremonias ágiles: daily stand-up progress view, learning wall, reflection
+- Estructura organizacional de un equipo de desarrollo de producto.
+
 
 
 ## Aprenderás

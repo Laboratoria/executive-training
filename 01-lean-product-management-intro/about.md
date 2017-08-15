@@ -29,10 +29,14 @@ En este workshop exploraremos los siguientes temas:
 
 ## Aprenderás
 
-1.Methodologies & Frameworks. Entenderás cuáles son y por qué se usan las metodologías más comentadas del mercado, como Design Thinking, Lean UX, Agile Development, Growth Hacking y Lean Startup.
-2. Agile Mindset. Una visión de desarrollo de productos evolutiva, que comprueba hipótesis a través de data para crear productos/servicios que realmente las personas necesiten.
-3. Prioritize. Aprenderás a priorizar "resultados" antes que "funcionalidades" en tus desarrollo. Lo primero que debe buscar el PM es saber si su producto tiene Product-Market Fit, incluso antes de construirlo.
-3. Digital Team Organization. Conocerás cómo se organiza un equipo, y qué tipo de talento necesitarás dependiendo del nivel de desarrollo de tu producto. Además, revisaremos técnicas y dinámicas que te permitirán identificar próximos retos y posibles "stoppers" en el desarrollo.     
+#### 1.Methodologies & Frameworks. 
+Entenderás cuáles son y por qué se usan las metodologías más comentadas del mercado, como Design Thinking, Lean UX, Agile Development, Growth Hacking y Lean Startup.
+#### 2. Agile Mindset. 
+Una visión de desarrollo de productos evolutiva, que comprueba hipótesis a través de data para crear productos/servicios que realmente las personas necesiten.
+#### 3. Prioritize. 
+Aprenderás a priorizar "resultados" antes que "funcionalidades" en tus desarrollo. Lo primero que debe buscar el PM es saber si su producto tiene Product-Market Fit, incluso antes de construirlo.
+#### 3. Digital Team Organization. 
+Conocerás cómo se organiza un equipo, y qué tipo de talento necesitarás dependiendo del nivel de desarrollo de tu producto. Además, revisaremos técnicas y dinámicas que te permitirán identificar próximos retos y posibles "stoppers" en el desarrollo.     
 
 
 ## Detalles logísticos

@@ -13,6 +13,7 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 ## Nuevos comportamientos
 Los nuevos comportamientos no ocurren solo en los "Millennials" que son nativos digitales, También ocurren en todas las demografías y geografías que usan el Internet. 
 Las empresas tienen que pensar en otras formas de comunicarse y generar interacción entre sus colaboradores.
+
 Hay un gap en la adopción de tecnología entre las personas y las empresas. 
 Estos nuevos comportamientos y expectativas hacen que las empresas tengan que cambiar su cultura, estructura organizacional y tecnología para acceder a nuevas generaciones de colaboradores.
 

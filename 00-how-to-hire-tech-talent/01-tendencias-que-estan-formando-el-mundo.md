@@ -42,6 +42,7 @@ Estas plataformas nos están conectando de una manera que nunca habíamos experi
 - Etc
 
 En conclusión estas plataformas colaborativas le dan al individuo el poder de conectarse y acceder a información en cualquier momento, desde cualquier lugar en cualquier dispositivo.
+
  
 ### Big Data 
 En base a un estudio de la IDC Digital Universe Study llamado "Extracting Value From Chaos" en el 2011 se produjeron más de 1.8 zettabytes de data. Esto es equivalente a construir la gran muralla china usando 57.5 billones de iPads de 32 GB llenos.

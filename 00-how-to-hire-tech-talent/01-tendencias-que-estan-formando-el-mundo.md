@@ -80,11 +80,9 @@ Para el 2020 **Gartner** predice que habrán 26 billones de unidades que tendran
 
 ###### Caso [FedEx](http://www.fedex.com/pr/?gclid=Cj0KEQjwkZfLBRCzg-69tJy84N8BEiQAffAwqurfHiwdEne5LuBxsKRPSxOkC2H_9NIrxKhTqQZn06UaAlXG8P8HAQ)
 
-![](/assets/internet-of-things-fedex.jpg)
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/vZmFxA6GIvU" frameborder="0" allowfullscreen></iframe>
 
 FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin que sus colaboradores lo tengan que hacer. 
-
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/vZmFxA6GIvU" frameborder="0" allowfullscreen></iframe>
 
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.
 

@@ -131,5 +131,5 @@ Es la posibilidad de hacer negocios en cualquier parte del mundo sin cruzar fron
 Hay tres razones por las cuales los cambios que vemos hoy son particularmente únicos:
 
 - *La velocidad del cambio ha aumentado:* En el transcurso de la historia las empresas han tenido la habilidad de adoptar cambios de una manera pasiva. Hoy el no adaptarse a los cambios significa estar "FUERA DEL NEGOCIO".
-- *El mundo está conectado:* El Internet ha traído consigo la capacidad de estar 100% conectados haciendo que el mundo se sienta más pequeño.
-- *Todo está abierto a la disrupción:* Nunca antes vimos disrupcion en todas las industrias. Desde gobiernos, pasando por educación y transporte estás cambiando gracias a la capacidad que tenemos hoy de conectarnos. Esta disrupción también ha causado que los trabajadores tenga problemas de entender cuales son sus intereses y tenga mucho temor de quedarse fuera.
+- *El mundo está conectado:* El Internet ha traído consigo la capacidad de mantener a la gente 100% conectada haciendo que el mundo se sienta más pequeño.
+- *Todo está abierto a la disrupción:* Nunca antes vimos disrupción en todas las industrias. Desde gobiernos, pasando por educación y transporte cambian gracias a la capacidad que tenemos hoy de conectarnos. Esta disrupción también crea pánico en algunos trabajadores pues los que no se suben a la ola tienen temor de quedarse fuera.

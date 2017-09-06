@@ -49,5 +49,5 @@ En pocos años los "Millennials" y "Generation Z" serán la mayoría de la fuerz
 
 ![](/assets/cinco-gen-juntas-quote.jpg)
 
-El trabajador del futuro no solo será más joven, será una persona con actitud ante el trabajo. Esto significa que las empresas deberán pensar en un modelo cultural y estructural que les permita lograr su mayor potencial.
+> El trabajador del futuro no solo será más joven, será una persona con actitud ante el trabajo. Esto significa que las empresas deberán pensar en un modelo cultural y estructural que les permita lograr su mayor potencial.
 

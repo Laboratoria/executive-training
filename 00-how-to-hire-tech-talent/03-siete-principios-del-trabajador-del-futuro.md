@@ -1,6 +1,6 @@
 # Siete principios del trabajador del futuro
 Los trabajadores del futuro tendrá un impacto importante en el ambiente laboral. Tanto las organizaciones como sus líderes tendrán que adaptarse a la forma en la que estas personas ven el mundo profesional. 
-Los líderes de las empresas deberán conocer los siete principios que hacen a los trabajadores del futuro diferentes, y así desarrollar un ambiente laboral para lograr explotar sus capacidades.
+Los líderes de las empresas deberán conocer los siete principios que hacen a los trabajadores del futuro diferentes, y así desarrollar un ambiente laboral adecuado para lograr explotar sus capacidades.
 
 A continuación los siete principios de los trabajadores del futuro:
 

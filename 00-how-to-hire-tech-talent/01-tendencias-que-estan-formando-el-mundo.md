@@ -66,7 +66,7 @@ La data puede ayudar a tener un mejor entendimiento de las necesidades de  la fu
 
 Knack es una compañía de Silicon Valley que usa juegos para identificar potencial en las personas. 
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/DQQm92xPOKk" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/DQQm92xPOKk" frameborder="0" allowfullscreen></iframe>
 
 *Este juego le permite a las empresas quitarse el bias del background de las personas y enfocarse en el corazón de su potencial tomando una decisión más objetiva en el reclutamiento de talento.*
 
@@ -84,7 +84,7 @@ Para el 2020 **Gartner** predice que habrán 26 billones de unidades que tendran
 
 FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin que sus colaboradores lo tengan que hacer. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vZmFxA6GIvU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/vZmFxA6GIvU" frameborder="0" allowfullscreen></iframe>
 
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.
 
@@ -127,6 +127,9 @@ Es la posibilidad de hacer negocios en cualquier parte del mundo sin cruzar fron
 ***
 
 ## ¿Qué es diferente esta vez?
+
+![](/assets/que-diferente.jpg)
+
 Hay tres razones por las cuales los cambios que vemos hoy son particularmente únicos:
 
 ### La velocidad del cambio ha aumentado

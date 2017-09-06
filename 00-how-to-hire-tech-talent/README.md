@@ -81,6 +81,10 @@ En este workshop exploraremos los siguientes temas:
 
 ***
 
+## Diapositívas
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyrEFKjImG96oh28pzBlaI6B8t3bFX_Bdrz0UribNSECOLn5_avhti5g4QnP7IsnqiqpUsRROHgm5L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Syllabus
 
 ### Lección 1: [Tendencias que están cambiando al Mundo](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)

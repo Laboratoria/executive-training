@@ -27,15 +27,17 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 
 ## El desarrollo de tecnología
 
-Los principales elementos que impactan el cambio tecnológico que vivimos es el uso del "CLOUD" y de las "PLATAFORMAS COLABORATIVAS". Además aun estamos entendiendo como "THE INTERNET OF THINGS" nos está impactando en nuestra vida personal y en un futuro cercano en el trabajo. Otros campos importantes que influencian la forma en la que trabajamos es el uso de la "INTELIGENCIA ARTIFICIAL" y "ROBOTS" que hoy están siendo usados principalmente en sistemas de servicio al cliente.
+![](/assets/desarrollo-tecnologico.jpg)
 
-La tecnología avanza tan rápido que hay un lapso de tiempo importante desde que se lanza hasta cuando empezamos a adoptarla en el ambiente laboral. Este lapso puede llegar a ser de uno o dos años.
+- Los principales elementos que impactan el cambio tecnológico que vivimos es el uso del "CLOUD" y de las "PLATAFORMAS COLABORATIVAS". Además aun estamos entendiendo como "THE INTERNET OF THINGS" nos está impactando en nuestra vida personal y en un futuro cercano en el trabajo. Otros campos importantes que influencian la forma en la que trabajamos es el uso de la "INTELIGENCIA ARTIFICIAL" y "ROBOTS" que hoy están siendo usados principalmente en sistemas de servicio al cliente.
+- La tecnología avanza tan rápido que hay un lapso de tiempo importante desde que se lanza hasta cuando empezamos a adoptarla en el ambiente laboral. Este lapso puede llegar a ser de uno o dos años.
+- El acceso al "CLOUD" ha eliminado la necesidad de comprar hardware y hacer instalaciones físicas para introducir tecnología en una compañía. Además se ha disminuido la inversión necesaria para tener una infraestructura tecnológica avanzada en una empresa.
+- El hecho de que hoy los colaboradores solo necesiten una tarjeta de crédito para acceder y usar tecnología tipo SASS, ha cambiado las reglas de juego para TI, Legal, Finanzas, y los procesos corporativos de aprobación. Dandole poder al individuo para experimentar y ser más eficiente en su trabajo.
+- Hoy vemos muchos casos en donde por poco dinero al mes un colaborador en una empresa puede acceder a un servicio que reemplace a un equipo en cuestión de minutos.
 
-El acceso al "CLOUD" ha eliminado la necesidad de comprar hardware y hacer instalaciones físicas para introducir tecnología en una compañía. Además se ha disminuido la inversión necesaria para tener una infraestructura tecnológica avanzada en una empresa.
+![](/assets/desarrollo-tecnologico-big-data.jpg)
 
-El hecho de que hoy los colaboradores solo necesiten una tarjeta de crédito para acceder y usar tecnología tipo SASS, ha cambiado las reglas de juego para TI, Legal, Finanzas, y los procesos corporativos de aprobación. Dandole poder al individuo para experimentar y ser más eficiente en su trabajo.
-
-Finalmente hoy vemos muchos casos en donde por poco dinero al mes un colaborador en una empresa puede acceder a un servicio que reemplace a un equipo en cuestión de minutos.
+El mundo digital y físico se van acercando y eso nos permite poder medir cada día más y obtener BIG DATA para resolver problemas que tenemos
 
 Profundicemos en alguno de estos conceptos para tener una mirada más clara de estos cambios.
 

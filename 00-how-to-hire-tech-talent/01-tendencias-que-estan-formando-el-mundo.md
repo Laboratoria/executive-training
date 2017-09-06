@@ -1,7 +1,7 @@
-# Tendencias que están cambiando al Mundo
-
-EL mundo se está transformando rápidamente. La era digital ha impactado no solo en la forma en que nos comunicamos, también está cambiando como las empresas funcionan.
+El mundo se está transformando rápidamente. La era digital ha impactado no solo en la forma en que nos comunicamos, también está cambiando como las empresas funcionan.
 Veamos cuales son las tendencias que están produciendo estos cambios.
+
+# Tendencias que están cambiando al Mundo
 
 ![](/assets/Screen Shot 2017-09-06 at 3.45.37 PM.png)
 
@@ -25,6 +25,8 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 - Hay un gap en la adopción de tecnología entre las personas y las empresas. 
 - Estos nuevos comportamientos y expectativas hacen que las empresas tengan que cambiar su cultura, estructura organizacional y tecnología para acceder a nuevas generaciones de colaboradores.
 
+***
+
 ## El desarrollo de tecnología
 
 ![](/assets/desarrollo-tecnologico.jpg)
@@ -35,14 +37,10 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 - El hecho de que hoy los colaboradores solo necesiten una tarjeta de crédito para acceder y usar tecnología tipo SASS, ha cambiado las reglas de juego para TI, Legal, Finanzas, y los procesos corporativos de aprobación. Dandole poder al individuo para experimentar y ser más eficiente en su trabajo.
 - Hoy vemos muchos casos en donde por poco dinero al mes un colaborador en una empresa puede acceder a un servicio que reemplace a un equipo en cuestión de minutos.
 
-![](/assets/desarrollo-tecnologico-big-data.jpg)
-
-El mundo digital y físico se van acercando y eso nos permite poder medir cada día más y obtener BIG DATA para resolver problemas que tenemos
-
 Profundicemos en alguno de estos conceptos para tener una mirada más clara de estos cambios.
 
-### Plataformas colaborativas
-Estas plataformas nos están conectando de una manera que nunca habíamos experimentado en el trabajo. De hecho el diseño de estas experiencias parten de la interacción que tenemos con estas plataformas en nuestra vida personal. En el mercado podemos ver una gama muy amplia de como estas tecnologías se están usando en diferentes áreas de una empresa:
+#### Plataformas colaborativas
+Estas plataformas nos están conectando de una manera que nunca habíamos experimentado en el trabajo. De hecho su diseño parte de la interacción que tenemos con ellas en nuestra vida personal. En el mercado podemos ver una gama muy amplia de como estas tecnologías se están usando en diferentes áreas de una empresa:
 - Introducción de nuevos empleados
 - Toma de notas y reuniones
 - Mantenerse al tanto de los procesos
@@ -53,22 +51,26 @@ Estas plataformas nos están conectando de una manera que nunca habíamos experi
 - Etc
 
 En conclusión estas plataformas colaborativas le dan al individuo el poder de conectarse y acceder a información en cualquier momento, desde cualquier lugar en cualquier dispositivo.
-
  
-### Big Data 
+#### Big Data 
+
+![](/assets/desarrollo-tecnologico-big-data.jpg)
+
 En base a un estudio de la IDC Digital Universe Study llamado "Extracting Value From Chaos" en el 2011 se produjeron más de 1.8 zettabytes de data. Esto es equivalente a construir la gran muralla china usando 57.5 billones de iPads de 32 GB llenos.
 
 Esta cantidad de data nos está permitiendo tener una cantidad increíble de información de una persona, lo que abre las puertas a desarrollar experiencias mucho más efectivas y predictivas para que una empresa maneje mejor su relación con los colaboradores. 
 
 La data puede ayudar a tener un mejor entendimiento de las necesidades de  la fuerza laboral de una empresa. Es capaz de predecir que colaboradores están más cerca de renunciar, quienes deberían ser promovidos, o quienes representan mayor valor para la compañía. Este concepto del uso de "BIG DATA" en el lugar de trabajo a tomado el nombre de "PEOPLE ANALYTICS".
 
-#### Caso [Knack](https://www.knack.it/)
+##### Caso [Knack](https://www.knack.it/)
 
 Knack es una compañía de Silicon Valley que usa juegos para identificar potencial en las personas. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DQQm92xPOKk" target="_blank"><img src="http://img.youtube.com/vi/DQQm92xPOKk/0.jpg" alt="Knack" width="480"/></a>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/DQQm92xPOKk" frameborder="0" allowfullscreen></iframe>
 
 *Este juego le permite a las empresas quitarse el bias del background de las personas y enfocarse en el corazón de su potencial tomando una decisión más objetiva en el reclutamiento de talento.*
+
+***
 
 ### The Internet of Things
 Hoy en día en el Internet aun se depende mucho de la gente para poder recopilar datos, pero que tal si los dispositivos que usamos podrían hacerlo por nosotros? Esto nos permitiría seguir, contar, y analizar todo lo que queramos.

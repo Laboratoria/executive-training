@@ -2,8 +2,7 @@
 
 ![](/assets/entendiendo-trabajador.jpg)
 
-En las empresas tradicionales los trabajadores suelen no tener voz ni voto sobre las decisiones de la empresa.   
-Los trabajadores llegan a trabajar a la misma hora, usan ropa muy parecida, hacen tareas muy similares, y le reportan a gente parecida. Trabajan en cubículos que se ven iguales, almuerzan en horarios parecidos y trabajan en perpetua homogeneidad, que de paso es la forma más fácil para matar la innovación.
+En las empresas tradicionales los trabajadores suelen no tener voz ni voto sobre las decisiones de la empresa. Los trabajadores llegan a trabajar a la misma hora, usan ropa muy parecida, hacen tareas muy similares, y le reportan a gente parecida. Trabajan en cubículos que se ven iguales, almuerzan en horarios parecidos y trabajan en perpetua homogeneidad, que de paso es la forma más fácil para matar la innovación.
 
 Los trabajadores no están empoderados para hacer preguntas, y no usan tecnología que les permite tener mejores vínculos sociales. Esto nos hace pensar que las compañías que trabajan con colaboradores tradicionales fueron creadas para trabajar como robots y no con humanos.
 

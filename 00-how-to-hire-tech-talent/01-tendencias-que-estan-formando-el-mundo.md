@@ -62,7 +62,7 @@ Esta cantidad de data nos está permitiendo tener una cantidad increíble de inf
 
 La data puede ayudar a tener un mejor entendimiento de las necesidades de  la fuerza laboral de una empresa. Es capaz de predecir que colaboradores están más cerca de renunciar, quienes deberían ser promovidos, o quienes representan mayor valor para la compañía. Este concepto del uso de "BIG DATA" en el lugar de trabajo a tomado el nombre de "PEOPLE ANALYTICS".
 
-##### Caso [Knack](https://www.knack.it/)
+###### Caso [Knack](https://www.knack.it/)
 
 Knack es una compañía de Silicon Valley que usa juegos para identificar potencial en las personas. 
 
@@ -70,37 +70,61 @@ Knack es una compañía de Silicon Valley que usa juegos para identificar potenc
 
 *Este juego le permite a las empresas quitarse el bias del background de las personas y enfocarse en el corazón de su potencial tomando una decisión más objetiva en el reclutamiento de talento.*
 
-***
+#### The Internet of Things
 
-### The Internet of Things
+![](/assets/internet-of-things.jpg)
+
 Hoy en día en el Internet aun se depende mucho de la gente para poder recopilar datos, pero que tal si los dispositivos que usamos podrían hacerlo por nosotros? Esto nos permitiría seguir, contar, y analizar todo lo que queramos.
 
 Para el 2020 **Gartner** predice que habrán 26 billones de unidades que tendran el potencial de ser conectadas a "THE INTERNET OF THINGS". Esto no incluyo PC, tabletas o smart phones.
 
-#### Caso [FedEx](http://www.fedex.com/pr/?gclid=Cj0KEQjwkZfLBRCzg-69tJy84N8BEiQAffAwqurfHiwdEne5LuBxsKRPSxOkC2H_9NIrxKhTqQZn06UaAlXG8P8HAQ)
+###### Caso [FedEx](http://www.fedex.com/pr/?gclid=Cj0KEQjwkZfLBRCzg-69tJy84N8BEiQAffAwqurfHiwdEne5LuBxsKRPSxOkC2H_9NIrxKhTqQZn06UaAlXG8P8HAQ)
+
+![](/assets/internet-of-things-fedex.jpg)
+
 FedEx está usando "THE INTERNET OF THINGS" para poder traquear sus envíos sin que sus colaboradores lo tengan que hacer. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vZmFxA6GIvU" target="_blank"><img src="http://img.youtube.com/vi/vZmFxA6GIvU/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vZmFxA6GIvU" frameborder="0" allowfullscreen></iframe>
 
 "THE INTERNET OF THINGS" nos está ayudando a crear "BIG DATA". Los dispositivos podrán hablar entre si en un futuro cercano. Esto tiene el potencial de hacer que nuestras vidas y el trabajo se puedan optimizar y podamos aprender más de nosotros mismos.
 
+***
+
 ## Los Millennials
+
+![](/assets/millennials.jpg)
+
 Millennials serán el 50% de la fuerza laboral para el 2020, y para el 2025 serán el 75%. Tienen una visión distinta del trabajo, tienen nuevas expectativas, nuevos valores, y un enfoque diferente de como atacar los problemas en la sociedad. Esta generación cuestiona el valor de la universidades, ya que su interés está ligado a sus habilidades de aprender y enseñar a su propio ritmo.
 Viven a través de los smartphones, sin este canal para comunicarse se manejan en un ambiente extraño que no pueden aprovechar. 
 Los Millennials están acostumbrados a estar en constante contacto entre ellos. Viven una vida más abierta y pública por lo que esperan que estas dinámicas se aplique en su vida profesional.
 
+***
+
 ## Movilidad
+
+![](/assets/movilidad.jpg)
+
 Hoy en día las personas tienen la posibilidad de acceder a información desde cualquier dispositivo, en cualquier lugar y a cualquier hora sin depender de un espacio físico. 
 Más y más vemos empresas que deciden crear un formato remoto de trabajo para beneficiarse de esta posibilidad.
 El 91% de las personas en la tierra tiene un teléfono móvil, y el 30% de ellos tiene un smartphone. 
 Los teléfonos inteligentes se están volviendo el estándar de comunicación ya que el 50% de los usuarios de smartphones usan su teléfono como la principal fuente de conexión con el Internet.
 
-#### Caso [CISCO](http://www.cisco.com/)
+###### Caso [CISCO](http://www.cisco.com/)
+
+![](/assets/movilidad-cisco.jpg)
+
 - 80,000 trabajadores alrededor del mundo. 
 - 50% de su fuerza trabaja remoto.
 
+***
+
 ## Globalización
+
+![](/assets/globalizacion.jpg)
+
 Es la posibilidad de hacer negocios en cualquier parte del mundo sin cruzar fronteras ha cambiado el perfil de las personas con las que trabajamos. El talento ya no necesita ser local. Las nuevas organizaciones tienen la posibilidad de tener equipos internacionales que les permiten tener presencia en cualquier parte del mundo.
+
+***
 
 ## ¿Qué es diferente esta vez?
 Hay tres razones por las cuales los cambios que vemos hoy son particularmente únicos:

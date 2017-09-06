@@ -1,10 +1,16 @@
 # Siete principios del trabajador del futuro
+
+![](/assets/siete-principios.jpg)
+
 Los trabajadores del futuro tendrá un impacto importante en el ambiente laboral. Tanto las organizaciones como sus líderes tendrán que adaptarse a la forma en la que estas personas ven el mundo profesional. 
 Los líderes de las empresas deberán conocer los siete principios que hacen a los trabajadores del futuro diferentes, y así desarrollar un ambiente laboral adecuado para lograr explotar sus capacidades.
 
 A continuación los siete principios de los trabajadores del futuro:
 
 ## 1. Tener un ambiente flexible donde las personas puedan trabajar en cualquier momento del día, o en cualquier lugar.
+
+![](/assets/siete-principios-1.jpg)
+
 - No necesitan estar en una oficina para trabajar. 
 - No quiere hacer commute, sentarse en un cubiculo, o tener un horario fijo. 
 - Quieren tener la capacidad de hacer trabajo remoto.
@@ -14,8 +20,12 @@ A continuación los siete principios de los trabajadores del futuro:
 - Deben cambiar su manera de comunicarse y adaptarse a las nuevas tecnologías. 
 - La confianza será un factor fundamental en la relación laboral.
 
-
 #### Caso [Unilever](https://www.unilever.com/) 
+
+![](/assets/siete-principios-1-unilever.jpg)
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/Ur97vSz_nyM" frameborder="0" allowfullscreen></iframe>
+
 - Tienen un volumen de negocio de $46B, con ventas en más de 170 países. 
 - Sus productos están en el 50% de los hogares del mundo, con +2B de consumidores. 
 - Unilever tiene una fuerza laboral de 175,000 trabajadores de los cuales 100,000 trabajan remoto. 

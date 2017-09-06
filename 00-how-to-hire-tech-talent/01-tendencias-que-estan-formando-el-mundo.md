@@ -1,5 +1,7 @@
 # Tendencias que están cambiando al Mundo
 
+![](/assets/Screen Shot 2017-09-06 at 3.45.37 PM.png)
+
 Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radicalmente. Estas tendencias son:
 - Nuevos comportamientos
 - El desarrollo de nuevas tecnologías 
@@ -11,13 +13,18 @@ Hay 5 tendencias en la era del Internet que han hecho que el mundo cambie radica
 ***
 
 ## Nuevos comportamientos
-Los nuevos comportamientos no ocurren solo en los "Millennials" que son nativos digitales, También ocurren en todas las demografías y geografías que usan el Internet. 
-Las empresas tienen que pensar en otras formas de comunicarse y generar interacción entre sus colaboradores.
 
-Hay un gap en la adopción de tecnología entre las personas y las empresas. 
-Estos nuevos comportamientos y expectativas hacen que las empresas tengan que cambiar su cultura, estructura organizacional y tecnología para acceder a nuevas generaciones de colaboradores.
+![](/assets/Screen Shot 2017-09-06 at 3.46.10 PM.jpg)
+
+- Los nuevos comportamientos no ocurren solo en los "Millennials" que son nativos digitales, También ocurren en todas las demografías y geografías que usan el Internet. 
+- Las empresas tienen que pensar en otras formas de comunicarse y generar interacción entre sus colaboradores.
+- Hay un gap en la adopción de tecnología entre las personas y las empresas. 
+- Estos nuevos comportamientos y expectativas hacen que las empresas tengan que cambiar su cultura, estructura organizacional y tecnología para acceder a nuevas generaciones de colaboradores.
 
 ## El desarrollo de tecnología
+
+
+
 Los principales elementos que impactan el cambio tecnológico que vivimos es el uso del "CLOUD" y de las "PLATAFORMAS COLABORATIVAS". Además aun estamos entendiendo como "THE INTERNET OF THINGS" nos está impactando en nuestra vida personal y en un futuro cercano en el trabajo. Otros campos importantes que influencian la forma en la que trabajamos es el uso de la "INTELIGENCIA ARTIFICIAL" y "ROBOTS" que hoy están siendo usados principalmente en sistemas de servicio al cliente.
 
 La tecnología avanza tan rápido que hay un lapso de tiempo importante desde que se lanza hasta cuando empezamos a adoptarla en el ambiente laboral. Este lapso puede llegar a ser de uno o dos años.

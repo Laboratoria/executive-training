@@ -46,6 +46,9 @@ Este tipo de estadísticas nos podrían hacer creen que estas condiciones solo f
 ***
 
 ## 2. Ser capaces de definir su ruta de crecimiento profesional.
+
+![](/assets/siete-principios-2.jpg)
+
 El trabajador del futuro ya no espera crear una carrera de por vida en una empresa. Ellos esperan construir su carrera teniendo la oportunidad de decidir en que proyectos quieren trabajar. El trabajo se convertirá en una *aventura para personalizar la experiencia de cada individuo*, a diferencia de *establecer una ruta de crecimiento en una empresa*.
 
 Este concepto parte de la industria de Freelancers en donde las personas tienen la capacidad de decidir en que proyectos trabajar.

@@ -54,9 +54,14 @@ El trabajador del futuro ya no espera crear una carrera de por vida en una empre
 Este concepto parte de la industria de Freelancers en donde las personas tienen la capacidad de decidir en que proyectos trabajar.
 
 ##### Caso [Valve](http://www.valvesoftware.com/) 
+
+![](/assets/siete-principios-2-velve.jpg)
+
 - Compañía de video juegos que tiene 400 empleados y factura más de $4B al año. 
 - Valve es una empresa que no tiene gerentes. 
 - Sus trabajadores tienen la flexibilidad de trabajar en los proyectos de la compañía que más les llamen la atención.
+
+![](/assets/siete-principios-2-velve2.jpg)
 
 Este trabajo no es para todo el mundo ya que hay personas que no pueden adaptarse a esta cultura de trabajo en donde no hay gerentes. Este problema le pone mucha presión a los equipos de recursos humanos que tienen que identificar al talento adecuado que haga fit-cultural con la compañía. De hecho en su Employee HandBook para reclutamiento tienen este párrafo:
 

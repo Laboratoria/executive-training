@@ -9,8 +9,6 @@ A continuación los siete principios de los trabajadores del futuro:
 
 ## 1. Tener un ambiente flexible donde las personas puedan trabajar en cualquier momento del día, o en cualquier lugar.
 
-![](/assets/siete-principios-1.jpg)
-
 El trabajador del futuro sabe que puede trabajar de manera remota y que no necesita estar anclado en una oficina. Además este trabajador ya no quiere hacer commute, o trabajar en un cubículo, o tener horarios fijos de trabajo.
 
 **Para los supervisores**
@@ -47,8 +45,6 @@ Este tipo de estadísticas nos podrían hacer creen que estas condiciones solo f
 
 ## 2. Ser capaces de definir su ruta de crecimiento profesional.
 
-![](/assets/siete-principios-2.jpg)
-
 El trabajador del futuro ya no espera crear una carrera de por vida en una empresa. Ellos esperan construir su carrera teniendo la oportunidad de decidir en que proyectos quieren trabajar. El trabajo se convertirá en una *aventura para personalizar la experiencia de cada individuo*, a diferencia de *establecer una ruta de crecimiento en una empresa*.
 
 Este concepto parte de la industria de Freelancers en donde las personas tienen la capacidad de decidir en que proyectos trabajar.
@@ -68,14 +64,21 @@ Este trabajo no es para todo el mundo ya que hay personas que no pueden adaptars
 > Deciding what to work on can be the hardest part of your job at Valve. This is because, as you've found out by now, you were not hired to fill a specific job description. You were hired to constantly be looking around for the most valuable work you could be doing. At the end of a project, you may end up well outside what you thought was your core area of expertise.
 
 ## 3. Compartir información de manera transparente en tiempo real.
+
+![](/assets/siete-principios-3-herramientas.jpg)
+
 En las empresas del futuro "Conocimiento es poder". Esto no solo ocurre a un nivel institucional, sino también al nivel de los colaboradores. Los trabajadores del futuro son personas convencidas que el poder y el éxito dependen de la capacidad que tienen para compartir su conocimiento. El colaborador que comparta sus ideas a través de tecnologías colaborativas, y medios sociales serán los elegidos para triunfar y crecer en su carrera. Ellos serán los líderes del futuro.
 
 Compartir conocimiento tiene grandes ventajas como archivar la información y hacerla disponible para que otros la busquen. Además las nuevas tecnologías están logrando que podamos relacionarnos mejor con gente que comparta nuestros pensamientos, lo que resulta en generar mayores oportunidades para desarrollar confianza entre nosotros.
 Las personas capaces de compartir información también serán reconocidos como líderes por las personas que piensan que su criterio es relevante, y esto los ayudará a desarrollar redes fuertes y comprometidas.
 
+
 En los trabajadores del futuro el liderazgo ya no está reservado únicamente para los que están en la parte alta de la pirámide, sino quienes logren desarrollar comunidades activas entorno a sus ideas compartidas a través tecnologías colaborativas y medios sociales. En conclusión la mejor forma de convertirse en un líder es compartiendo información relevante que logre que otros te siguan porque confían en tu criterio.
 
 ## 4. Usar nuevas formas para comunicarse y colaborar.
+
+![](/assets/siete-principios-4.jpg)
+
 El email ya no es la manera más eficiente para comunicarse y compartir conocimiento. Hoy en día existen nuevas tecnologías, como las plataformas colaborativas que empiezan a reemplazar al correo en diferentes situaciones.
 
 - Hoy en día se envían más de 130B de emails de negocios diarios. 
@@ -86,19 +89,28 @@ El email ya no es la manera más eficiente para comunicarse y compartir conocimi
 Las tecnologías colaborativas ayudan a resolver este problema y a maximizar el tiempo de enfoque de un trabajador en lo que genera valor para la empresa.
 
 ##### Caso [Loom](https://trello.com/b/hQEJSVSQ/loom-roadmap) 
+
+![](/assets/siete-principios-4-loom.jpg)
+
 - Este es el roadmap de un producto
 - El Product Owner comparte la información del desarrollo y la visión del producto con una comunidad más grande para ellos comente.
 - La transparencia pone a este equipo como un referente de organización en la empresa y seguramente marcan la pauta para mucho en como desarrollar conocimiento comunitario para mejorar un producto.
 
 
 ## 5. Convertirse en líderes
-Por primera vez en la historia del mundo de los negocios los trabajadores tienen la oportunidad para volverse líderes en su organización al compartir sus ideas y comentarios de manera pública y transparente con sus colegas, gerentes y ejecutivos. Esta opción se genera a través del uso de las tecnologías colaborativas. Como nunca antes los trabajadores son capaces de construir sus redes personales dentro de una organización a gran escala y ser reconocidos por las contribuciones. La tecnología ha empoderado dramáticamente a los trabajadores dándoles la posibilidad de construir relaciones muy fuertes.
+
+![](/assets/siete-principios-5-smashing.jpg)
+
+Por primera vez en la historia del mundo de los negocios los trabajadores tienen la oportunidad para volverse líderes en su organización al compartir sus ideas y comentarios de manera pública y transparente con sus colegas, gerentes y ejecutivos. Esta opción se genera a través del uso de las tecnologías colaborativas. Como nunca antes los trabajadores son capaces de construir sus redes personales dentro de una organización a gran escala y ser reconocidos por las contribuciones. La tecnología ha empoderando dramáticamente a los trabajadores dándoles la posibilidad de construir relaciones muy fuertes.
 
 Esto quiere decir que el liderazgo ya no solo está reservado para las personas que están en la parte de una pirámide corporativa. Los líderes del futuro ya no son nombrados, se crean. Hoy en día los nuevos líderes toman fuerza en Facebook, Twitter, Blogs, Youtube, entre otras plataformas. Debido a esto ya no puedes ser una líder sin seguidores, y para conseguirlos es necesario compartir.
 
 Hoy el gran desafío es lograr que el modelo tradicional que define que es un líder, se ajusta a un mundo en donde la conectividad es clave para obtener seguidores.
 
 ## 6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
+
+![](/assets/siete-principios-6.jpg)
+
 El conocimiento es un comodity. No es suficiente con ser una persona inteligente, ya que hoy todos tenemos acceso a la información desde nuestro celular. Es necesario tener las habilidades para poder aprender nuevas cosas y luego poder usarlas para transformar escenarios o resolver problemas. El trabajador del futuro es una persona que "aprende a aprender".
 
 El mundo está cambiando rápidamente. Cuando los jóvenes que hoy cruzan la universidad se gradúen, su conocimiento será obsoleto. Esto quiere decir que conocimiento y experiencia ya no son el comodity primario. Lo que es más valioso es tener la habilidad de aprender y aplicar esos conocimientos. Ya no es más acerca de lo que sabes, es acerca de como aprendes y te adaptas.

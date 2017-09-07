@@ -117,9 +117,12 @@ El mundo está cambiando rápidamente. Cuando los jóvenes que hoy cruzan la uni
 
 Thomas L. Friedman escribió en un artículo que publicó en el new York Times llamado "Need a Job? Invente it" lo siguiente:
 
+![](/assets/siete-principios-6-quote.jpg)
+
 >Today because knowledge is available on every Internet connected device, what you know matter far less than what you can do with what you know. The capacity to innovate -- th ability to solve problems creatively or bring new posibilities to life -- and skills like critical thinking, communications and collaboration are far more important than academic knowledge. As one excecutive tolde me. "We can tech new hires the content, and we will have to because it continues to change, but we can´t teach them how to think --  to ask the right questions -- and to take initiative"
 
 ### El declive del valor del título universitario
+
 En Estados Unidos la gente que se gradúa de universidad tienen que pagar una deuda de $35,000 en promedio. Los estudiantes que van a un MBA alrededor de $100,000. Los trabajadores del futuro aprenden constantemente accediendo a diversos tipos de información que quieren y necesitan antes de entrar a la universidad.
 
 Hay que considerar que hoy hay una oferta enorme de cursos en línea. Estos cursos están disponibles para cualquier persona que quiera tomarlos. Hay cursos de prácticamente todos los temas, los cuales te permiten aprender lo mismo que te enseñan en la universidad por una fracción de su costo.
@@ -134,4 +137,7 @@ La educación está modularizada permitiéndole a la gente tomar cursos sin tene
   
 
 ## 7. Aprender y enseñar a su ritmo.
+
+![](/assets/siete-principios-7.jpg)
+
 La manera tradicional de aprender y enseñar estaba dictada por la organizaciones quienes definen los programas de entrenamiento, manuales, y expectativas. La tecnología a conectado a los trabajadores y la información en cualquier lugar, a cualquier hora y a través de cualquier dispositivo conectado al Internet. Esto quiere decir que el entrenamiento puede suceder entre colaboradores sin tener un plan formal de la empresa. 

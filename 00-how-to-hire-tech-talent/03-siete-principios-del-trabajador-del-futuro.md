@@ -14,6 +14,7 @@ A continuación los siete principios de los trabajadores del futuro:
 El trabajador del futuro sabe que puede trabajar de manera remota y que no necesita estar anclado en una oficina. Además este trabajador ya no quiere hacer commute, o trabajar en un cubículo, o tener horarios fijos de trabajo.
 
 **Para los supervisores**
+
 Del lado de los supervisores este principio tiene un impacto importante, ya que no podrán acceder de manera física a supervisar a sus trabajadores como tradicionalmente se hacía. Esto significa también que es necesario que cambie su manera de comunicarse y adaptarse a las nuevas tecnologías. Finalmente la confianza será un factor fundamental en la relación laboral.
 
 #### Caso [Unilever](https://www.unilever.com/) 

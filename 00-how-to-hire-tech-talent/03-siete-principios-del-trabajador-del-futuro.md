@@ -32,9 +32,10 @@ Del lado de los supervisores este principio tiene un impacto importante, ya que 
 - Se estima un ahorro monetario de $40M. 
 - El 80% de su fuerza laboral siente que aumento su productividad.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ur97vSz_nyM" target="_blank"><img src="http://img.youtube.com/vi/Ur97vSz_nyM/0.jpg" alt="#Fedex Sense Aware" width="480"/></a>
+#### Caso [MomCorps](https://www.corpsteam.com/)
 
-### La flexibilidad como una manera de atraer y mantener al mejor talento
+![](/assets/siete-principios-1-media-group.jpg)
+
 En un estudio hecho por *[Chess Media Group](https://www.fowcommunity.com/chess-media-group-has-launched-fow-community)* en Mayo del 2013 llamado "The Future of Work Reshaping the Workplace Today Building for Tomorrow" mostró que el 90% de los trabajadores encuestados sienten que un trabajo que tiene flexibilidad es más atractivo para trabajar.
 
 Este tipo de estadísticas nos podrían hacer creen que estas condiciones solo funcionan para la fuerza laboral más joven (Millennials o Generation Z). [MomCorps](https://www.corpsteam.com/) encuesto a 1,100 trabajadores adultos en Julio del 2013 teniendo como resultado lo siguiente:
@@ -42,22 +43,7 @@ Este tipo de estadísticas nos podrían hacer creen que estas condiciones solo f
 - 80% de padres que trabajan sienten que el trabajo remoto les permite criar mejor a sus hijos.
 - 70% de los padres ven en la flexibilidad uno de los factores más importantes para tomar la decisión de elegir un lugar de trabajo.
 
-#### Beneficios alrededor de la flexibilidad
-Según el [Global Workplace Analytics](http://globalworkplaceanalytics.com/) un negocio común ahorrará $11,000 por empleado por año si esta persona tiene permitido el trabajo remoto solo la mitad de su tiempo. Los trabajadores ahorrarán entre $2,000 y $7,000 por año en costos relacionados a su transporte. 
-
-##### Caso [Aetna](https://www.aetna.com/index.html) 
-- Es una compañía de seguros de saludos que emplea a más de 35,000 en todo el mundo.
-- 50% de su fuerza laboral trabaja remoto desde casa.
-- Ahorran más de $80M en espacio físico de oficinas anualmente.
-
-##### Caso [Intel](https://www.intel.la/content/www/xl/es/homepage.html) 
-- Emplea a más de 100,000 personas en todo el mundo.
-- Más del 80% de sus colaboradores trabaja de manera remota.
-
-##### Caso [TELUS](http://www.telus.com/en/on/index.jsp) 
-- Es una compañía de telecomunicaciones.
-- Emplea a más de 40,000 personas.
-- 70% de sus colaboradores trabaja remoto o "on-the-go" de manera móvil. 
+***
 
 ## 2. Ser capaces de definir su ruta de crecimiento profesional.
 El trabajador del futuro ya no espera crear una carrera de por vida en una empresa. Ellos esperan construir su carrera teniendo la oportunidad de decidir en que proyectos quieren trabajar. El trabajo se convertirá en una *aventura para personalizar la experiencia de cada individuo*, a diferencia de *establecer una ruta de crecimiento en una empresa*.

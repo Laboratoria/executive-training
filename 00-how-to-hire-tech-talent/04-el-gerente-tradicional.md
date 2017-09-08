@@ -39,6 +39,8 @@ En los últimos 5-10 años hemos venido experimentando un ambiente laboral conec
 ### Porque es obsoleta
 - El trabajo del futuro esta en enfocarse en los resultados sin importar dónde está, o a que hora el trabajador hace su tarea, sino cual es el resultado de su trabajo.
 
+***
+
 ## Los gerentes tienen acceso a la información para tomar desiciones
 
 ![](/assets/gerente-tradicional-acceso-informacion.jpg)
@@ -47,6 +49,8 @@ En los últimos 5-10 años hemos venido experimentando un ambiente laboral conec
 
 ### Porque es obsoleta
 - Vemos un cambio masivo en el mercado para generar apertura de la información, y para construir inteligencia colaborativa.
+
+***
 
 ## Pocos controlan mucho
 
@@ -58,7 +62,9 @@ En los últimos 5-10 años hemos venido experimentando un ambiente laboral conec
 - Hay un tendencia clara para empoderar al trabajador en sus equipos y lograr que ellos sean quienes toman las desiciones en las iniciativas que manejan.
 - El rol de los gerentes es facilitar el flujo de la información, y mentoría a los trabajadores más jóvenes.
 
-## 6. No hay espacio para la experimentación
+***
+
+## No hay espacio para la experimentación
 
 ![](/assets/gerente-tradicional-espacio-experimentacion.jpg)
 
@@ -66,6 +72,8 @@ En los últimos 5-10 años hemos venido experimentando un ambiente laboral conec
 
 ### Porque es obsoleta
 - Las empresas del futuro basan el diseño de sus iniciativas en la experimentación. Bien ejecutada y medida puede generar data relevante para lograr tener experiencias exitosas.
+
+***
 
 ## Confianza en el pasado
 
@@ -75,6 +83,8 @@ En los últimos 5-10 años hemos venido experimentando un ambiente laboral conec
 
 ### Porque es obsoleta
 - Con la llegada de nuevas generaciones de trabajadores y el uso de la tecnología hay un esfuerzo importante por tratar de ajustar la cultura, estructura organizacional, y plataforma tecnológica para que estas aprovechen la capacidad de experimentar, diseñar con data, la apertura a trabajar con terceros y lograr experiencias omnicanales.
+
+***
 
 ## Enfoque en lo inadecuado
 

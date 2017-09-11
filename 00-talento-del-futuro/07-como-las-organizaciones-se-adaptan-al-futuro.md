@@ -1,4 +1,7 @@
 # Como las organizaciones se adaptan al futuro
+
+![](/assets/organizaciones-adaptan.jpg)
+
 Crear una organización del futuro no es cosa simple. Es necesario romper muchos esquemas y procesos preestablecidos que pueden generar mucha incertidumbre y caos en el modelo de una empresa. Lo ideal es hacerlo de manera gradual, tratando de seguir un plan concreto que permita ir permeando a toda la empresa de este mindset y cultura. 
 
 Jacob Morgan creador del libro "[The Future of Work](https://www.amazon.com/Future-Work-Attract-Competitive-Organization/dp/1118877241/ref=la_B00703V3WO_1_2?s=books&ie=UTF8&qid=1394472808&sr=1-2)" nos propone la siguiente guía:

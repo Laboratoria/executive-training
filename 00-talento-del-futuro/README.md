@@ -31,11 +31,23 @@ En este workshop exploraremos los siguientes temas:
 
 Este material será compartido días previos para su acceso online en nuestra plataforma educativa. Los videos explican conceptos básicos que también se verán en las sesiones presenciales:
 
-- Producto Mínimo Viable y desarrollo de clientes
-- Desarrollo “Agile” y “Lean Startup”
-- Etapas de crecimiento de un producto digital
-- Etapas y roles en el desarrollo de productos digitales
-- Diseño de experiencia usuario (UXD)
+#### Producto Mínimo Viable y desarrollo de clientes
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/q-6Hkqb0DRg" frameborder="0" allowfullscreen></iframe>
+
+#### Desarrollo “Agile” y “Lean Startup”
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/kTFD12LBgZw" frameborder="0" allowfullscreen></iframe>
+
+#### Etapas de crecimiento de un producto digital
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/FQxd7ZWLbGs" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/XcrIYEZO2ds" frameborder="0" allowfullscreen></iframe>
+
+#### Etapas y roles en el desarrollo de productos digitales
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/ge4h5uJN6KI" frameborder="0" allowfullscreen></iframe>
+
+#### Diseño de experiencia usuario (UXD)
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/SBIvPTSy1QM" frameborder="0" allowfullscreen></iframe>
+
 - Creencias Dañinas: Cuando grandes empresas se duermen en sus laureles
 - Estrategias para ganar en digital
 - Retos de la plataforma tecnológica: Sistemas Legacy y APIs

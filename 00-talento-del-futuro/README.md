@@ -1,8 +1,8 @@
-# 01. How to hire tech talent
+# 01. Talento del Futuro
 
 La manera en que las empresas hacen negocios se ha transformado radicalmente en la era digital. Hoy es posible reconocer cinco tendencias que hacen que las empresas puedan seguir compitiendo en un mundo que avanza aceleradamente.   
 
-El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlas a los procesos de identificación de talento que hoy tiene las empresas.
+El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlos a los procesos de identificación de talento de las empresas.
 Nuestro objetivo es lograr que los equipos que reclutar talento comprendan cuales son las habilidades del futuro para tener una fuerza laboral que lleve al negocio a ser líder en su rubro aprovechando los beneficios de la era digital.
 
 ## Público objetivo

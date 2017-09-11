@@ -1,13 +1,13 @@
-# 01. How to hire tech talent
+# 01. Talento del Futuro
 
 La manera en que las empresas hacen negocios se ha transformado radicalmente en la era digital. Hoy es posible reconocer cinco tendencias que hacen que las empresas puedan seguir compitiendo en un mundo que avanza aceleradamente.   
 
-El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlas a los procesos de identificación de talento que hoy tiene las empresas.
+El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlos a los procesos de identificación de talento de las empresas.
 Nuestro objetivo es lograr que los equipos que reclutar talento comprendan cuales son las habilidades del futuro para tener una fuerza laboral que lleve al negocio a ser líder en su rubro aprovechando los beneficios de la era digital.
 
 ## Público objetivo
 
-C-Suite, Recursos Humanos y Product Owners
+C-Suite, Recursos Humanos, Product Managers, y Product Owners
 
 ## Requerimientos previos
 
@@ -17,7 +17,6 @@ No se necesitan conocimientos previos para tomar este workshop, solo estar en un
 
 En este workshop exploraremos los siguientes temas:
 
-### Presencial
 1. Tendencias que están cambiando al mundo
 2. Entendiendo al colaborador
 3. Siete principios del trabajador del futuro
@@ -26,68 +25,34 @@ En este workshop exploraremos los siguientes temas:
 6. Las organizaciones del futuro y sus catorce principios
 7. Como las organizaciones se adaptan al futuro
 
-## Detalles logísticos
-
-* Presencial: 3 hrs
-* Total horas: 3 hrs
-
-***
-
-## Autor(es) / Colaboradores
-
-* [Herman Marin](https://www.linkedin.com/in/herman-marin/)
-* [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/)
-
-## Libros
-
-- [The Future of Work by Jacob Morgan](https://www.amazon.com/Future-Work-Attract-Competitive-Organization/dp/1118877241/ref=la_B00703V3WO_1_2?s=books&ie=UTF8&qid=1394472808&sr=1-2)
-
-## Lecturas complementarias
-
-### Lección 1
-- [FedEx Joins the Internet of Things with Senseaware](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)
-
-### Lección 2
-- [Gallup](http://www.gallup.com/)
-- [Kelly Outsourcing and Consulting Group](http://www.kellyservices.co.in/)
-- [Journal of Applied Psychology](http://www.apa.org/pubs/journals/apl/)
-
-### Lección 3
-- [The 7 Principles Of The Future Employee, Forbes](https://www.forbes.com/sites/jacobmorgan/2014/11/11/the-7-principles-of-the-future-employee/#37654d5d4cac)
-- [Remote Working: Who's Right?](https://www.forbes.com/sites/edwardlawler/2013/05/15/remote-working-whos-right/#36e736173a79)
-- [Agile Working Driving A Cultural Transformation At Unilever](http://www.unwired.eu.com/WT12/asia/_pdfs/WORKTECH12Asia-Unilever.pdf)
-- [The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/)
-- [Employees Prefer Flexibility over Salary Increases](https://www.recruiter.com/i/employees-prefer-flexibility-over-salary-increases/)
-- [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
-
-### Lección 4
-- [Need a Job?, Invent It](http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-invent-it.html)
-
-### Lección 5
-- [The 10 Principles Of The Future Manager](https://www.forbes.com/sites/jacobmorgan/2014/11/20/the-10-principles-of-the-future-manager/#27a80f6762de)
-- [The power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
-- [The State of Employee Recognition * SHRM/GloboforceE Survey Tacker Results](http://www.globoforce.com/gfblog/2011/the-state-of-employee-recognition-shrmgloboforce-survey-tracker-results/)
-
-### Lección 6
-- [The 14 Principles Of The Future Organization](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jacobmorgan/2015/01/14/the-14-principles-of-the-future-organization/&refURL=https://www.google.com.pe/&referrer=https://www.google.com.pe/)
-- [The 'Two Pizza Rule' Is Jeff Bezos' Secret To Productive Meetings](http://www.businessinsider.com/jeff-bezos-two-pizza-rule-for-productive-meetings-2013-10)
-- [State of the American Workplace](http://www.gallup.com/reports/199961/state-american-workplace-report-2017.aspx?utm_source=SOAW&utm_campaign=StateofAmericanWorkplace&utm_medium=2013SOAWreport)
-- [Richard Branson on Intrapreneurs](http://www.nbcnews.com/id/41359235/ns/business-small_business/t/richard-branson-intrapreneurs/#.WWU11NMrIXo)
-- [Culture at Netflix](https://jobs.netflix.com/culture/#introduction)
-- [My Strabucks Idea](https://www.starbucks.com/coffeehouse/learn-more/my-starbucks-idea)
-- [The Real Story Behind Apple's Famous '1984' Super Bowl Ad](https://www.youtube.com/watch?v=PsjMmAqmblQ)
-- [The LEGO® Story](https://www.youtube.com/watch?v=NdDU_BBJW9Y)
-- [The Millennial Survey](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/millennial-survey.html)
-
-***
-
-## Diapositívas
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyrEFKjImG96oh28pzBlaI6B8t3bFX_Bdrz0UribNSECOLn5_avhti5g4QnP7IsnqiqpUsRROHgm5L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-***
-
 ## Syllabus
+
+### Pre-work: Basic Concepts - 2.5hr
+
+Este material será compartido días previos para su acceso online en nuestra plataforma educativa. Los videos explican conceptos básicos que también se verán en las sesiones presenciales:
+
+#### Producto Mínimo Viable y desarrollo de clientes
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/q-6Hkqb0DRg" frameborder="0" allowfullscreen></iframe>
+
+#### Desarrollo “Agile” y “Lean Startup”
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/kTFD12LBgZw" frameborder="0" allowfullscreen></iframe>
+
+#### Etapas de crecimiento de un producto digital
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/FQxd7ZWLbGs" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/XcrIYEZO2ds" frameborder="0" allowfullscreen></iframe>
+
+#### Etapas y roles en el desarrollo de productos digitales
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/ge4h5uJN6KI" frameborder="0" allowfullscreen></iframe>
+
+#### Diseño de experiencia usuario (UXD)
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/SBIvPTSy1QM" frameborder="0" allowfullscreen></iframe>
+
+- Creencias Dañinas: Cuando grandes empresas se duermen en sus laureles
+- Estrategias para ganar en digital
+- Retos de la plataforma tecnológica: Sistemas Legacy y APIs
+- Retos de la cultura: cultura “fail-friendly” y mentalidad “agile”
+- Retos de la organización: La nueva estructura organizacional y el equipo en el proceso de desarrollo
 
 ### Lección 1: [Tendencias que están cambiando al Mundo](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)
 
@@ -159,8 +124,64 @@ No solo los trabajadores y gerentes del futuro deben entender y adquirir los pri
 ### Lección 7: [Como las organizaciones se adaptan al futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/07-como-las-organizaciones-se-adaptan-al-futuro.md)
 En base a un modelo propuesto por Jacob Morgan creador del libro "The Future of Work" planteamos una guía para transformar a una organización tradicional a una del futuro.
 
+## Detalles logísticos
 
+* Presencial: 1 sesión
+* Total horas: 3 hrs
 
+***
+
+## Autor(es) / Colaboradores
+
+* [Herman Marin](https://www.linkedin.com/in/herman-marin/)
+* [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/)
+
+## Libros
+
+- [The Future of Work by Jacob Morgan](https://www.amazon.com/Future-Work-Attract-Competitive-Organization/dp/1118877241/ref=la_B00703V3WO_1_2?s=books&ie=UTF8&qid=1394472808&sr=1-2)
+
+## Lecturas complementarias
+
+### Lección 1
+- [FedEx Joins the Internet of Things with Senseaware](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)
+
+### Lección 2
+- [Gallup](http://www.gallup.com/)
+- [Kelly Outsourcing and Consulting Group](http://www.kellyservices.co.in/)
+- [Journal of Applied Psychology](http://www.apa.org/pubs/journals/apl/)
+
+### Lección 3
+- [The 7 Principles Of The Future Employee, Forbes](https://www.forbes.com/sites/jacobmorgan/2014/11/11/the-7-principles-of-the-future-employee/#37654d5d4cac)
+- [Remote Working: Who's Right?](https://www.forbes.com/sites/edwardlawler/2013/05/15/remote-working-whos-right/#36e736173a79)
+- [Agile Working Driving A Cultural Transformation At Unilever](http://www.unwired.eu.com/WT12/asia/_pdfs/WORKTECH12Asia-Unilever.pdf)
+- [The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/)
+- [Employees Prefer Flexibility over Salary Increases](https://www.recruiter.com/i/employees-prefer-flexibility-over-salary-increases/)
+- [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+
+### Lección 4
+- [Need a Job?, Invent It](http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-invent-it.html)
+
+### Lección 5
+- [The 10 Principles Of The Future Manager](https://www.forbes.com/sites/jacobmorgan/2014/11/20/the-10-principles-of-the-future-manager/#27a80f6762de)
+- [The power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
+- [The State of Employee Recognition * SHRM/GloboforceE Survey Tacker Results](http://www.globoforce.com/gfblog/2011/the-state-of-employee-recognition-shrmgloboforce-survey-tracker-results/)
+
+### Lección 6
+- [The 14 Principles Of The Future Organization](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jacobmorgan/2015/01/14/the-14-principles-of-the-future-organization/&refURL=https://www.google.com.pe/&referrer=https://www.google.com.pe/)
+- [The 'Two Pizza Rule' Is Jeff Bezos' Secret To Productive Meetings](http://www.businessinsider.com/jeff-bezos-two-pizza-rule-for-productive-meetings-2013-10)
+- [State of the American Workplace](http://www.gallup.com/reports/199961/state-american-workplace-report-2017.aspx?utm_source=SOAW&utm_campaign=StateofAmericanWorkplace&utm_medium=2013SOAWreport)
+- [Richard Branson on Intrapreneurs](http://www.nbcnews.com/id/41359235/ns/business-small_business/t/richard-branson-intrapreneurs/#.WWU11NMrIXo)
+- [Culture at Netflix](https://jobs.netflix.com/culture/#introduction)
+- [My Strabucks Idea](https://www.starbucks.com/coffeehouse/learn-more/my-starbucks-idea)
+- [The Real Story Behind Apple's Famous '1984' Super Bowl Ad](https://www.youtube.com/watch?v=PsjMmAqmblQ)
+- [The LEGO® Story](https://www.youtube.com/watch?v=NdDU_BBJW9Y)
+- [The Millennial Survey](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/millennial-survey.html)
+
+***
+
+## Diapositívas
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyrEFKjImG96oh28pzBlaI6B8t3bFX_Bdrz0UribNSECOLn5_avhti5g4QnP7IsnqiqpUsRROHgm5L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 

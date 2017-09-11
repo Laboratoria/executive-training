@@ -2,7 +2,6 @@
 
 La manera en que las empresas hacen negocios se ha transformado radicalmente en la era digital. Hoy es posible reconocer cinco tendencias que hacen que las empresas puedan seguir compitiendo en un mundo que avanza aceleradamente.   
 
-El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlos a los procesos de identificación de talento de las empresas.
 Nuestro objetivo es lograr que los equipos que reclutar talento comprendan cuales son las habilidades del futuro para tener una fuerza laboral que lleve al negocio a ser líder en su rubro aprovechando los beneficios de la era digital.
 
 ## Público objetivo
@@ -81,11 +80,11 @@ Las siete características del trabajador del futuro son las siguientes:
 7. Aprender y enseñar a su ritmo.
 
 ### Lección 4: [El gerente tradicional](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/04-el-manager-y-sus-diez-principios.md)
-Un vistazo a las funciones de los gerentes tradicionales y como estás se han convertido en practicas obsoletas en un industria que se mueve con tecnología.
+Un vistazo a las funciones de los gerentes tradicionales y como estás se han convertido en prácticas obsoletas en un industria que se mueve con tecnología.
 1. Jerarquías y Charts de estructuras organizacionales
 2. Annual Reviews
 3. Concentrarse en las tareas
-4. Los gerentes tienen acceso a la información para tomar desiciones
+4. Los gerentes tienen acceso a la información para tomar decisiones
 5. Pocos controlan mucho
 6. No hay espacio para la experimentación
 7. Confianza en el pasado
@@ -105,7 +104,7 @@ Los gerentes necesitan entender las necesidades que traen al ambiente laboral lo
 10. Se adapta al trabajador del futuro
 
 ### Lección 6: [Las organizaciones del futuro y sus catorce principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/06-las-organizaciones-del-futuro-y-sus-catorce-principios.md)
-No solo los trabajadores y gerentes del futuro deben entender y adquirir los principios que les permitirán ser competitivos en el mundo de negocios en el que vivimos. También las empresas deben prepara su cultura y estructura organizacional para lograrlo. En esta lección aprenderemos cuales son esos principios:
+No solo los trabajadores y gerentes del futuro deben entender y adquirir los principios que les permitirán ser competitivos en el mundo de negocios en el que vivimos. También las empresas deben preparar su cultura y estructura organizacional para lograrlo. En esta lección aprenderemos cuales son esos principios:
 1. Distribución global con equipos pequeños
 2. Fuerza laboral conectada
 3. Intraemprendimiento
@@ -121,7 +120,7 @@ No solo los trabajadores y gerentes del futuro deben entender y adquirir los pri
 13. Cambiar de "utilidades" a "prosperidad"
 14. Adaptarse al trabajador y gerente del futuro
 
-### Lección 7: [Como las organizaciones se adaptan al futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/07-como-las-organizaciones-se-adaptan-al-futuro.md)
+### Lección 7: [Cómo las organizaciones se adaptan al futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/07-como-las-organizaciones-se-adaptan-al-futuro.md)
 En base a un modelo propuesto por Jacob Morgan creador del libro "The Future of Work" planteamos una guía para transformar a una organización tradicional a una del futuro.
 
 ## Detalles logísticos

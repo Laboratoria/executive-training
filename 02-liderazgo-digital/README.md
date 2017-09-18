@@ -134,3 +134,9 @@ Incluir una lista de cursos similares que sirvan como referencia.
 - Quora.com (2015) What does apigee do? [online] Quora. Available at: https://www.quora.com/What-does-Apigee-do
 - DOERRFELD, B. (2016) Fintech & APIs: Making a bank programmable. [online] Nordic Apis. Available at: https://nordicapis.com/fintech-and-apis-making-a-bank-programmable/
 - DOERRFELD, B. (2015) Balancing complexity and simplicity in API design. [online] Nordic Apis. Available at: https://nordicapis.com/balancing-complexity-and-simplicity-in-api-design/
+
+### Sesión 3
+- PATEL, N.; Taylor, B. The Definitive Guide to Growth Hacking [online] Quicksprout. Available at: https://www.quicksprout.com/the-definitive-guide-to-growth-hacking-chapter-1/
+
+### Sesión 4
+- WESTERMAN, G. (2014) Leading Digital Transformation. [online] TechCrunch. Available at: https://techcrunch.com/2014/11/21/leading-digital-transformation/

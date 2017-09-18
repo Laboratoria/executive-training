@@ -124,6 +124,7 @@ Incluir una lista de cursos similares que sirvan como referencia.
 - FastCompany.com (2015) Slack's Founder On How They Became a $1 Billion Company in Two Years. [online] FastCompany. Available at: https://www.fastcompany.com/3041905/slacks-founder-on-how-they-became-a-1-billion-company-in-two-years
 
 ### Sesión 2
+- KNIBERG, H. (2014) Spotify Engineering Culture - Part 1. [online] Spotify Labs. Available at: https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
 - MEMON, T. (2015) Project vs Product. [online] Thoughtworks blog. Available at: https://www.thoughtworks.com/insights/blog/project-vs-product
 - RIGGINS, J. (2015) How APIs are disrupting the way we think. [online] Nordic Apis. Available at: https://nordicapis.com/how-apis-are-disrupting-the-way-we-think/
 - HUGHES, M. (2015) What are APIs and how are open APIs changing the internet. [online] MakeUseOf. Available at: http://www.makeuseof.com/tag/api-good-technology-explained/

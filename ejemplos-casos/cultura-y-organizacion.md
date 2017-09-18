@@ -18,11 +18,9 @@ Trabajadores y jefes colaboran para hacer esto posible. Una vez que un trabajado
 El jefe tratará de resolver el problema, y si este no se puede solucionar en el tiempo disponible, el TRABAJADOR puede parar producción hasta que se resuelva.
 Entonces el equipo podrá experimentar, e implementar, luego con ideas que puedan prevenir que el problema ocurra de nuevo.
 
-#### the heart of the TPS is creating a high-trust culture which everybody is aligned in their goal of building a high quality product on demand and where workers
-and managers collaborate across functions to constantly improve the system.
+#### the heart of the TPS is creating a high-trust culture which everybody is aligned in their goal of building a high quality product on demand and where workers and managers collaborate across functions to constantly improve the system.
 
-These ideas from the TPS - a high-trust culture focused on continuous improvement, powered by alignment and autonomy at all levels - are essential to building a large
-organization that can help adapt rapidly to changing conditions.
+These ideas from the TPS - a high-trust culture focused on continuous improvement, powered by alignment and autonomy at all levels - are essential to building a large organization that can help adapt rapidly to changing conditions.
 
 ## TPS vs Scientific Management
 Scientific Management indica que el trabajo de gestionar se basa en distribuir el trabajo en tareas pequeñas y definidas. Luego, estas tareas son realizadas por especialistas que no necesitan entender nada más que hacer su trabajo eficientemente.

@@ -107,6 +107,7 @@ Incluir una lista de cursos similares que sirvan como referencia.
 
 ## Lecturas complementarias
 
+### Sesión 1
 - Vanderbilt, T. (2017). Why GE has a 'fail fast' startup for rally fighters and pizza ovens. [online] WIRED UK. Available at: http://www.wired.co.uk/article/ge-startup-fail-fast-crowdsourcing [Accessed 2016].
 - Krishnan, G. (2017). Selecting the best artwork for videos through A/B testing. [online] Medium. Available at: http://techblog.netflix.com/2016/05/selecting-best-artwork-for-videos.html [Accessed 2016].
 - HILL, K. (2017). Forbes Welcome. [online] Forbes.com. Available at: https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#77ab60556668 [Accessed 2016].
@@ -114,3 +115,28 @@ Incluir una lista de cursos similares que sirvan como referencia.
 - BIG DATA. BIG BUSINESS. How Fortune 500 Companies Leverage Data in the Digital Age. (2017). [ebook] GENERAL ASSEMBLY. Available at: https://drive.google.com/file/d/0BwVQmf2PwJM3YzJYeXYwcGRwVlk/view [Accessed 2016].
 - Forbes.com. (2017). Forbes Welcome. [online] Available at: https://www.forbes.com/sites/benkepes/2014/10/09/digital-transformation-doesnt-have-to-disrupt-walgreens-shows-how/#3d8b41966d38 [Accessed 2016].
 - News.samsung.com. (2017). Startups: The Secret Ingredient of Samsung’s Open Innovation. [online] Available at: https://news.samsung.com/global/startups-the-secret-ingredient-of-samsungs-open-innovation [Accessed 2016].
+- CLOUGH, R. (2014) General Electric wants to act like a startup. [online] Bloomberg. Available at: https://www.bloomberg.com/news/articles/2014-08-07/ge-taps-lean-startup-ideas-for-faster-cheaper-product-rollout
+- DAHL, D. (2014). How Kaggle uses the crowd to solve your big data problems. Inc. [online] Available at: https://www.inc.com/magazine201403/darren-dahl/big-data-crowdsourcing-kaggle.html
+- EMPSON, T. (2013) Instagram and Intuit founders discuss Lean Startups, Pivots, and what makes a product successful. [online] TechCrunch. Available at: https://techcrunch.com/2011/09/13/instagram-and-intuit-founders-discuss-lean-startups-pivots-and-what-makes-a-product-successful/
+- MADDEN, S. (2012) How companies like Amazon use data to make you love them. [online] FastCompany. Available at: https://www.fastcodesign.com/1669551/how-companies-like-amazon-use-big-data-to-make-you-love-them
+- GONZÁLES, F. (2015) Transforming an Analog Company into a Digital Company: The Case of BBVA. [online] MIT Technology Review. Available at: https://www.technologyreview.com/s/535711/transforming-an-analog-company-into-a-digital-company-the-case-of-bbva/
+- MOHOUT, O. (2015) Hyper Scalable business models: the digital key to extreme growth for startups. [online] Linkedin. Available at: https://www.linkedin.com/pulse/hyper-scalable-business-models-digital-key-extreme-growth-omar-mohout
+- FastCompany.com (2015) Slack's Founder On How They Became a $1 Billion Company in Two Years. [online] FastCompany. Available at: https://www.fastcompany.com/3041905/slacks-founder-on-how-they-became-a-1-billion-company-in-two-years
+
+### Sesión 2
+- KNIBERG, H. (2014) Spotify Engineering Culture - Part 1. [online] Spotify Labs. Available at: https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
+- MEMON, T. (2015) Project vs Product. [online] Thoughtworks blog. Available at: https://www.thoughtworks.com/insights/blog/project-vs-product
+- RIGGINS, J. (2015) How APIs are disrupting the way we think. [online] Nordic Apis. Available at: https://nordicapis.com/how-apis-are-disrupting-the-way-we-think/
+- HUGHES, M. (2015) What are APIs and how are open APIs changing the internet. [online] MakeUseOf. Available at: http://www.makeuseof.com/tag/api-good-technology-explained/
+- RIGGINS, J. (2015) Top 5 API monetization models. [online] Nordic Apis. Available at: https://nordicapis.com/top-5-api-monetization-models/ 
+- BRUNO, P. (2014) Designing APIs for Humans. [online] Nordic Apis. Available at: https://nordicapis.com/designing-apis-humans/
+- DOERRFELD, B. (2015) Envisioning the entire API lifecycle. [online] Nordic Apis. Available at: https://nordicapis.com/envisioning-the-entire-api-lifecycle/ 
+- Quora.com (2015) What does apigee do? [online] Quora. Available at: https://www.quora.com/What-does-Apigee-do
+- DOERRFELD, B. (2016) Fintech & APIs: Making a bank programmable. [online] Nordic Apis. Available at: https://nordicapis.com/fintech-and-apis-making-a-bank-programmable/
+- DOERRFELD, B. (2015) Balancing complexity and simplicity in API design. [online] Nordic Apis. Available at: https://nordicapis.com/balancing-complexity-and-simplicity-in-api-design/
+
+### Sesión 3
+- PATEL, N.; Taylor, B. The Definitive Guide to Growth Hacking [online] Quicksprout. Available at: https://www.quicksprout.com/the-definitive-guide-to-growth-hacking-chapter-1/
+
+### Sesión 4
+- WESTERMAN, G. (2014) Leading Digital Transformation. [online] TechCrunch. Available at: https://techcrunch.com/2014/11/21/leading-digital-transformation/

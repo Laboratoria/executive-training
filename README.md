@@ -1,165 +1,116 @@
-# 01. How to hire tech talent
+# 01. Liderazgo Digital
 
-La manera en que las empresas hacen negocios se ha transformado radicalmente en la era digital. Hoy es posible reconocer cinco tendencias que hacen que las empresas puedan seguir compitiendo en un mundo que avanza aceleradamente.   
+Los líderes digitales están en constante búsqueda de entender cómo el mundo digital transforma su negocio y cómo pueden implementar las oportunidades que trae consigo. Este curso está diseñado para "cambiar el chip" de los líderes y orientarlos a sentar las bases que los ayudarán a empezar la transformación digital.
+ 
+Partiremos con una visión general de cómo la tecnología ha cambiado, y sigue cambiando, industrias; por qué el uso de digital ha sido un elemento clave para este cambio, y qué estrategias utilizan las empresas que están ganando en digital. Luego abordaremos los retos que existen en cuanto a cultura, estructura organizacional y plataforma tecnológica, cuando se desarrollan productos que están en constante evolución. Entenderemos cómo los startups usan el “innovation accounting” a través del growth hacking para medir y hacer crecer sus productos digitales. Finalmente, revisaremos los modelos de transformación digital, y las estrategias que las empresas tradicionales deben aplicar para llegar a una verdadera transformación.
 
-El objetivo de este workshop es reflexionar sobre estas tendencias y alinearlas a los procesos de identificación de talento que hoy tiene las empresas.
-Nuestro objetivo es lograr que los equipos que reclutar talento comprendan cuales son las habilidades del futuro para tener una fuerza laboral que lleve al negocio a ser líder en su rubro aprovechando los beneficios de la era digital.
 
 ## Público objetivo
 
-C-Suite, Recursos Humanos y Product Owners
+Líderes estratégicos (Directores, Gerentes, Jefes) de todas las áreas del negocio (márketing, TI, comercial, recursos humanos, etc.) que desean desarrollar el roadmap estratégico para la transformación digital de la empresa.
+ 
 
 ## Requerimientos previos
 
-No se necesitan conocimientos previos para tomar este workshop, solo estar en una posición relacionada a interactuar con identificación de talento para una empresa.
+No se necesitan conocimientos previos para tomar este workshop.
+
 
 ## Aprenderás
 
-En este workshop exploraremos los siguientes temas:
+**1. Transformational Change**
+Cómo implementar una estrategia de transformación digital en tu organización, que te ayudará a dar el primer gran paso al cambio.
 
-### Presencial
-1. Tendencias que están cambiando al mundo
-2. Entendiendo al colaborador
-3. Siete principios del trabajador del futuro
-4. El gerente tradicional 
-5. Los diez principios del nuevo gerente
-6. Las organizaciones del futuro y sus catorce principios
-7. Como las organizaciones se adaptan al futuro
+**2. Agile Mindset**
+Sabrás cómo fomentar una cultura ágil, donde el error está permitido para aprender de manera rápida, fácil y barata. Además, conocerás la importancia de organizarse en equipos multidisciplinarios y autónomos.
+
+**3. Lean Product Management**
+Tendrás un entendimiento general de las etapas, el equipo y los procesos para crear un producto digital en ambientes de alta incertidumbre; bajo el “feedback loop” de construir, medir y aprender.
+
+**4. Growth Hacking**
+Entenderás cómo combinar técnicas de márketing tradicional con una obsesión por la analítica, el código y la experimentación para atraer,  retener y aumentar tu base de clientes.
+
+## Syllabus
+
+El curso de Liderazgo Digital se compone de 1 pre-work, 4 sesiones presenciales y 1 sesión opcional por parte de la empresa:
+
+**Pre-Work: Basic Concepts - 1.5 hr**
+Este material será compartido días previos para su acceso online en nuestra plataforma educativa. Los videos explican conceptos básicos que también se verán en las sesiones presenciales:
+
+- Producto Mínimo Viable y desarrollo de clientes
+- Desarrollo “Agile” y “Lean Startup”
+- Growth Hacking
+- Etapas de crecimiento de un producto digital
+- Etapas y roles en el desarrollo de productos digitales
+- Diseño de experiencia usuario
+
+**Sesión 1: Assessing the Landscape - 3 hr**
+- Creencias dañinas
+- Lean: creando productos y servicios en el mundo digital
+- ¿Por qué digital es diferente?
+- Las 4 estrategias para ganar en digital
+
+**Sesión 2: Retos de la cultura, organización y plataforma tecnológica - 3 hr**
+- ¿Qué hacen las empresas para desarrollar una cultura y organización adecuada?
+- Cultura “fail-friendly” y mentalidad “agile”
+- Proyecto vs. Producto
+- El equipo en el proceso de desarrollo
+Los retos de la plataforma tecnológica
+- Sistemas Legacy
+- ¿Qué son APIs y por qué son importantes?
+
+**Sesión 3: Growth Hacking y Data Analytics - 3 hr**
+- Vanity Metrics
+- Márketing Tradicional vs. Growth Hacking
+- Growth Hackers skills set
+- Lean Analytics Framework
+
+**Sesión 4: Transformación Digital y Conclusiones - 3 hr**
+- Proceso de Transformación Digital
+- Estructura organizacional de la transformación digital
+- Recap: Key Messages
+- Caso práctico
+- Presentación de grupos y cierre
+
+**Sesión Opcional: User-centered Design when creating a Digital Product**
+Por un costo adicional, se puede agregar una quinta sesión sobre UX Design para líderes.
+- Definiciones y aclaraciones: ¿Qué es UX y UXD?
+- Roles dentro de UX y herramientas que se usan en el proceso de UXD
+- ¿Qué roles se necesitan dentro del “lean development cycle” y por qué son importantes?
+- Identificando talento en UX (skills set)
+- Implementando “UX quick wins” que establezcan un enfoque user-centered en tu organización
+
 
 ## Detalles logísticos
 
-* Presencial: 3 hrs
-* Total horas: 3 hrs
+* Online: 1.5 hr 
+* Presencial: 12 hrs
+* Total horas: 13.5 hrs
+* Lugar: Oficina de la empresa
 
 ***
 
 ## Autor(es) / Colaboradores
 
-* [Herman Marin](https://www.linkedin.com/in/herman-marin/)
-* [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/)
+* [Herman Marin](https://www.linkedin.com/in/herman-marin/):
+* [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/):
 
-## Libros
+## Libros (mínimo 3)
 
-- [The Future of Work by Jacob Morgan](https://www.amazon.com/Future-Work-Attract-Competitive-Organization/dp/1118877241/ref=la_B00703V3WO_1_2?s=books&ie=UTF8&qid=1394472808&sr=1-2)
+- Ries, E. (2011). The lean startup. Crown Pub Inc.
+- KANE, G., PALMER, D., PHILLIPS, A., KIRON, D. and BUCKLEY, N. (2017). Strategy, not Technology, Drives Digital Transformation. [online] MIT Sloan Management Review. Available at: http://sloanreview.mit.edu/projects/strategy-drives-digital-transformation/ [Accessed 8 Jun. 2016].
+- Blank, S. and Dorf, B. (2012). The Startup Owner's Manual. The step-by-step guide for building a great company. Pescadero, Calif.: K&S Ranch, Inc.
+- Croll, A. and Yoskovitz, B. (2013). Lean analytics. Sebastopol, California: O'Reilly.
+
+## Benchmarks
+
+Incluir una lista de cursos similares que sirvan como referencia.
 
 ## Lecturas complementarias
 
-### Lección 1
-- [FedEx Joins the Internet of Things with Senseaware](https://readwrite.com/2009/12/04/fedex_joins_the_internet_of_things_with_senseaware/)
-
-### Lección 2
-- [Gallup](http://www.gallup.com/)
-- [Kelly Outsourcing and Consulting Group](http://www.kellyservices.co.in/)
-- [Journal of Applied Psychology](http://www.apa.org/pubs/journals/apl/)
-
-### Lección 3
-- [The 7 Principles Of The Future Employee, Forbes](https://www.forbes.com/sites/jacobmorgan/2014/11/11/the-7-principles-of-the-future-employee/#37654d5d4cac)
-- [Remote Working: Who's Right?](https://www.forbes.com/sites/edwardlawler/2013/05/15/remote-working-whos-right/#36e736173a79)
-- [Agile Working Driving A Cultural Transformation At Unilever](http://www.unwired.eu.com/WT12/asia/_pdfs/WORKTECH12Asia-Unilever.pdf)
-- [The Future of Work Reshaping the Workplace Today Building for Tomorrow](https://thefutureorganization.com/future-work-research-report/)
-- [Employees Prefer Flexibility over Salary Increases](https://www.recruiter.com/i/employees-prefer-flexibility-over-salary-increases/)
-- [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
-
-### Lección 4
-- [Need a Job?, Invent It](http://www.nytimes.com/2013/03/31/opinion/sunday/friedman-need-a-job-invent-it.html)
-
-### Lección 5
-- [The 10 Principles Of The Future Manager](https://www.forbes.com/sites/jacobmorgan/2014/11/20/the-10-principles-of-the-future-manager/#27a80f6762de)
-- [The power of Vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability)
-- [The State of Employee Recognition * SHRM/GloboforceE Survey Tacker Results](http://www.globoforce.com/gfblog/2011/the-state-of-employee-recognition-shrmgloboforce-survey-tracker-results/)
-
-### Lección 6
-- [The 14 Principles Of The Future Organization](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jacobmorgan/2015/01/14/the-14-principles-of-the-future-organization/&refURL=https://www.google.com.pe/&referrer=https://www.google.com.pe/)
-- [The 'Two Pizza Rule' Is Jeff Bezos' Secret To Productive Meetings](http://www.businessinsider.com/jeff-bezos-two-pizza-rule-for-productive-meetings-2013-10)
-- [State of the American Workplace](http://www.gallup.com/reports/199961/state-american-workplace-report-2017.aspx?utm_source=SOAW&utm_campaign=StateofAmericanWorkplace&utm_medium=2013SOAWreport)
-- [Richard Branson on Intrapreneurs](http://www.nbcnews.com/id/41359235/ns/business-small_business/t/richard-branson-intrapreneurs/#.WWU11NMrIXo)
-- [Culture at Netflix](https://jobs.netflix.com/culture/#introduction)
-- [My Strabucks Idea](https://www.starbucks.com/coffeehouse/learn-more/my-starbucks-idea)
-- [The Real Story Behind Apple's Famous '1984' Super Bowl Ad](https://www.youtube.com/watch?v=PsjMmAqmblQ)
-- [The LEGO® Story](https://www.youtube.com/watch?v=NdDU_BBJW9Y)
-- [The Millennial Survey](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/millennial-survey.html)
-
-***
-
-## Syllabus
-
-### Lección 1: [Tendencias que están cambiando al Mundo](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/01-tendencias-que-estan-formando-el-mundo.md)
-
-Exploraremos las 5 tendencias que están haciendo que el mundo laboral cambie radicalmente. 
-- Nuevos comportamientos.
-- El desarrollo de nuevas tecnologías. 
-- Los Millennials en la fuerza laboral.
-- La movilidad.
-- La globalización.
-- ¿Qué es diferente esta vez?.
-
-### Lección 2: [Entendiendo al trabajador del futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/02-entendiendo-al-trabajador-del-futuro.md)
-Cuales son las características que deben tener los colaboradores del futuro.
-- El colaborador tradicional.
-- Colaboradores comprometidos.
-- Cinco generaciones se juntan.
-
-### Lección 3: [Siete principios del trabajador del futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/03-siete-principios-del-trabajador-del-futuro.md)
-Las siete características del trabajador del futuro son las siguientes:
-1. Tener un ambiente flexible donde las personas puedan trabajar en cualquier momento del día, o en cualquier lugar.
-2. Ser capaces de definir su ruta de crecimiento profesional.
-3. Compartir información de manera transparente en tiempo real.
-4. Usar nuevas formas para comunicarse y colaborar.
-5. Convertirse en líderes
-6. Cambiar la visión de ser trabajadores que tienen los conocimiento a tener un aprendizaje continuo.
-7. Aprender y enseñar a su ritmo.
-
-### Lección 4: [El gerente tradicional](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/04-el-manager-y-sus-diez-principios.md)
-Un vistazo a las funciones de los gerentes tradicionales y como estás se han convertido en practicas obsoletas en un industria que se mueve con tecnología.
-1. Jerarquías y Charts de estructuras organizacionales
-2. Annual Reviews
-3. Concentrarse en las tareas
-4. Los gerentes tienen acceso a la información para tomar desiciones
-5. Pocos controlan mucho
-6. No hay espacio para la experimentación
-7. Confianza en el pasado
-8. Enfoque en lo inadecuado
-
-### Lección 5: [Los diez principios del nuevo gerente](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/05-los-diez-principios-del-nuevo-gerente.md)
-Los gerentes necesitan entender las necesidades que traen al ambiente laboral los trabajadores del futuro. Estas necesidades requieren cambios profundos en las características de liderazgo de un gerente. Ellos tendrán que ajustarse para lograr obtener los resultados que tienen como objetivo. Los gerentes deberán seguir los siguientes principios.
-1. Debe ser un líder
-2. Empujar desde el frente
-3. Entiende la tecnología (Digital Fluent)
-4. Lidera con el ejemplo
-5. Deja ver sus vulnerabilidades
-6. Cree en compartir y tener inteligencia colectiva
-7. Es capaz de inspirar
-8. Brinda feedback y comentarios en tiempo real
-9. Es consciente de las barreras personales
-10. Se adapta al trabajador del futuro
-
-### Lección 6: [Las organizaciones del futuro y sus catorce principios](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/06-las-organizaciones-del-futuro-y-sus-catorce-principios.md)
-No solo los trabajadores y gerentes del futuro deben entender y adquirir los principios que les permitirán ser competitivos en el mundo de negocios en el que vivimos. También las empresas deben prepara su cultura y estructura organizacional para lograrlo. En esta lección aprenderemos cuales son esos principios:
-1. Distribución global con equipos pequeños
-2. Fuerza laboral conectada
-3. Intraemprendimiento
-4. Operar como una empresa pequeña
-5. Crear un ambiente de trabajo enfocado en el "QUE" y no en el "NECESITO" 
-6. Adaptarse al cambio rápido
-7. Innovación en todos lados
-8. Correr la operación en el "Cloud"
-9. Más mujeres en roles de liderazgo
-10. Estructuras organizacionales más horizontales
-11. Storytelling
-12. Democratizar el aprendizaje
-13. Cambiar de "utilidades" a "prosperidad"
-14. Adaptarse al trabajador y gerente del futuro
-
-### Lección 7: [Como las organizaciones se adaptan al futuro](https://github.com/Laboratoria/executive-training/blob/00-how-to-hire-tech-talent/00-how-to-hire-tech-talent/07-como-las-organizaciones-se-adaptan-al-futuro.md)
-En base a un modelo propuesto por Jacob Morgan creador del libro "The Future of Work" planteamos una guía para transformar a una organización tradicional a una del futuro.
-
-
-
-
-
-
-
-
-
-
-
+- Vanderbilt, T. (2017). Why GE has a 'fail fast' startup for rally fighters and pizza ovens. [online] WIRED UK. Available at: http://www.wired.co.uk/article/ge-startup-fail-fast-crowdsourcing [Accessed 2016].
+- Krishnan, G. (2017). Selecting the best artwork for videos through A/B testing. [online] Medium. Available at: http://techblog.netflix.com/2016/05/selecting-best-artwork-for-videos.html [Accessed 2016].
+- HILL, K. (2017). Forbes Welcome. [online] Forbes.com. Available at: https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#77ab60556668 [Accessed 2016].
+- O'keefe, B. (2017). The Man Who's Reinventing Walmart. [online] Fortune.com. Available at: http://fortune.com/2015/06/04/walmart-ceo-doug-mcmillon/ [Accessed 2016].
+- BIG DATA. BIG BUSINESS. How Fortune 500 Companies Leverage Data in the Digital Age. (2017). [ebook] GENERAL ASSEMBLY. Available at: https://drive.google.com/file/d/0BwVQmf2PwJM3YzJYeXYwcGRwVlk/view [Accessed 2016].
+- Forbes.com. (2017). Forbes Welcome. [online] Available at: https://www.forbes.com/sites/benkepes/2014/10/09/digital-transformation-doesnt-have-to-disrupt-walgreens-shows-how/#3d8b41966d38 [Accessed 2016].
+- News.samsung.com. (2017). Startups: The Secret Ingredient of Samsung’s Open Innovation. [online] Available at: https://news.samsung.com/global/startups-the-secret-ingredient-of-samsungs-open-innovation [Accessed 2016].

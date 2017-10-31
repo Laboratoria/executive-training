@@ -1,10 +1,12 @@
 # Creencias Dañinas: Cuando las grandes empresas se duermen en sus laureles
 
-¿De donde viene este dicho?
-Es lo que le decían a los atletas en Grecia, dado que al ganar sus laureles, muchas veces dejaban de practicar y venían nuevos atletas que les quitaban el puesto. Lo mismo sucede con las empresas, y hay muchos casos en que no solo les han quitado los "laureles", sino que las han desaparecido. Esto se debe a las "creencias dañinas" que tienen las empresas.
+¿De donde viene esta frase "no te duermas en tus laureles"?
+Es lo que le decían a los atletas en Grecia, dado que al ganar sus laureles, muchas veces dejaban de practicar y venían nuevos atletas que les quitaban el puesto. Lo mismo sucede con las empresas, muchas de ellas festejan su buena posición y éxito en el mercado, y no tienen una cultura de mejor continua. Es por ello que en muchos casos, han llegando nuevos jugadores a arrebatarles los "laureles", o inclusive a desaparecerlas del mapa. Las creencias dañinas son aquellas que nos hacen sentir seguros, y cómodos, haciendo lo mismo que venimos haciendo, puesto que no creemos que algo vaya a cambiar.
+
+A continuación, veremos algunos de los casos ms emblemáticos en cuanto a "creencias dañinas"
 
 ## Caso Kodak
-Tenemos el ejemplo de Kodak, donde su creencia dañina era: "La gente siempre necesitará rollo para sus cámaras". Pero en realidad "¿La gente SIEMPRE necesitará rollo fotográfico?", uno se pregunta qué es lo que realmente quieren las personas. El rollo es un "output", pero "el poder retener y mantener un recuerdo por siempre", es un "output". 
+Tenemos el ejemplo de Kodak, donde su creencia dañina era: "La gente siempre necesitará rollo para sus cámaras". Pero en realidad "¿La gente SIEMPRE necesitará rollo fotográfico?", uno se pregunta qué es lo que realmente quieren las personas. El rollo es un "output", es solo un producto, pero "el poder retener y mantener un recuerdo por siempre", es un "outcome", es el resultado final que las personas esperan. 
 Al llegar las cámaras digitales, las personas dejaron de estar interesados en el rollo, más aún cuando pudieron compartir fotos desde su celular en aplicaciones como "Instagram". Como dato curioso, fue Kodak el creador de la cámara digital, y ya tenía una plataforma considerada como una red social (Kodak EasyShare); sin embargo, no siguió explorando en ese terreno.
 
 ## Caso Blockbuster

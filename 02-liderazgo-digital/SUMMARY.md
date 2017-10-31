@@ -1,6 +1,6 @@
 [BIENVENIDA](README.md)
 
-* PRE-WORK: Conceptos básicos
+* [PRE-WORK: Conceptos básicos](executive-training/02-liderazgo-digital/00-prework)
 * [UNIDAD 1: Assesing the Landscape]()
    * [Creencias Dañinas](executive-training/02-liderazgo-digital/01-assesing-the-landscape/00-harmful-beliefs.md)
    * [Lean: desarrollando productos y servicios](executive-training/02-liderazgo-digital/01-assesing-the-landscape/01-lean.md)

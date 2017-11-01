@@ -122,6 +122,7 @@ Incluir una lista de cursos similares que sirvan como referencia.
 - GONZÁLES, F. (2015) Transforming an Analog Company into a Digital Company: The Case of BBVA. [online] MIT Technology Review. Available at: https://www.technologyreview.com/s/535711/transforming-an-analog-company-into-a-digital-company-the-case-of-bbva/
 - MOHOUT, O. (2015) Hyper Scalable business models: the digital key to extreme growth for startups. [online] Linkedin. Available at: https://www.linkedin.com/pulse/hyper-scalable-business-models-digital-key-extreme-growth-omar-mohout
 - FastCompany.com (2015) Slack's Founder On How They Became a $1 Billion Company in Two Years. [online] FastCompany. Available at: https://www.fastcompany.com/3041905/slacks-founder-on-how-they-became-a-1-billion-company-in-two-years
+- Harvard Business Review. (2017). Change Management Is Becoming Increasingly Data-Driven. Companies Aren’t Ready. [online] Available at: https://hbr.org/2017/10/change-management-is-becoming-increasingly-data-driven-companies-arent-ready [Accessed 1 Nov. 2017].
 
 ### Sesión 2
 - KNIBERG, H. (2014) Spotify Engineering Culture - Part 1. [online] Spotify Labs. Available at: https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/

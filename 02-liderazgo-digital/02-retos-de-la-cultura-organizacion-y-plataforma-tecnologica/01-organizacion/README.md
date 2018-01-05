@@ -10,7 +10,8 @@ En este video analizaremos como la estructura organizacional facilita
 que los equipos puedan tener la flexibilidad y el ecosistema adecuado
 para innovar.
 
-<iframe width="630" height="394" src="https://www.useloom.com/embed/6bffe7230e984a729dbf284e1d236d2f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
 
 Las cosas que se rescatan de esta entrevista son:
 

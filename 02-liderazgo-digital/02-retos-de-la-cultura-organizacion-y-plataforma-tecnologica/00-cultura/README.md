@@ -10,11 +10,12 @@ En este video analizaremos como la cultura organizacional se vuelve una
 pieza clave para producir un ecosistema que puede aprender rápidamente.
 
 
-[Cultura : Parte 1](https://www.useloom.com/share/90102cf63263435faa7f867c1e9c2d33)
+<iframe width="630" height="394" src="https://www.useloom.com/embed/90102cf63263435faa7f867c1e9c2d33" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Video : Spotify](https://vimeo.com/94950270)
+<iframe src="https://player.vimeo.com/video/94950270" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/94950270">Spotify Engineering Culture - part 2</a> from <a href="https://vimeo.com/user14023874">Spotify Training &amp; Development</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-[Cultura : Parte 2](https://www.useloom.com/share/9829eb5e520a4ee69e2b915f2d388e30)
+<iframe width="630" height="394" src="https://www.useloom.com/embed/9829eb5e520a4ee69e2b915f2d388e30" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Las cosas que se rescatan de esta entrevista son:
 

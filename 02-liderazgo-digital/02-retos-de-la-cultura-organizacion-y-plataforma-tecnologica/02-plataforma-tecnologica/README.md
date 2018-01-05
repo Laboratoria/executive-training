@@ -6,17 +6,15 @@
 
 ***
 
-En este video analizaremos como la estructura organizacional facilita 
-que los equipos puedan tener la flexibilidad y el ecosistema adecuado
-para innovar.
+En este video analizaremos como la plataforma tecnológica tiene que estar 
+construida para poder aprovechar las ventajas de la era digital.
 
-
-[Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
+[Estructura organizacional](https://www.useloom.com/share/fed77cfb19974c74a0b1984c2fd72004)
 
 Las cosas que se rescatan de esta entrevista son:
 
-* Equipos pequeños, autónomos, independientes, multidisciplinarios 
-	que tienen control end-to-end.
-* Proyectos vs. Products: Uno no es mejor que el otro, pero es importante
-	saber sus diferencias para poder asignar recursos.
-* El equipo debe estar distribuido en base a la metodología (Lean Startup).
+* La plataforma tiene que poder proyectar las 4 estrategias.
+* APIs como una herramienta para poder crecer y desarrollar 
+	canales de democratización de información.
+* APIs como un producto que tiene dos clientes: developers 
+	y usuarios.

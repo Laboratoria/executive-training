@@ -6,9 +6,8 @@
 
 ***
 
-En este video analizaremos como la cultura organizacional se vuelve una 
+En este video analizaremos como la cultura organizacional se vuelve una
 pieza clave para producir un ecosistema que puede aprender rápidamente.
-
 
 [Cultura : Parte 1](https://www.useloom.com/share/90102cf63263435faa7f867c1e9c2d33)
 
@@ -18,16 +17,16 @@ pieza clave para producir un ecosistema que puede aprender rápidamente.
 
 Las cosas que se rescatan de esta entrevista son:
 
-* Los cambios más relevantes suceden cuando hay una cultura que promueve 
-	la excelencia y la confianza.
+* Los cambios más relevantes suceden cuando hay una cultura que promueve la
+  excelencia y la confianza.
 * Procesos para documenta el aprendizaje:
-	1. Retrospectivas (aprender de los errores)
-	2. Improvement boards (tomar acción y corregir)
+  1. Retrospectivas (aprender de los errores)
+  2. Improvement boards (tomar acción y corregir)
 * Mecanismos para minimizar el riesgo
-	1. Limited blast radius
-	2. Tener control end-to-end
+  1. Limited blast radius
+  2. Tener control end-to-end
 * Actividades para promover la cultura
-	1. Training
-	2. Hiring
-	3. Storytelling
-	4. Desarrollar "role models"
+  1. Training
+  2. Hiring
+  3. Storytelling
+  4. Desarrollar "role models"

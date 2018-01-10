@@ -6,16 +6,16 @@ que trae consigo. Este curso está diseñado para "cambiar el chip" de los
 líderes y orientarlos a sentar las bases que los ayudarán a empezar la
 transformación digital.
 
-Partiremos con una visión general de cómo la tecnología ha cambiado, y
-sigue cambiando, industrias; por qué el uso de digital ha sido un elemento
-clave para este cambio, y qué estrategias utilizan las empresas que están
-ganando en digital. Luego abordaremos los retos que existen en cuanto a
-cultura, estructura organizacional y plataforma tecnológica, cuando se
-desarrollan productos que están en constante evolución. Entenderemos cómo
-los startups usan el “innovation accounting” a través del growth hacking
-para medir y hacer crecer sus productos digitales. Finalmente, revisaremos
-los modelos de transformación digital, y las estrategias que las empresas
-tradicionales deben aplicar para llegar a una verdadera transformación.
+Partiremos con una visión general de cómo la tecnología ha cambiado, y sigue
+cambiando, industrias; por qué el uso de digital ha sido un elemento clave para
+este cambio, y qué estrategias utilizan las empresas que están ganando en
+digital. Luego abordaremos los retos que existen en cuanto a cultura, estructura
+organizacional y plataforma tecnológica, cuando se desarrollan productos que
+están en constante evolución. Entenderemos cómo los startups usan el “innovation
+accounting” a través del growth hacking para medir y hacer crecer sus productos
+digitales. Finalmente, revisaremos los modelos de transformación digital, y las
+estrategias que las empresas tradicionales deben aplicar para llegar a una
+verdadera transformación.
 
 ## Público objetivo
 
@@ -32,26 +32,26 @@ No se necesitan conocimientos previos para tomar este workshop.
 
 **1. Transformational Change**
 
-Cómo implementar una estrategia de transformación digital en tu
-organización, que te ayudará a dar el primer gran paso al cambio.
+Cómo implementar una estrategia de transformación digital en tu organización,
+que te ayudará a dar el primer gran paso al cambio.
 
 **2. Agile Mindset**
 
 Sabrás cómo fomentar una cultura ágil, donde el error está permitido para
-aprender de manera rápida, fácil y barata. Además, conocerás la importancia
-de organizarse en equipos multidisciplinarios y autónomos.
+aprender de manera rápida, fácil y barata. Además, conocerás la importancia de
+organizarse en equipos multidisciplinarios y autónomos.
 
 **3. Lean Product Management**
 
-Tendrás un entendimiento general de las etapas, el equipo y los procesos
-para crear un producto digital en ambientes de alta incertidumbre; bajo el
-“feedback loop” de construir, medir y aprender.
+Tendrás un entendimiento general de las etapas, el equipo y los procesos para
+crear un producto digital en ambientes de alta incertidumbre; bajo el “feedback
+loop” de construir, medir y aprender.
 
 **4. Growth Hacking**
 
-Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
-por la analítica, el código y la experimentación para atraer,  retener y
-aumentar tu base de clientes.
+Entenderás cómo combinar técnicas de márketing tradicional con una obsesión por
+la analítica, el código y la experimentación para atraer,  retener y aumentar tu
+base de clientes.
 
 ## Syllabus
 
@@ -68,14 +68,14 @@ verán en las sesiones presenciales:
 - Etapas y roles en el desarrollo de productos digitales
 - Diseño de experiencia usuario
 
-### Unidad 1: [Assessing the Landscape](01-assesing-the-landscape)
+### Unidad 01: [Assessing the Landscape](01-assesing-the-landscape)
 
 - Creencias dañinas
 - Lean: creando productos y servicios en el mundo digital
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-<!-- ### Sesión 2: Retos de la cultura, organización y plataforma tecnológica
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -86,7 +86,7 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-### Sesión 3: [Growth Hacking y Data Analytics]
+<!-- ### Sesión 3: [Growth Hacking y Data Analytics]
 
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking

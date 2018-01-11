@@ -1,4 +1,4 @@
-# Growth Hacking & Data Analytics
+# Product-Market Fit
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -20,4 +20,4 @@ personas.
 * Saber si ya tienes PMF, dependerá de la propuesta de
 valor que ofreces. Lo mejor es empezar con un criterio 
 mínimo al que debas llegar, para saber que tienes un
-mercado. 
+mercado.

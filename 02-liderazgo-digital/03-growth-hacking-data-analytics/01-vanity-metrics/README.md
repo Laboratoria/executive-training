@@ -12,7 +12,6 @@ En este video hablaremos de los Vanity Metrics o Métricas de Vanidad:
 
 Las cosas que se rescatan de este video son:
 
-* Hay que saber diferencias cuáles son las métricas que realmente
-mueven la aguja del negocio.
-* Aunque en digital se puede medir todo, eso no significa que se
-debe medir todo.
+* Hay que saber diferencias cuáles son las métricas que realmente mueven la
+  aguja del negocio.
+* Aunque en digital se puede medir todo, eso no significa que se debe medir todo.

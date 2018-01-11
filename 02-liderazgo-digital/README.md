@@ -6,16 +6,16 @@ que trae consigo. Este curso está diseñado para "cambiar el chip" de los
 líderes y orientarlos a sentar las bases que los ayudarán a empezar la
 transformación digital.
 
-Partiremos con una visión general de cómo la tecnología ha cambiado, y
-sigue cambiando, industrias; por qué el uso de digital ha sido un elemento
-clave para este cambio, y qué estrategias utilizan las empresas que están
-ganando en digital. Luego abordaremos los retos que existen en cuanto a
-cultura, estructura organizacional y plataforma tecnológica, cuando se
-desarrollan productos que están en constante evolución. Entenderemos cómo
-los startups usan el “innovation accounting” a través del growth hacking
-para medir y hacer crecer sus productos digitales. Finalmente, revisaremos
-los modelos de transformación digital, y las estrategias que las empresas
-tradicionales deben aplicar para llegar a una verdadera transformación.
+Partiremos con una visión general de cómo la tecnología ha cambiado, y sigue
+cambiando, industrias; por qué el uso de digital ha sido un elemento clave para
+este cambio, y qué estrategias utilizan las empresas que están ganando en
+digital. Luego abordaremos los retos que existen en cuanto a cultura, estructura
+organizacional y plataforma tecnológica, cuando se desarrollan productos que
+están en constante evolución. Entenderemos cómo los startups usan el “innovation
+accounting” a través del growth hacking para medir y hacer crecer sus productos
+digitales. Finalmente, revisaremos los modelos de transformación digital, y las
+estrategias que las empresas tradicionales deben aplicar para llegar a una
+verdadera transformación.
 
 ## Público objetivo
 
@@ -32,26 +32,26 @@ No se necesitan conocimientos previos para tomar este workshop.
 
 **1. Transformational Change**
 
-Cómo implementar una estrategia de transformación digital en tu
-organización, que te ayudará a dar el primer gran paso al cambio.
+Cómo implementar una estrategia de transformación digital en tu organización,
+que te ayudará a dar el primer gran paso al cambio.
 
 **2. Agile Mindset**
 
 Sabrás cómo fomentar una cultura ágil, donde el error está permitido para
-aprender de manera rápida, fácil y barata. Además, conocerás la importancia
-de organizarse en equipos multidisciplinarios y autónomos.
+aprender de manera rápida, fácil y barata. Además, conocerás la importancia de
+organizarse en equipos multidisciplinarios y autónomos.
 
 **3. Lean Product Management**
 
-Tendrás un entendimiento general de las etapas, el equipo y los procesos
-para crear un producto digital en ambientes de alta incertidumbre; bajo el
-“feedback loop” de construir, medir y aprender.
+Tendrás un entendimiento general de las etapas, el equipo y los procesos para
+crear un producto digital en ambientes de alta incertidumbre; bajo el “feedback
+loop” de construir, medir y aprender.
 
 **4. Growth Hacking**
 
-Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
-por la analítica, el código y la experimentación para atraer,  retener y
-aumentar tu base de clientes.
+Entenderás cómo combinar técnicas de márketing tradicional con una obsesión por
+la analítica, el código y la experimentación para atraer,  retener y aumentar tu
+base de clientes.
 
 ## Syllabus
 
@@ -76,7 +76,7 @@ verán en las sesiones presenciales:
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-challenges-of-the-organizational-culture-and-platform-technology)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -87,7 +87,7 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-### Sesión 03: [Growth Hacking y Data Analytics]
+### Unidad 03: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
 
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
@@ -95,7 +95,7 @@ verán en las sesiones presenciales:
 - Etapas de crecimiento de un producto digital
 - Lean Analytics Framework
 
-### Sesión 04: [Transformación Digital y Conclusiones]
+### Unidad 04: [Transformación Digital y Conclusiones](04-transformation-models)
 
 - Proceso de Transformación Digital
 - Estructura organizacional de la transformación digital
@@ -103,7 +103,7 @@ verán en las sesiones presenciales:
 - Caso práctico
 - Presentación de grupos y cierre
 
-### Sesión Opcional: [User-centered Design when creating a Digital Product]
+<!-- ### Sesión Opcional: [User-centered Design when creating a Digital Product]
 
 Por un costo adicional, se puede agregar una quinta sesión sobre UX Design
 para líderes.
@@ -114,14 +114,14 @@ para líderes.
   importantes?
 - Identificando talento en UX (skills set)
 - Implementando “UX quick wins” que establezcan un enfoque user-centered en
-  tu organización -->
+  tu organización  -->
 
 ***
 
 ## Autor(es) / Colaboradores
 
-- Herman Marín: [Linkedin](https://www.linkedin.com/in/herman-marin/)
-- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
+- [Herman Marín](https://www.linkedin.com/in/herman-marin/)
+- [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/)
 
 ## Libros (mínimo 3)
 

@@ -1,4 +1,4 @@
-# Espacios de Mercado y Creencias Dañinas
+# Espacios de mercado y creencias dañinas
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,8 +6,8 @@
 
 ***
 
-En este video hablaremos de la importancia de saber cuál es nuestro
-espacio de mercado:
+En este video hablaremos de la importancia de saber cuál es nuestro espacio de
+mercado:
 
 [¿En qué espacio de mercado te encuentras?](https://www.useloom.com/share/cde507e3a27544c99696fc565d6cdfa9)
 
@@ -16,9 +16,9 @@ Las cosas que se rescatan de este video son:
 * Value input VS value output
 * ¿Qué es lo que realmente desea el cliente?
 * Hacer un "user activity cycle", en lugar de solo enfocarse en el "customer
-journey"
+  journey"
 * Crear una experiencia integrada, en lugar de enfocarnos en la industria de
-silo
+  silo
 
 ## Creencias Dañinas: Cuando las grandes empresas se duermen en sus laureles
 
@@ -42,4 +42,4 @@ A continuación, veremos algunos de los casos más emblemáticos en cuanto a
 Las disrupciones afectan otras industrias, por ejemplo el lanzamiento del iPhone
 tuvo grandes consecuencias:
 
-[cómo el iphone cambió al mundo](https://www.useloom.com/share/494a902772fd41e38089567861808b80)
+[Cómo el iphone cambió al mundo](https://www.useloom.com/share/494a902772fd41e38089567861808b80)

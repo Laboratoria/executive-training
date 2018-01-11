@@ -1,4 +1,4 @@
-# Growth Hacking & Data Analytics
+# Vanity Metrics
 
 * Tipo: `lectura`
 * Formato: `self-paced`

@@ -1,15 +1,15 @@
-# Retos de la organización
+# Retos de la plataforma tecnológica
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `50min`
+* Duración: `16min`
 
 ***
 
 En este video analizaremos como la plataforma tecnológica tiene que estar
 construida para poder aprovechar las ventajas de la era digital.
 
-[Estructura organizacional](https://www.useloom.com/share/fed77cfb19974c74a0b1984c2fd72004)
+[Estructura organizacional](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e)
 
 Las cosas que se rescatan de esta entrevista son:
 

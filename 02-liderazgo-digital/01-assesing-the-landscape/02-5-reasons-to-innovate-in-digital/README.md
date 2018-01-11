@@ -6,8 +6,8 @@
 
 ***
 
-En este video entenderemos las 5 razones que hacen a digital un gran 
-plataforma para innovar.
+En este video entenderemos las 5 razones que hacen a digital un gran plataforma
+para innovar.
 
 [5 razones por las cuales digital es un gran recurso para innovar](https://www.useloom.com/share/6b35e6e2402c46299f21550fc8c8ce13)
 

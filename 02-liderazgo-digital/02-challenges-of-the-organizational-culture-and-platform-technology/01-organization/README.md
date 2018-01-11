@@ -1,8 +1,8 @@
-# Retos de la organización
+# Retos de la estructura organizacional
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `50min`
+* Duración: `30min`
 
 ***
 

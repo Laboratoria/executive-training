@@ -70,12 +70,13 @@ verán en las sesiones presenciales:
 
 ### Unidad 01: [Assessing the Landscape](01-assesing-the-landscape)
 
+- Espacios de mercado
 - Creencias dañinas
 - Lean: creando productos y servicios en el mundo digital
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-challenges-of-the-organizational-culture-and-platform-technology)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -86,14 +87,15 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-<!-- ### Sesión 3: [Growth Hacking y Data Analytics]
+### Unidad 03: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
 
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
 - Growth Hackers skills set
+- Etapas de crecimiento de un producto digital
 - Lean Analytics Framework
 
-### Sesión 4: [Transformación Digital y Conclusiones]
+### Unidad 04: [Transformación Digital y Conclusiones](04-transformation-models)
 
 - Proceso de Transformación Digital
 - Estructura organizacional de la transformación digital
@@ -101,7 +103,7 @@ verán en las sesiones presenciales:
 - Caso práctico
 - Presentación de grupos y cierre
 
-### Sesión Opcional: [User-centered Design when creating a Digital Product]
+<!-- ### Sesión Opcional: [User-centered Design when creating a Digital Product]
 
 Por un costo adicional, se puede agregar una quinta sesión sobre UX Design
 para líderes.
@@ -112,14 +114,14 @@ para líderes.
   importantes?
 - Identificando talento en UX (skills set)
 - Implementando “UX quick wins” que establezcan un enfoque user-centered en
-  tu organización -->
+  tu organización  -->
 
 ***
 
 ## Autor(es) / Colaboradores
 
-- [Herman Marin](https://www.linkedin.com/in/herman-marin/):
-- [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/):
+- [Herman Marín](https://www.linkedin.com/in/herman-marin/)
+- [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/)
 
 ## Libros (mínimo 3)
 

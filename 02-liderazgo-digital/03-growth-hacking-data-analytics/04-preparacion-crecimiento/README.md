@@ -1,4 +1,4 @@
-# Growth Hacking & Data Analytics
+# Preparación para el crecimiento
 
 * Tipo: `lectura`
 * Formato: `self-paced`

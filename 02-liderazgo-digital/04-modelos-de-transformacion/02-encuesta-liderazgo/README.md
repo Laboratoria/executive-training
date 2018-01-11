@@ -1,23 +1,24 @@
-# Product-Market Fit
+# Strategy, not technology, drives Digital Transformation
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `14min`
+* Duración: `10min`
 
 ***
 
-Según Sean Ellis, existen 3 etapas en el crecimiento de un 
-startup o producto digital. Revisemos la primera de ellas:
+En esta encuesta hecha por el MIT y Deloitte podremos ver
+las diferentes percepciones de personas que trabajan en
+una empresa que se encuentra en una etapa inicial de la
+Transformación Digital versus una que se encuentra en una
+etapa más madura:
 
-[Primera etapa: Product Market Fit](https://www.useloom.com/share/80434aa1152c45c29e16e9b0a3669e2e)
+[Encuesta MIT y Deloitte](https://www.useloom.com/share/a61274633cfd48e9b7f4fece950af6fc)
+
+Puedes ver el reporte completo en este [link](https://www2.deloitte.com/content/dam/Deloitte/es/Documents/tecnologia/Deloitte_ES_Tecnologia-Strategy-not-techonology.pdf)
 
 Las cosas que se rescatan de este video son:
 
-* Vitamins VS Painkillers
-* Debes tener un mercado que haga fit con tu producto. Un 
-mercado es un grupo de personas, no solo son un par de 
-personas.
-* Saber si ya tienes PMF, dependerá de la propuesta de
-valor que ofreces. Lo mejor es empezar con un criterio 
-mínimo al que debas llegar, para saber que tienes un
-mercado.
+* El cambio debe venir desde arriba
+* La transformación empieza por las personas, y es por
+ello que la cultura es un elemento clave.
+* "Digital fluency" es diferente que "Digital Mastery"

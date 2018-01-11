@@ -70,6 +70,7 @@ verán en las sesiones presenciales:
 
 ### Unidad 1: [Assessing the Landscape](01-assesing-the-landscape)
 
+- Espacios de mercado
 - Creencias dañinas
 - Lean: creando productos y servicios en el mundo digital
 - ¿Por qué digital es diferente?
@@ -91,6 +92,7 @@ verán en las sesiones presenciales:
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
 - Growth Hackers skills set
+- Etapas de crecimiento de un producto digital
 - Lean Analytics Framework
 
 ### Sesión 4: [Transformación Digital y Conclusiones]

@@ -86,14 +86,14 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-<!-- ### Sesión 3: [Growth Hacking y Data Analytics]
+### Sesión 3: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
 
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
 - Growth Hackers skills set
 - Lean Analytics Framework
 
-### Sesión 4: [Transformación Digital y Conclusiones]
+### Sesión 4: [Transformación Digital y Conclusiones](04-modelos-de-transformación)
 
 - Proceso de Transformación Digital
 - Estructura organizacional de la transformación digital

@@ -1,8 +1,7 @@
-# Retos de la organización
+# Retos de la plataforma tecnológica
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
-* Duración: `50min`
 
 ***
 

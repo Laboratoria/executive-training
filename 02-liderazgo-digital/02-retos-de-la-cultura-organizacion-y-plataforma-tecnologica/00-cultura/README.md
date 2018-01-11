@@ -1,8 +1,7 @@
 # Retos de la cultura
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
-* Duración: `50min`
 
 ***
 

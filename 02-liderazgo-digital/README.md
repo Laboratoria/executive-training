@@ -68,7 +68,7 @@ verán en las sesiones presenciales:
 - Etapas y roles en el desarrollo de productos digitales
 - Diseño de experiencia usuario
 
-### Unidad 1: [Assessing the Landscape](01-assesing-the-landscape)
+### Unidad 01: [Assessing the Landscape](01-assesing-the-landscape)
 
 - Espacios de mercado
 - Creencias dañinas
@@ -76,7 +76,7 @@ verán en las sesiones presenciales:
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-### Unidad 2: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -87,7 +87,7 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-### Sesión 3: [Growth Hacking y Data Analytics]
+### Sesión 03: [Growth Hacking y Data Analytics]
 
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
@@ -95,7 +95,7 @@ verán en las sesiones presenciales:
 - Etapas de crecimiento de un producto digital
 - Lean Analytics Framework
 
-### Sesión 4: [Transformación Digital y Conclusiones]
+### Sesión 04: [Transformación Digital y Conclusiones]
 
 - Proceso de Transformación Digital
 - Estructura organizacional de la transformación digital

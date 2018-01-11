@@ -76,7 +76,7 @@ verán en las sesiones presenciales:
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-<!-- ### Sesión 2: Retos de la cultura, organización y plataforma tecnológica
+### Unidad 2: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -120,8 +120,8 @@ para líderes.
 
 ## Autor(es) / Colaboradores
 
-- [Herman Marin](https://www.linkedin.com/in/herman-marin/):
-- [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/):
+- Herman Marín: [Linkedin](https://www.linkedin.com/in/herman-marin/)
+- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
 
 ## Libros (mínimo 3)
 

@@ -54,13 +54,25 @@ Conocerás cómo se organiza un equipo, y qué tipo de talento necesitarás depe
 
 ## Libros (mínimo 3)
 
-- (incluir bibliografía)
+- (the lean startup, startup owner's manual, lean analytics, etc)
 
 ## Benchmarks
 
-Lean Product Management 280 group
+* [Lean Product Management 280 group](https://280group.com/)
 
 ## Lecturas complementarias
 
-Incluir una lista de _capítulos de libros_, _blog posts_, _videos_, y otros
-recursos como links a wikipedia, documentación, ...
+- https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818
+- http://www.proyectalis.com/AgileKaizen/the-book/ 
+- https://blog.aha.io/the-product-manager-vs-product-owner/ 
+- https://www.atlassian.com/agile/product-management
+- https://www.scrum.org/forum/scrum-forum/5861/diff-between-product-owner-and-product-manager-role
+- http://www.romanpichler.com/blog/product-manager-vs-product-owner/
+- https://www.slideshare.net/proyectalis/lean-startup-for-agile-product-management-drawingsprint/15More_at_httpSlidesharenetproyectalisproduct_death_cycle
+- https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e 
+- https://280group.com/product-management-blog/product-owner-vs-product-manager-exploration/
+- https://dzone.com/articles/product-owner-top-10 
+- http://theleanstartup.com/principles 
+- https://www.productplan.com/strategies-prioritize-product-features/ 
+- https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b
+- https://280group.com/products/books/lean-product-management-book/

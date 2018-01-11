@@ -31,31 +31,31 @@ No se necesitan conocimientos previos para tomar este workshop.
 ## Aprenderás
 
 **1. Transformational Change**
+
 Cómo implementar una estrategia de transformación digital en tu
 organización, que te ayudará a dar el primer gran paso al cambio.
 
 **2. Agile Mindset**
+
 Sabrás cómo fomentar una cultura ágil, donde el error está permitido para
 aprender de manera rápida, fácil y barata. Además, conocerás la importancia
 de organizarse en equipos multidisciplinarios y autónomos.
 
 **3. Lean Product Management**
+
 Tendrás un entendimiento general de las etapas, el equipo y los procesos
 para crear un producto digital en ambientes de alta incertidumbre; bajo el
 “feedback loop” de construir, medir y aprender.
 
 **4. Growth Hacking**
+
 Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
 por la analítica, el código y la experimentación para atraer,  retener y
 aumentar tu base de clientes.
 
 ## Syllabus
 
-El curso de Liderazgo Digital se compone de 1 pre-work, 4 sesiones
-presenciales
-y 1 sesión opcional por parte de la empresa:
-
-### Pre-Work: [Basic Concepts](00-videos)
+### Unidad 00: [Basic Concepts](00-prework)
 
 Este material será compartido días previos para su acceso online en nuestra
 plataforma educativa. Los videos explican conceptos básicos que también se
@@ -68,14 +68,16 @@ verán en las sesiones presenciales:
 - Etapas y roles en el desarrollo de productos digitales
 - Diseño de experiencia usuario
 
-### Sesión 1: [Assessing the Landscape](01-assesing-the-landscape)
+### Unidad 01: [Assessing the Landscape](01-assesing-the-landscape)
 
+- Espacios de mercado
 - Creencias dañinas
 - Lean: creando productos y servicios en el mundo digital
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-**Sesión 2: Retos de la cultura, organización y plataforma tecnológica**
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
+
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
 - Cultura “fail-friendly” y mentalidad “agile”
@@ -85,43 +87,41 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-**Sesión 3: Growth Hacking y Data Analytics**
+### Sesión 03: [Growth Hacking y Data Analytics]
+
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
 - Growth Hackers skills set
+- Etapas de crecimiento de un producto digital
 - Lean Analytics Framework
 
-**Sesión 4: Transformación Digital y Conclusiones**
+### Sesión 04: [Transformación Digital y Conclusiones]
+
 - Proceso de Transformación Digital
 - Estructura organizacional de la transformación digital
 - Recap: Key Messages
 - Caso práctico
 - Presentación de grupos y cierre
 
-**Sesión Opcional: User-centered Design when creating a Digital Product**
+### Sesión Opcional: [User-centered Design when creating a Digital Product]
+
 Por un costo adicional, se puede agregar una quinta sesión sobre UX Design
 para líderes.
+
 - Definiciones y aclaraciones: ¿Qué es UX y UXD?
 - Roles dentro de UX y herramientas que se usan en el proceso de UXD
 - ¿Qué roles se necesitan dentro del “lean development cycle” y por qué son
   importantes?
 - Identificando talento en UX (skills set)
 - Implementando “UX quick wins” que establezcan un enfoque user-centered en
-  tu organización
-
-## Detalles logísticos
-
-* Online: 1.5 hr
-* Presencial: 12 hrs
-* Total horas: 13.5 hrs
-* Lugar: Oficina de la empresa
+  tu organización -->
 
 ***
 
 ## Autor(es) / Colaboradores
 
-* [Herman Marin](https://www.linkedin.com/in/herman-marin/):
-* [Claudia Alfaro](https://www.linkedin.com/in/claudiaalfaro/):
+- Herman Marín: [Linkedin](https://www.linkedin.com/in/herman-marin/)
+- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
 
 ## Libros (mínimo 3)
 
@@ -136,6 +136,7 @@ para líderes.
 ## Lecturas complementarias
 
 ### Sesión 1
+
 - [Why GE has a 'fail fast' startup for rally fighters and pizza ovens](http://www.wired.co.uk/article/ge-startup-fail-fast-crowdsourcing)
 - [Selecting the best artwork for videos through A/B testing](http://techblog.netflix.com/2016/05/selecting-best-artwork-for-videos.html)
 - [How Target figured out a teen girl was pregnant before her father](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#77ab60556668)
@@ -153,6 +154,7 @@ para líderes.
 - [Change Management Is Becoming Increasingly Data-Driven](https://hbr.org/2017/10/change-management-is-becoming-increasingly-data-driven-companies-arent-ready)
 
 ### Sesión 2
+
 - [Spotify Engineering Culture - Part 1.](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 - [Project vs Product.](https://www.thoughtworks.com/insights/blog/project-vs-product)
 - [How APIs are disrupting the way we think.](https://nordicapis.com/how-apis-are-disrupting-the-way-we-think/)
@@ -165,7 +167,9 @@ para líderes.
 - [Balancing complexity and simplicity in API design.](https://nordicapis.com/balancing-complexity-and-simplicity-in-api-design/)
 
 ### Sesión 3
+
 - [The Definitive Guide to Growth Hacking](https://www.quicksprout.com/the-definitive-guide-to-growth-hacking-chapter-1/)
 
 ### Sesión 4
+
 - [Leading Digital Transformation](https://techcrunch.com/2014/11/21/leading-digital-transformation/)

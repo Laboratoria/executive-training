@@ -1,8 +1,8 @@
 # 5 razones por las cuales digital es un gran recurso para innovar
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
-* Duración: `50min`
+* Duración: `28min`
 
 ***
 

@@ -1,6 +1,6 @@
 # Espacios de Mercado y Creencias Dañinas
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
 * Duración: `20min`
 
@@ -15,10 +15,10 @@ Las cosas que se rescatan de este video son:
 
 * Value input VS value output
 * ¿Qué es lo que realmente desea el cliente?
-* Hacer un "user activity cycle", en lugar de solo enfocarse en el "customer
-journey"
-* Crear una experiencia integrada, en lugar de enfocarnos en la industria de
-silo
+* Hacer un "user activity cycle", en lugar de solo enfocarse en el 
+	"customer journey"
+* Crear una experiencia integrada, en lugar de enfocarnos en la 
+	industria de silo
 
 ## Creencias Dañinas: Cuando las grandes empresas se duermen en sus laureles
 

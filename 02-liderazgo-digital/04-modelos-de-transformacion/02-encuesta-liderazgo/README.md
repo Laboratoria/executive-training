@@ -1,6 +1,6 @@
 # Strategy, not technology, drives Digital Transformation
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
 * Duración: `10min`
 
@@ -20,5 +20,5 @@ Las cosas que se rescatan de este video son:
 
 * El cambio debe venir desde arriba
 * La transformación empieza por las personas, y es por
-ello que la cultura es un elemento clave.
+	ello que la cultura es un elemento clave.
 * "Digital fluency" es diferente que "Digital Mastery"

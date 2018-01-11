@@ -2,13 +2,15 @@
 
 * Tipo: `video`
 * Formato: `self-paced`
+* Duración: `15min`
 
 ***
 
-En este video analizaremos como la plataforma tecnológica tiene que estar 
-construida para poder aprovechar las ventajas de la era digital.
+En este video analizaremos como la plataforma tecnológica tiene 
+que estar construida para poder aprovechar las ventajas de la 
+era digital.
 
-[Estructura organizacional](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e)
+[Plataforma tecnológica](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e)
 
 Las cosas que se rescatan de esta entrevista son:
 

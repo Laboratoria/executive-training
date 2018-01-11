@@ -1,12 +1,14 @@
 # 4 estrategias para ganar en digital
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
+* Duración: `30min`
 
 ***
 
-En este video entenderemos las como 4 estrategias tienen que influenciar a la cultura, 
-estructura organizacional y plataforma tecnológica de una empresa que quiere transformarse.
+En este video entenderemos las como 4 estrategias tienen que 
+influenciar a la cultura, estructura organizacional y plataforma 
+tecnológica de una empresa que quiere transformarse.
 
 [Introducción y Adoptar la experimentación](https://www.useloom.com/share/94bee9d273224ec89c5c62497b0fa202)
 
@@ -18,16 +20,18 @@ estructura organizacional y plataforma tecnológica de una empresa que quiere tr
 
 Lecciones importantes:
 
-* Adoptar la experimentación: En lugar de apostar millones de dólares en soluciones que no 
-	llegan a tener tracción, los líderes de hoy están apostando por procesos de desarrollo 
-	iterativos, basados en la experimentación.
+* Adoptar la experimentación: En lugar de apostar millones de 
+	dólares en soluciones que no llegan a tener tracción, los líderes 
+	de hoy están apostando por procesos de desarrollo iterativos, 
+	basados en la experimentación.
 	
-* Open Innovation: Líderes de hoy están abiertos a poner en las manos de terceros la 
-	capacidad de crear propuestas de valor.
+* Open Innovation: Líderes de hoy están abiertos a poner en las 
+	manos de terceros la capacidad de crear propuestas de valor.
 
-* Diseño basado en data: Las empresas que ganan en digital tienen la capacidad de convertir 
-	data en conocimiento y utilizar ese conocimiento para diseñar mejores experiencias e 
-	impulsar el negocio.
+* Diseño basado en data: Las empresas que ganan en digital tienen 
+	la capacidad de convertir data en conocimiento y utilizar ese 
+	conocimiento para diseñar mejores experiencias e impulsar el negocio.
 
-* Integración de canales: Las empresas que ganan en digital reconocen que sus usuarios 
-	exigen que la experiencia a través de canales sea consistente, integrada y fluida.
+* Integración de canales: Las empresas que ganan en digital 
+	reconocen que sus usuarios exigen que la experiencia a través 
+	de canales sea consistente, integrada y fluida.

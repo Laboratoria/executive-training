@@ -28,12 +28,12 @@
 
 1. Es el que irrumpe en la seguridad de los sistemas para obtener data de manera
    ilegal
-2. Es la persona encarga de realizar diversos experimentos para optimizar el
+2. Es la persona encargada de realizar diversos experimentos para optimizar el
    embudo de marketing
 3. Es una persona que tiene amplios conocimientos en código para poder
    implementar sus estrategias
 
-<solution style="display:none;">1,2</solution>
+<solution style="display:none;">2</solution>
 
 ### 3) ¿Qué significa "salir del edificio"?
 
@@ -65,7 +65,7 @@
 3. Se utiliza para avanzar más rápido en un proyecto, puesto vamos cambiando la
    solución en el proceso
 
-<solution style="display:none;">3</solution>
+<solution style="display:none;">2</solution>
 
 ### 6) ¿Qué significa desarrollar bajo técnicas de "desarrollo ágil"?
 
@@ -79,7 +79,7 @@
 4. Todas las anteriores
 5. Solo la 1 y 3 son correctas
 
-<solution style="display:none;">3</solution>
+<solution style="display:none;">5</solution>
 
 ### 7) "Lean Startup" nace de la mezcla de *
 
@@ -89,7 +89,7 @@
 2. Desarrollo de cliente + Business Model Canvas
 3. Business Model Canvas + SCRUM
 
-<solution style="display:none;">3</solution>
+<solution style="display:none;">1</solution>
 
 ### 8) ¿Cuáles son las etapas de un producto digital?  *
 
@@ -99,7 +99,7 @@
 2. Product-market fit, preparse para el crecimiento y crecimiento
 3. Encontrar el product-market fit, crear un MVP y optimizar el modelo de negocios
 
-<solution style="display:none;">3</solution>
+<solution style="display:none;">2</solution>
 
 ### 9) Contesta si es verdadero o falso: En SCRUM, un "sprint" significa el desarrollo de todo el diseño del producto, para que luego pase a que le pongan código. *
 
@@ -118,4 +118,4 @@
 2. Que has encontrado a una persona que se interesa y quiere tu producto
 3. Todas las anteriores
 
-<solution style="display:none;">3</solution>
+<solution style="display:none;">1</solution>

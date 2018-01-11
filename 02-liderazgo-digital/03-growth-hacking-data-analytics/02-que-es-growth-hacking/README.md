@@ -1,4 +1,4 @@
-# Growth Hacking & Data Analytics
+# ¿Qué es Growth Hacking?
 
 * Tipo: `lectura`
 * Formato: `self-paced`

@@ -31,3 +31,21 @@ Las cosas que se rescatan de esta entrevista son:
 * Hay más de 10k versiones de facebook a la vez, dado que los ingenieros tienen
   la autoridad de correr sus experimentos cuando a ellos les convenga y medirlos
   para ver si funcionarán o no.
+
+### ¿Qué es Lean Startup?
+
+La definición en Wikipedia indica:
+*... es una metodología para desarrollar negocios y productos. La metodología 
+apunta a acortar los ciclos de desarrollo de productos adoptando una combinación 
+de experimentación impulsada por hipótesis para medir el progreso,lanzamientos
+de productos iterativos para ganar valiosa retroalimentación de los clientes y 
+aprendizaje validado para medir cuánto se ha aprendido.
+
+En este video podrás encontrar una explicación simple:
+
+[Lean Startup en 2 minutos](https://youtu.be/l9ET1WqRvSQ)
+
+Ahora sí, mira la explicación de los conceptos básicos de lean startup, y
+algunos ejemplos, en este video.
+
+[Lean Startup: conceptos] https://www.useloom.com/share/d71df04d762648b4b8cb8f6adad544d2

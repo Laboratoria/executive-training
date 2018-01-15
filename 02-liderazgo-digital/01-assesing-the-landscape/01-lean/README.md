@@ -48,4 +48,4 @@ En este video podrás encontrar una explicación simple:
 Ahora sí, mira la explicación de los conceptos básicos de lean startup, y
 algunos ejemplos, en este video.
 
-[Lean Startup: conceptos] https://www.useloom.com/share/d71df04d762648b4b8cb8f6adad544d2
+[Lean Startup: conceptos](https://www.useloom.com/share/d71df04d762648b4b8cb8f6adad544d2)

@@ -76,7 +76,7 @@ verán en las sesiones presenciales:
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-challeges-culture-organizational-structure-tech-platform)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -95,7 +95,7 @@ verán en las sesiones presenciales:
 - Etapas de crecimiento de un producto digital
 - Lean Analytics Framework
 
-### Sesión 04: [Transformación Digital y Conclusiones]
+### Sesión 04: [Transformación Digital y Conclusiones](04-digital-transformation-structure)
 
 - Proceso de Transformación Digital
 - Estructura organizacional de la transformación digital

@@ -87,7 +87,7 @@ verán en las sesiones presenciales:
 - Sistemas Legacy
 - ¿Qué son APIs y por qué son importantes?
 
-### Sesión 03: [Growth Hacking y Data Analytics]
+### Sesión 03: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
 
 - Vanity Metrics
 - Márketing Tradicional vs. Growth Hacking
@@ -102,19 +102,6 @@ verán en las sesiones presenciales:
 - Recap: Key Messages
 - Caso práctico
 - Presentación de grupos y cierre
-
-### Sesión Opcional: [User-centered Design when creating a Digital Product]
-
-Por un costo adicional, se puede agregar una quinta sesión sobre UX Design
-para líderes.
-
-- Definiciones y aclaraciones: ¿Qué es UX y UXD?
-- Roles dentro de UX y herramientas que se usan en el proceso de UXD
-- ¿Qué roles se necesitan dentro del “lean development cycle” y por qué son
-  importantes?
-- Identificando talento en UX (skills set)
-- Implementando “UX quick wins” que establezcan un enfoque user-centered en
-  tu organización -->
 
 ***
 

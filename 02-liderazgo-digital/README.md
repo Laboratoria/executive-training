@@ -76,7 +76,7 @@ verán en las sesiones presenciales:
 - ¿Por qué digital es diferente?
 - Las 4 estrategias para ganar en digital
 
-### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-challeges-culture-organizational-structure-tech-platform)
+### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-challenges-culture-organizational-structure-tech-platform)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?

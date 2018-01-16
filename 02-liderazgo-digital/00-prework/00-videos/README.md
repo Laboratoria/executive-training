@@ -15,26 +15,44 @@ sesiones presenciales.
 A lo largo de los siguientes videos revisaremos los conceptos más importantes
 alrededor de la creación de productos digitales.
 
-### Etapas y roles en el desarrollo de productos digitales
+### Producto Mínimo Viable y Desarrollo de Clientes
 
-[Etapas y roles en el desarrollo de productos digitales](https://youtu.be/ge4h5uJN6KI)
+Entendamos el concepto de MVP con un ejemplo de nuestra experiencia creando 
+productos.
 
-### Desarrollo Ágil
+[MVP y Desarrollo de clientes](https://youtu.be/9RPFz4WCx1s)
 
-[Desarrollo Ágil](https://youtu.be/kTFD12LBgZw)
+### Desarrollo Agile y Lean Startup
 
-### MVP y Desarrollo de clientes
+Entendamos qué es desarrollo ágil y cómo juntándolo con el proceso de desarrollo 
+de clientes obtenemos el popular marco de trabajo The Lean Startup
 
-[MVP y Desarrollo de clientes](https://www.youtube.com/watch?v=q-6Hkqb0DRg)
+[Desarrollo Ágil](https://youtu.be/Ne0hv2tYig4)
 
 ### ¿Qué es un Growth Hacker?
 
-[¿Qué es un Growth Hacker?](https://youtu.be/FQxd7ZWLbGs)
+Entendamos qué es un Growth Hacker y por qué necesitas uno para crecer tu 
+producto digital.
+
+[¿Qué es un Growth Hacker?](https://youtu.be/OS49dZ6WeP4)
 
 ### Etapas de crecimiento de un producto digital
 
-[Etapas de crecimiento de un producto digital](https://youtu.be/XcrIYEZO2ds)
+Para crecer tu producto digital hay que empezar por asegurar que tenga 
+product-market fit y un modelo rentable de adquisición de usuarios. Aquí te lo
+explicamos.
+
+[Etapas de crecimiento de un producto digital](https://youtu.be/0knzl9K5uRc)
+
+### Etapas y roles en el desarrollo de productos digitales
+
+Conoce el equipo que está detrás de crear un producto digital y cómo trabajan 
+entre ellos
+
+[Etapas y roles en el desarrollo de productos digitales](https://youtu.be/UI1pUqfKitU)
 
 ### User Experience
 
-[User Experience](https://youtu.be/SBIvPTSy1QM)
+Entendamos qué se hace en la etapa de diseño de productos digitales.
+
+[User Experience](https://youtu.be/wmmVhVIxW-A)

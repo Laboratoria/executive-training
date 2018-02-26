@@ -6,7 +6,7 @@
 
 ***
 
-## BIENVENID@
+## BIENVENIDX
 Hola! y bienvenid@ al curso. Aquí hablaremos más sobre el entorno digital y cómo
 esta era está cambiando la manera en que hacemos negocios.
 
@@ -16,7 +16,7 @@ empresas en el mundo para ganar en digital, y lo que realmente significa ello.
 En el segundo nivel, se verán conceptos básicos y metodologías que se usan para
 la creación de productos digitales.
 
-Recuerdo que solo podrás pasar al segundo nivel cuando respondas todos los
+Recuerda que solo podrás pasar al segundo nivel cuando respondas todos los
 cuestionarios del primer nivel.
 
 EMPEZAMOS!

@@ -20,32 +20,27 @@ No se necesitan conocimientos previos para tomar este workshop.
 
 ## Aprenderás
 
-**1. Transformational Change**
+**1. Agile Mindset**
 
-Cómo implementar una estrategia de transformación digital en tu
-organización, que te ayudará a dar el primer gran paso al cambio.
-
-**2. Agile Mindset**
-
-Sabrás cómo fomentar una cultura ágil, donde el error está permitido para
+Sabrás cómo interactuar con una cultura ágil, donde el error está permitido para
 aprender de manera rápida, fácil y barata. Además, conocerás la importancia
-de organizarse en equipos multidisciplinarios y autónomos.
+de organizarse en equipos multidisciplinarios, autónomos e independientes.
 
-**3. Lean Product Management**
+**2. Lean Product Management**
 
 Tendrás un entendimiento general de las etapas, el equipo y los procesos
 para crear un producto digital en ambientes de alta incertidumbre; bajo el
 “feedback loop” de construir, medir y aprender.
 
-**4. Growth Hacking**
+**3. Growth **
 
 Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
-por la analítica, el código y la experimentación para atraer,  retener y
+por la analítica, el código y la experimentación para atraer, retener y
 aumentar tu base de clientes.
 
 ## Syllabus
 
-### Sesión 01: [Assessing the Landscape](01-assesing-the-landscape)
+### Sesión 01: Assessing the Landscape](01-assesing-the-landscape
 
 - Espacios de mercado
 - Creencias dañinas
@@ -55,7 +50,7 @@ aumentar tu base de clientes.
 - Las razones que hacen a digital un gran plataforma para innovar
 - Las 4 estrategias para ganar en digital
 
-### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](02-challenges-culture-organizational-structure-tech-platform)
+### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -71,7 +66,7 @@ aumentar tu base de clientes.
 - Tecnología
     - Democratización de la información
 
-### Sesión 03: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
+### Sesión 03: Growth
 
 - Vanity Metrics
 - ¿Qué es un growth?
@@ -80,14 +75,15 @@ aumentar tu base de clientes.
 - Etapas de crecimiento de un producto digital
 	- Problem Solution Fit
 	- Product Market Fit
-	- Pirat Metrics Funnel
+	- Pirate Metrics Funnel
 - Lean Analytics Framework
 
 ***
 
-## Autor(es) / Colaboradores
+## Facilitadores
 
 - Herman Marín: [Linkedin](https://www.linkedin.com/in/herman-marin/)
+- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
 
 ## Libros (mínimo 3)
 

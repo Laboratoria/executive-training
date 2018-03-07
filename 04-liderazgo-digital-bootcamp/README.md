@@ -32,7 +32,7 @@ Tendrás un entendimiento general de las etapas, el equipo y los procesos
 para crear un producto digital en ambientes de alta incertidumbre; bajo el
 “feedback loop” de construir, medir y aprender.
 
-**3. Growth **
+**3. Growth**
 
 Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
 por la analítica, el código y la experimentación para atraer, retener y

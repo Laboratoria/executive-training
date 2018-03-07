@@ -45,7 +45,7 @@ aumentar tu base de clientes.
 
 ## Syllabus
 
-### Unidad 01: [Assessing the Landscape](01-assesing-the-landscape)
+### Sesión 01: [Assessing the Landscape](01-assesing-the-landscape)
 
 - Espacios de mercado
 - Creencias dañinas
@@ -55,7 +55,7 @@ aumentar tu base de clientes.
 - Las razones que hacen a digital un gran plataforma para innovar
 - Las 4 estrategias para ganar en digital
 
-### Unidad 02: [Retos de la cultura, organización y plataforma tecnológica](02-challenges-culture-organizational-structure-tech-platform)
+### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](02-challenges-culture-organizational-structure-tech-platform)
 
 - ¿Qué hacen las empresas para desarrollar una cultura y organización
   adecuada?
@@ -71,7 +71,7 @@ aumentar tu base de clientes.
 - Tecnología
     - Democratización de la información
 
-### Unidad 03: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
+### Sesión 03: [Growth Hacking y Data Analytics](03-growth-hacking-data-analytics)
 
 - Vanity Metrics
 - ¿Qué es un growth?

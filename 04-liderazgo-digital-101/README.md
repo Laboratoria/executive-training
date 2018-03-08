@@ -1,4 +1,4 @@
-# Liderazgo Digital - Bootcamp
+# Liderazgo Digital 101
 
 Los nuevos profesionales que se integran a la industria tecnológica 
 necesitan saber cuales son las estrategias que implementan las empresas 

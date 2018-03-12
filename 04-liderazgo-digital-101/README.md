@@ -48,7 +48,7 @@ aumentar tu base de clientes.
 - Transformación Digital y Metodologías
 - Lean Startup: creando productos y servicios en el mundo digital
 - Las razones que hacen a digital un gran plataforma para innovar
-- Las 4 estrategias para ganar en digital
+- Las 4 estrategias para ganar en digital (principal enfoque en la estrategia de experimentación)
 
 ### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
 
@@ -64,14 +64,14 @@ aumentar tu base de clientes.
     - Eliminar dependencias
     - Definition of Awesomeness  
 - Tecnología
-    - Democratización de la información
+    - Democratización de la información y su importancia en la cultura de experimentación y recopilación de data.
 
 ### Sesión 03: Growth
 
-- Vanity Metrics
+- Eliminar las métricas vanidosas
 - ¿Qué es un growth?
 - Márketing Tradicional vs. Growth Hacking
-- El rol del Growth Hackers
+- El rol del Growth Hackers en una mentalidad Lean
 - Etapas de crecimiento de un producto digital
 	- Problem Solution Fit
 	- Product Market Fit
@@ -83,7 +83,8 @@ aumentar tu base de clientes.
 ## Facilitadores
 
 - Herman Marín: [Linkedin](https://www.linkedin.com/in/herman-marin/)
-- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
+- Rodulfo Prieto: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
+- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/rodulfoprieto/)
 
 ## Libros (mínimo 3)
 
